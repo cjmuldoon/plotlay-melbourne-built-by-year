@@ -1,0 +1,1549 @@
+structure_id,lat,lng,year,floors,height_m,parts,match,records,address,name,use,refurbished
+800000,-37.807103,144.961388,1990,12,45.0,3,inside,1,Hotel Ibis 15-21 Therry Street MELBOURNE VIC 3000,Hotel Ibis,Commercial Accommodation,
+800001,-37.813556,144.961334,1860,2,8.5,4,inside,1,380-384 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1997
+800007,-37.813232,144.960905,1889,4,15.5,2,inside,1,67-73 Hardware Lane MELBOURNE VIC 3000,Dynon Building,Entertainment/Recreation - Indoor,
+800028,-37.812394,144.964781,1901,3,11.0,1,inside,1,239-241 Swanston Street MELBOURNE VIC 3000,,Storage,
+800047,-37.809777,144.9602,,65,209.4,6,inside,1,111-125 A'Beckett Street MELBOURNE VIC 3000,,Residential Apartment,
+800063,-37.813752,144.967445,1930,2,6.7,1,near,1,"Substation 113, 12-14 Russell Place MELBOURNE VIC 3000",SUBSTATION,Equipment Installation,
+800075,-37.807545,144.969689,,,2.0,1,none,0,,,,
+800076,-37.807618,144.969736,,,3.5,3,none,0,,,,
+800083,-37.81089,144.969492,1886,3,26.5,10,inside,1,Her Majesty's Theatre 199-219 Exhibition Street MELBOURNE VIC 3000,Her Majestys Theatre,"Performances, Conferences, Ceremonies",2002
+800085,-37.816806,144.960287,1837,2,10.5,4,inside,1,Mitre Tavern 5-9 Bank Place MELBOURNE VIC 3000,Mitre Tavern,Entertainment/Recreation - Indoor,1971
+800096,-37.817099,144.958173,1924,9,34.0,4,inside,1,499-503 Little Collins Street MELBOURNE VIC 3000,Henty House,Residential Apartment,1997
+800122,-37.808809,144.963047,1925,5,25.0,4,inside,1,RMIT Building 37 411-423 Swanston Street MELBOURNE VIC 3000,RMIT Building 37,Educational/Research,2000
+800128,-37.818413,144.962632,1972,16,60.0,3,inside,1,10-16 Queen Street MELBOURNE VIC 3000,QBE House,Office,1998
+800140,-37.812941,144.96856,1960,3,13.0,1,inside,1,169 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+800147,-37.817718,144.955916,1990,9,35.5,2,inside,1,97-111 King Street MELBOURNE VIC 3000,Citic House,Unoccupied - Unused,1997
+800199,-37.811738,144.969108,1922,3,9.5,2,inside,1,23-27 Market Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1997
+800207,-37.808039,144.967165,,,23.0,1,none,0,,,,
+800208,-37.808169,144.967436,2018,43,130.7,4,inside,1,42-50 La Trobe Street MELBOURNE VIC 3000,,Student Accommodation,
+800218,-37.813534,144.967401,2010,8,30.5,2,inside,1,UB1 Little Hero Apartments 16-30 Russell Place MELBOURNE VIC 3000,Little Hero Apartments,Residential Apartment,
+800234,-37.812525,144.964841,1961,12,48.0,3,inside,1,258-264 Little Bourke Street MELBOURNE VIC 3000,CGI Business Centre,Unoccupied - Unused,
+800247,-37.80928,144.967532,1930,2,8.0,2,inside,1,14-18 Davisons Place MELBOURNE VIC 3000,,Residential Apartment,1986
+800275,-37.813492,144.969022,1954,15,64.0,5,inside,1,Hero Apartments 114-120 Russell Street MELBOURNE VIC 3000,Hero Apartments,Residential Apartment,2003
+800285,-37.812186,144.965476,,,5.5,1,none,0,,,,
+800287,-37.816167,144.96079,1957,6,25.5,3,inside,1,103-105 Queen Street MELBOURNE VIC 3000,,Office,1999
+800297,-37.815363,144.967913,1920,2,8.5,1,inside,1,179 Collins Street MELBOURNE VIC 3000,,Storage,1990
+800315,-37.808196,144.958278,1945,1,6.0,1,inside,1,446-450 Queen Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+800335,-37.815488,144.960589,1920,9,45.0,5,inside,1,131-141 Queen Street MELBOURNE VIC 3000,,Educational/Research,1989
+800343,-37.807502,144.964962,,,8.5,1,none,0,,,,
+800402,-37.814507,144.955762,1987,10,41.0,3,inside,1,561-571 Lonsdale Street MELBOURNE VIC 3000,County Court,Office,
+800404,-37.814686,144.958228,1888,4,15.0,1,inside,1,493-495 Little Bourke Street MELBOURNE VIC 3000,Stawell Chambers,Office,1989
+800407,-37.811177,144.966842,1891,3,14.5,1,inside,1,185-187 Lonsdale Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2001
+800409,-37.814729,144.956368,2003,8,22.5,1,inside,2,542-546 Little Bourke Street MELBOURNE VIC 3000,,Parking - Commercial Covered,
+800430,-37.810584,144.961164,1928,6,25.4,1,inside,1,351-357 Elizabeth Street MELBOURNE VIC 3000,ANZ BANK CHAMBERS,Office,
+800432,-37.813898,144.965406,1913,6,28.5,3,inside,1,271-281 Bourke Street MELBOURNE VIC 3000,Leviathan Stores Building,Educational/Research,2016
+800444,-37.81111,144.963808,1910,8,34.0,2,inside,1,5-7 Drewery Lane MELBOURNE VIC 3000,Dovers Building,Residential Apartment,1995
+800447,-37.810964,144.967635,1916,4,15.0,8,inside,1,226-236 Russell Street MELBOURNE VIC 3000,,Unoccupied - Unused,1995
+800454,-37.812762,144.972491,1910,2,10.0,2,inside,1,37 Little Collins Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+800476,-37.812251,144.965886,1895,2,8.0,2,inside,1,234 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1998
+800480,-37.813176,144.956283,1992,14,51.5,2,inside,1,527-533 Little Lonsdale Street MELBOURNE VIC 3000,The Dominion Building,Office,
+800482,-37.812482,144.955791,1999,19,69.0,11,inside,2,Commonwealth Law Courts 295-307 William Street MELBOURNE VIC 3000,Commonwealth Law Courts,"Performances, Conferences, Ceremonies",
+800555,-37.813432,144.952708,,,22.9,9,none,0,,,,
+800567,-37.81777,144.960816,1967,25,99.0,3,inside,1,54-60 Market Street MELBOURNE VIC 3000,Oaks On Market,Commercial Accommodation,2004
+800568,-37.813325,144.960946,1889,4,15.5,2,inside,1,63-65 Hardware Lane MELBOURNE VIC 3000,Dynons Building,Residential Apartment,
+800584,-37.812982,144.962176,1901,3,13.5,1,inside,1,239-243 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,
+800591,-37.810584,144.971182,1910,2,10.0,1,inside,1,40-46 Little Bourke Street MELBOURNE VIC 3000,Longrain Melbourne,Entertainment/Recreation - Indoor,2006
+800599,-37.815799,144.969884,1935,7,29.0,2,inside,1,141-143 Flinders Lane MELBOURNE VIC 3000,Pawson House,Office,
+800601,-37.81583,144.972035,1925,8,29.0,2,inside,1,1-9 Exhibition Street MELBOURNE VIC 3000,,Residential Apartment,1992
+800602,-37.814701,144.969989,1891,5,21.5,2,inside,1,115-119 Collins Street MELBOURNE VIC 3000,Austral House,Office,1997
+800611,-37.810246,144.970153,1928,5,25.9,6,inside,1,Comedy Theatre 228-240 Exhibition Street MELBOURNE VIC 3000,Comedy Theatre,Office,1993
+800615,-37.812222,144.966826,1972,3,11.5,1,inside,1,193-195 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1992
+800616,-37.81188,144.966129,1883,2,7.5,2,inside,1,15-17 Celestial Avenue MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+800618,-37.817313,144.964888,1939,9,44.0,2,inside,1,28-32 Elizabeth Street MELBOURNE VIC 3000,ANA Building,Educational/Research,1999
+800621,-37.812871,144.965608,1904,2,10.5,1,inside,1,208 Swanston Street MELBOURNE VIC 3000,,Retail - Shop,1990
+800635,-37.811294,144.968996,1915,3,18.0,2,inside,1,116-118 Little Bourke Street MELBOURNE VIC 3000,Ancient Times House,Institutional Accommodation,2002
+800658,-37.811263,144.959769,1909,2,9.0,1,inside,1,32-34 Guildford Lane MELBOURNE VIC 3000,,Retail - Shop,2000
+800662,-37.812847,144.961662,,3,13.5,3,inside,1,369-371 Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,1979
+800672,-37.811645,144.967275,1907,2,7.5,3,inside,1,209-211 Russell Street MELBOURNE VIC 3000,,Unoccupied - Unused,1996
+800680,-37.812108,144.966176,1883,2,7.5,1,inside,1,218-220 Little Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,1995
+800686,-37.816245,144.960648,1929,2,7.0,2,inside,1,421-423 Little Collins Street MELBOURNE VIC 3000,,Hospital/Clinic,1999
+800731,-37.813728,144.954958,1974,18,64.0,4,inside,1,262-274 King Street MELBOURNE VIC 3000,W.H.Holmes House,Residential Apartment,2002
+800737,-37.815063,144.964997,1884,3,13.0,1,inside,1,287-289 Little Collins Street MELBOURNE VIC 3000,Carson House,Office,
+800753,-37.813119,144.973395,1938,6,25.0,3,inside,1,4-6 Collins Street MELBOURNE VIC 3000,Anzac House,Unoccupied - Unused,2002
+800764,-37.80747,144.967873,1991,15,53.7,5,inside,1,19-21 Victoria Street MELBOURNE VIC 3000,,Office,
+800770,-37.81446,144.959414,,12,51.0,4,inside,1,451-457 Little Bourke Street MELBOURNE VIC 3000,,Office,2004
+800778,-37.815283,144.962639,1920,5,23.5,1,inside,1,358-360 Little Collins Street MELBOURNE VIC 3000,Benjamin House,Office,1995
+800840,-37.812241,144.967521,1892,2,9.5,1,inside,2,179 Russell Street MELBOURNE VIC 3000,,Unoccupied - Unused,2004
+800852,-37.81615,144.969968,1968,3,12.5,2,inside,1,14-22 Russell Street MELBOURNE VIC 3000,CVA,Office,2004
+800859,-37.813432,144.967852,2015,12,42.9,3,inside,1,QT Melbourne 131-141 Russell Street MELBOURNE VIC 3000,,Commercial Accommodation,
+800876,-37.809684,144.968789,1997,34,112.5,10,inside,1,Regency Towers Apartments 265 Exhibition Street MELBOURNE VIC 3000,Regency Towers Apartments,Residential Apartment,
+800881,-37.814742,144.964339,1938,8,35.0,4,inside,1,304-306 Little Collins Street MELBOURNE VIC 3000,Causeway House,Residential Apartment,1998
+800883,-37.819777,144.957715,1917,2,12.0,1,inside,1,14-20 King Street MELBOURNE VIC 3000,,Unoccupied - Unused,1986
+800886,-37.813237,144.967526,1901,3,12.5,2,inside,1,201-203 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+800887,-37.817755,144.964153,1860,3,10.5,1,inside,1,2-4 Mill Place MELBOURNE VIC 3000,,Unoccupied - Unused,2000
+800906,-37.812636,144.967167,1920,4,18.0,1,inside,1,202-204 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2010
+800909,-37.810367,144.965578,,,10.0,1,none,0,,,,
+800952,-37.817574,144.958348,1970,16,64.2,2,inside,1,468-478 Collins Street MELBOURNE VIC 3000,470 Collins,Unoccupied - Unused,2014
+800965,-37.818898,144.95719,1938,2,12.0,2,inside,1,54-60 King Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1992
+800966,-37.815621,144.959946,1972,14,61.0,2,inside,1,473-481 Bourke Street MELBOURNE VIC 3000,,Office,2006
+801008,-37.813651,144.962167,1901,2,9.0,1,inside,1,1-3 Rankins Lane MELBOURNE VIC 3000,,Unoccupied - Unused,
+801020,-37.815037,144.965131,1884,4,14.5,2,inside,1,285 Little Collins Street MELBOURNE VIC 3000,CLEGS,Retail - Shop,1999
+801025,-37.813267,144.967446,1901,3,12.5,2,inside,1,205-207 Bourke Street MELBOURNE VIC 3000,,Storage,1987
+801030,-37.820612,144.955764,2016,30,88.5,3,inside,1,556-560 Flinders Street MELBOURNE VIC 3000,Flinders Tower,Commercial Accommodation,
+801032,-37.809056,144.958825,1954,3,13.0,2,inside,1,21-23 Anthony Street MELBOURNE VIC 3000,,Residential Apartment,1996
+801033,-37.819184,144.957323,1883,2,10.5,1,inside,1,42-44 King Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1990
+801036,-37.80886,144.970844,,,11.0,1,none,0,,,,
+801068,-37.813798,144.962387,1920,2,7.0,1,inside,1,19 Somerset Place MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+801124,-37.808541,144.963194,,,6.5,1,none,0,,,,
+801163,-37.809185,144.971473,1992,41,165.0,12,inside,1,Casselden 2-30 Lonsdale Street MELBOURNE VIC 3000,Casselden,Office,
+801165,-37.811365,144.971203,1900,2,9.0,1,inside,2,10-26 Crossley Street MELBOURNE VIC 3000,,Unoccupied - Unused,2005
+801174,-37.813026,144.960676,1986,13,45.5,2,inside,1,399-413 Lonsdale Street MELBOURNE VIC 3000,Taylors House,Educational/Research,1999
+801177,-37.808148,144.967585,2018,39,114.9,3,inside,1,36-40 La Trobe Street MELBOURNE VIC 3000,The Trillium,Residential Apartment,
+801192,-37.81397,144.973866,1973,16,63.5,5,inside,1,49-51 Spring Street MELBOURNE VIC 3000,51 SPRING STREET,Residential Apartment,1999
+801201,-37.813563,144.970033,1990,18,65.5,4,inside,1,109-119 Little Collins Street MELBOURNE VIC 3000,Stamford Plaza Melbourne,Commercial Accommodation,2012
+801204,-37.815045,144.959222,1970,13,46.5,3,inside,1,486-492 Bourke Street MELBOURNE VIC 3000,Formely Known As Flotta Lauro Building,Office,2008
+801231,-37.810369,144.971546,1884,3,15.5,3,near,1,24-38 Little Bourke Street MELBOURNE VIC 3000,Gordon Place Apartments,Residential Apartment,2003
+801259,-37.809174,144.962676,2014,18,58.0,3,inside,2,22-32 Little La Trobe Street MELBOURNE VIC 3000,,Commercial Accommodation,
+801260,-37.811589,144.96901,1882,2,9.0,2,inside,1,115-117 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1994
+801272,-37.813795,144.959874,1928,2,9.0,1,inside,1,215 Queen Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1996
+801284,-37.816041,144.966493,1954,8,35.5,2,inside,1,67-73 Swanston Street MELBOURNE VIC 3000,City Square Motel,Commercial Accommodation,
+801287,-37.815957,144.971378,1910,6,25.0,3,inside,1,100-102 Flinders Street MELBOURNE VIC 3000,100 Flinders Street,Office,1988
+801310,-37.812466,144.972008,1965,8,30.0,4,inside,1,34-60 Little Collins Street MELBOURNE VIC 3000,,Parking - Commercial Covered,1982
+801324,-37.810843,144.964086,1870,2,8.0,2,inside,1,317 Swanston Street MELBOURNE VIC 3000,,Storage,2009
+801326,-37.818195,144.962532,1922,9,41.5,2,inside,1,20-26 Queen Street MELBOURNE VIC 3000,,Educational/Research,1987
+801327,-37.813378,144.955159,1923,2,8.5,1,inside,1,563-567 Little Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,1987
+801339,-37.817463,144.966161,1920,5,26.0,4,inside,1,244-248 Flinders Street MELBOURNE VIC 3000,,Unoccupied - Unused,1998
+801340,-37.81993,144.957637,1917,2,11.0,1,inside,1,8-10 King Street MELBOURNE VIC 3000,,Unoccupied - Unused,1990
+801343,-37.814263,144.970022,1955,13,45.5,4,inside,1,100-104 Collins Street MELBOURNE VIC 3000,,Office,1990
+801357,-37.811609,144.969334,1880,3,12.0,1,inside,1,26-28 Market Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2001
+801362,-37.814212,144.962412,1961,5,19.0,2,inside,1,376-378 Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,1996
+801365,-37.807612,144.969941,,,2.0,1,none,0,,,,
+801374,-37.813983,144.962752,1960,3,9.5,1,inside,1,183-185 Elizabeth Street MELBOURNE VIC 3000,Orbit House,Retail - Shop,
+801376,-37.817777,144.957255,1975,18,62.0,1,inside,1,516-520 Collins Street MELBOURNE VIC 3000,520 Collins Street,Unoccupied - Unused,1999
+801386,-37.808935,144.967421,1985,3,9.5,2,near,1,151-157 La Trobe Street MELBOURNE VIC 3000,La Trobe Square,Residential Apartment,
+801387,-37.808963,144.967312,,,9.5,2,none,0,,,,
+801391,-37.810359,144.971074,1910,3,8.5,1,inside,1,22 Punch Lane MELBOURNE VIC 3000,,Unoccupied - Under Renovation,1985
+801394,-37.81324,144.961182,1890,2,9.0,1,inside,1,62 Hardware Lane MELBOURNE VIC 3000,,Retail - Shop,1985
+801415,-37.808652,144.959796,1970,5,17.5,3,inside,1,143-149 Franklin Street MELBOURNE VIC 3000,Vosti House,Residential Apartment,1994
+801438,-37.808839,144.965211,,,24.5,8,none,0,,,,
+801459,-37.816176,144.95361,1925,11,39.5,2,inside,1,Stadium Apartments 635-639 Little Bourke Street MELBOURNE VIC 3000,Stadium Apartments,Residential Apartment,2001
+801469,-37.812293,144.964753,1880,3,11.5,2,inside,1,243-249 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1997
+801483,-37.815828,144.962425,1925,7,26.0,3,inside,1,377-379 Little Collins Street MELBOURNE VIC 3000,Collins Gate,Residential Apartment,2000
+801490,-37.811955,144.96458,1910,2,8.0,2,inside,1,269 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2016
+801497,-37.808204,144.958905,2001,11,33.5,6,inside,1,Stargate Apartments 114-122 Franklin Street MELBOURNE VIC 3000,Stargate Apartment Complex,Residential Apartment,
+801509,-37.817143,144.962013,1967,18,74.8,4,inside,1,375-383 Collins Street MELBOURNE VIC 3000,,Office,1986
+801516,-37.808945,144.967873,1970,5,20.0,2,inside,1,16-18 Bennetts Lane MELBOURNE VIC 3000,,Residential Apartment,2000
+801526,-37.817473,144.961116,1925,7,33.5,2,inside,1,405-407 Collins Street MELBOURNE VIC 3000,Aldersgate House,Office,2000
+801532,-37.811733,144.971029,1860,2,9.9,3,inside,1,72-74 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2003
+801540,-37.812714,144.961816,1873,2,8.0,3,inside,1,359-363 Lonsdale Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2011
+801555,-37.809456,144.967577,1921,2,15.3,2,inside,1,146-148 Little Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+801566,-37.812237,144.972118,1936,2,11.0,1,inside,1,17 Meyers Place MELBOURNE VIC 3000,,Equipment Installation,
+801578,-37.810927,144.964125,1870,2,7.0,2,inside,1,311 Swanston Street MELBOURNE VIC 3000,,Retail - Shop,
+801591,-37.8086,144.968443,1990,21,90.5,7,inside,1,313-329 Exhibition Street MELBOURNE VIC 3000,,Office,2010
+801596,-37.818635,144.954335,2002,28,92.5,4,inside,1,Liberty Tower 612-624 Collins Street MELBOURNE VIC 3000,Liberty Tower,Residential Apartment,
+801603,-37.816778,144.96002,1924,14,45.0,11,inside,1,Temple Court 422-428 Collins Street MELBOURNE VIC 3000,Temple Court,Residential Apartment,2001
+801612,-37.808978,144.960419,1872,2,9.5,2,inside,1,427 Elizabeth Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1988
+801630,-37.810919,144.963633,1880,2,8.5,1,inside,1,281 Little Lonsdale Street MELBOURNE VIC 3000,,Storage,
+801644,-37.814857,144.959304,1930,4,16.5,1,inside,1,Substation 5-23 Little Queen Street MELBOURNE VIC 3000,,Equipment Installation,
+801652,-37.811128,144.97124,1901,2,9.0,1,inside,1,23 Liverpool Street MELBOURNE VIC 3000,,Storage,
+801667,-37.817763,144.953925,1928,12,51.5,6,inside,1,The Savoy On Little Collins 626-636 Little Collins Street MELBOURNE VIC 3000,The Savoy Hotel on Little Collins,Commercial Accommodation,1991
+801675,-37.814918,144.969354,1887,5,19.0,2,inside,1,133-139 Collins Street MELBOURNE VIC 3000,,Retail - Shop,1986
+801679,-37.814715,144.971436,1920,8,29.5,1,inside,1,53-55 Exhibition Street MELBOURNE VIC 3000,ACCI House,Unoccupied - Unused,1988
+801700,-37.816051,144.954856,1989,16,67.0,6,inside,1,624-634 Bourke Street MELBOURNE VIC 3000,QBE House,Office,
+801703,-37.814734,144.955282,,,12.0,1,none,0,,,,
+801713,-37.815224,144.954893,1956,3,10.0,1,inside,1,213-215 King Street MELBOURNE VIC 3000,,Unoccupied - Unused,2000
+801726,-37.809018,144.959587,2015,45,147.5,7,inside,1,151-165 Franklin Street MELBOURNE VIC 3000,Fulton Lane,Residential Apartment,
+801802,-37.81494,144.961642,1859,3,14.0,1,inside,1,421 Bourke Street MELBOURNE VIC 3000,Kozminsky,Unoccupied - Unused,1976
+801803,-37.808688,144.962871,,,20.5,3,none,0,,,,
+801805,-37.815016,144.971576,2014,22,81.5,1,inside,1,41-43 Exhibition Street MELBOURNE VIC 3000,4IX,Office,
+801820,-37.816903,144.960644,1957,13,44.5,3,inside,1,408-410 Collins Street MELBOURNE VIC 3000,,Office,1987
+801831,-37.809305,144.968188,1855,2,7.5,1,inside,1,120-122 Little Lonsdale Street MELBOURNE VIC 3000,,House/Townhouse,1978
+801834,-37.815697,144.962999,1983,10,40.0,1,inside,1,353-359 Little Collins Street MELBOURNE VIC 3000,,Commercial Accommodation,2008
+801838,-37.818795,144.959958,1921,11,49.0,5,inside,1,22-38 William Street MELBOURNE VIC 3000,Orion House,Unoccupied - Unused,1989
+801845,-37.814466,144.960762,1955,9,38.5,3,inside,1,166-172 Queen Street MELBOURNE VIC 3000,CPA House,Office,2000
+801846,-37.811388,144.966239,1925,3,12.5,1,inside,1,209-211 Lonsdale Street MELBOURNE VIC 3000,,Educational/Research,1990
+801852,-37.817876,144.962878,1910,7,32.0,4,inside,1,349-351 Flinders Lane MELBOURNE VIC 3000,,Residential Apartment,1999
+801855,-37.816182,144.969247,1920,1,5.0,1,inside,1,19-25 Russell Street MELBOURNE VIC 3000,Russel Street Theatre,Retail - Shop,2017
+801862,-37.814084,144.962658,1995,3,15.0,3,inside,1,360-374 Bourke Street MELBOURNE VIC 3000,The Pavilion,Retail - Shop,2000
+801874,-37.818266,144.961339,1866,3,11.5,3,inside,1,381-387 Flinders Lane MELBOURNE VIC 3000,Tavistock House,Workshop/Studio,1997
+801875,-37.812807,144.971444,1910,2,9.5,2,inside,1,62-66 Little Collins Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2015
+801878,-37.81169,144.971181,1890,2,9.0,2,inside,1,66 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2008
+801890,-37.817726,144.961662,1958,11,44.1,4,inside,1,43-51 Queen Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+801897,-37.807894,144.968101,1988,19,64.5,9,inside,1,333-351 Exhibition Street MELBOURNE VIC 3000,Mantra 100 Exhibition Melbourne,Parking - Commercial Covered,2000
+801905,-37.811984,144.966748,1872,2,7.5,2,inside,1,Chinese Mission Church 196 Little Bourke Street MELBOURNE VIC 3000,Chinese Mission Church,"Performances, Conferences, Ceremonies",2000
+801947,-37.812076,144.958089,2010,37,113.5,5,inside,1,La Banque Apartments 380-386 Little Lonsdale Street MELBOURNE VIC 3000,La Banque Apartments,Residential Apartment,
+801950,-37.813672,144.969754,1990,17,64.5,6,inside,1,121-127 Little Collins Street MELBOURNE VIC 3000,Stamford Plaza Hotel,Commercial Accommodation,2012
+801961,-37.817257,144.95577,1883,3,12.0,1,inside,1,115-129 King Street MELBOURNE VIC 3000,,Office,2008
+801965,-37.807417,144.968152,1880,2,9.6,3,inside,1,11-17 Victoria Street MELBOURNE VIC 3000,,Office,1986
+801976,-37.811313,144.97243,1901,2,11.5,2,inside,1,16 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1990
+801996,-37.816246,144.960536,1910,2,8.0,2,inside,1,425-427 Little Collins Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2007
+802000,-37.811605,144.971454,1848,2,11.0,2,inside,1,54-62 Bourke Street MELBOURNE VIC 3000,Crossleys Building,Unoccupied - Under Renovation,
+802010,-37.812844,144.971337,1858,2,7.0,1,inside,1,68-70 Little Collins Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+802032,-37.811873,144.967137,1918,2,9.0,1,inside,1,172-176 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1990
+802040,-37.810937,144.967861,1986,1,4.5,1,inside,1,157-159 Lonsdale Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1993
+802043,-37.811717,144.962937,,,25.0,5,none,0,,,,
+802081,-37.814593,144.97132,1969,15,56.5,3,inside,1,57-63 Exhibition Street MELBOURNE VIC 3000,ASF House,Unoccupied - Unused,1988
+802101,-37.809897,144.967463,1971,29,109.2,5,inside,2,150 Lonsdale Street MELBOURNE VIC 3000,150 Lonsdale,Office,2005
+802102,-37.81118,144.971263,1901,3,12.5,1,inside,1,21 Liverpool Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2006
+802110,-37.816397,144.970348,1875,8,29.5,3,inside,1,Yarra View Apartments 138-140 Flinders Street MELBOURNE VIC 3000,Yarra View Apartments,Residential Apartment,2000
+802117,-37.815843,144.971773,2001,18,63.5,7,inside,1,84-94 Flinders Street MELBOURNE VIC 3000,Adina Apartments,Commercial Accommodation,
+802119,-37.813875,144.966219,1945,3,16.0,1,inside,1,158-164 Swanston Street MELBOURNE VIC 3000,,Educational/Research,1997
+802155,-37.81638,144.960969,1939,7,28.5,3,inside,1,93-95 Queen Street MELBOURNE VIC 3000,,Unoccupied - Unused,2017
+802162,-37.812024,144.972541,1966,6,24.0,5,inside,1,19-25 Windsor Place MELBOURNE VIC 3000,Prima City Apartments,Residential Apartment,1998
+802191,-37.810468,144.959524,,1,6.0,1,inside,1,332-346 La Trobe Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+802197,-37.810753,144.957729,1972,5,22.0,2,inside,1,Hudson on La Trobe Apartments 394-400 La Trobe Street MELBOURNE VIC 3000,Hudson on LaTrobe Apartments,Residential Apartment,1998
+802198,-37.81142,144.960032,1910,4,14.5,2,inside,1,29 Guildford Lane MELBOURNE VIC 3000,,House/Townhouse,1989
+802226,-37.813316,144.964691,1914,5,25.5,9,inside,1,284-292 Bourke Street MELBOURNE VIC 3000,,Retail - Shop,2011
+802240,-37.811765,144.965392,1977,1,3.0,1,inside,1,27-29 Tattersalls Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+802244,-37.8211,144.955836,2009,18,56.0,4,inside,1,561-581 Flinders Street MELBOURNE VIC 3000,Northbank Place West Tower,Residential Apartment,
+802248,-37.810162,144.956606,2015,26,74.5,6,inside,1,218-236 A'Beckett Street MELBOURNE VIC 3000,The Istana Apartments,Residential Apartment,
+802284,-37.815465,144.961677,1860,3,12.0,1,inside,1,11-15 McKillop Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+802306,-37.813544,144.96255,1923,3,11.0,1,inside,1,209-213 Elizabeth Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+802315,-37.811785,144.966345,1895,2,9.0,1,inside,1,18 Celestial Avenue MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1992
+802317,-37.81643,144.960522,1906,10,39.0,3,inside,1,Metro Apartments Banks Place 18-20 Bank Place MELBOURNE VIC 3000,Metro Apartments Bank Place,Commercial Accommodation,2000
+802321,-37.809025,144.96046,1872,2,9.5,2,inside,1,423-425 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,
+802329,-37.806438,144.958659,,,11.0,3,none,0,,,,
+802339,-37.812896,144.971935,,,12.0,1,none,0,,,,
+802340,-37.813375,144.972025,1858,3,24.5,16,inside,1,The Melbourne Club 36-50 Collins Street MELBOURNE VIC 3000,The Melbourne Club,Entertainment/Recreation - Indoor,1995
+802369,-37.810907,144.961155,,,10.0,3,none,0,,,,
+802370,-37.810872,144.961387,,,7.0,1,none,0,,,,
+802371,-37.810894,144.968187,,,7.0,1,none,0,,,,
+802372,-37.807534,144.960486,2022,53,163.5,6,inside,1,478-488 Elizabeth Street MELBOURNE VIC 3000,,Student Accommodation,
+802406,-37.808567,144.96096,1990,11,42.5,2,inside,1,422-440 Elizabeth Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+802644,-37.815913,144.97069,1989,18,33.0,3,inside,1,114-128 Flinders Street MELBOURNE VIC 3000,114 Flinders Street Car Park,Parking - Commercial Covered,2016
+802647,-37.813806,144.962669,1851,2,6.0,1,inside,1,195 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,
+802678,-37.809109,144.968709,1920,2,7.5,1,inside,1,100 Little Lonsdale Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1979
+802701,-37.808273,144.970526,1997,19,19.5,4,inside,2,33 La Trobe Street MELBOURNE VIC 3000,City Gate Tower,Residential Apartment,
+802707,-37.808841,144.960385,1872,2,9.5,2,inside,1,433-435 Elizabeth Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+802708,-37.810374,144.959862,1871,2,15.5,1,inside,1,320-330 La Trobe Street MELBOURNE VIC 3000,Welsh Church & Presbytery,"Performances, Conferences, Ceremonies",2006
+802709,-37.810192,144.959741,,,9.0,2,none,0,,,,
+802727,-37.813292,144.961205,1872,2,9.0,1,inside,1,60 Hardware Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1984
+802728,-37.819393,144.955248,1984,18,84.0,4,inside,1,589-605 Collins Street MELBOURNE VIC 3000,595 Collins Street (Former Transport House),Office,2007
+802730,-37.811713,144.970094,1858,2,9.5,2,inside,1,165-167 Exhibition Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1991
+802736,-37.816028,144.955235,,2,9.5,2,inside,1,175-177 King Street MELBOURNE VIC 3000,,Residential Apartment,2003
+802788,-37.809034,144.959197,1928,5,31.5,3,inside,1,167-175 Franklin Street MELBOURNE VIC 3000,,Commercial Accommodation,1997
+802805,-37.81401,144.970635,1873,3,16.2,2,inside,1,86-88 Collins Street MELBOURNE VIC 3000,,Unoccupied - Unused,1987
+802806,-37.813826,144.970541,,,4.5,1,none,0,,,,
+802829,-37.815682,144.961311,1936,13,57.6,10,inside,2,118-126 Queen Street MELBOURNE VIC 3000,ACA Building,Unoccupied - Unused,1997
+802831,-37.817546,144.96437,,2,6.5,1,inside,1,27-29 Elizabeth Street MELBOURNE VIC 3000,Galvin House,Entertainment/Recreation - Indoor,
+802842,-37.813922,144.967212,1968,9,38.5,4,inside,1,Council House 196-212 Little Collins Street MELBOURNE VIC 3000,Council House 1,Office,1989
+802873,-37.814372,144.965714,1910,3,9.5,2,inside,1,143 Swanston Street MELBOURNE VIC 3000,,Storage,
+802876,-37.814196,144.961361,1880,3,12.0,1,inside,1,17-19 Hardware Lane MELBOURNE VIC 3000,Cyclone House,Unoccupied - Unused,
+802880,-37.807489,144.9616,1853,2,8.0,2,inside,1,Mac's Hotel 34-38 Franklin Street MELBOURNE VIC 3000,Macs Hotel,Entertainment/Recreation - Indoor,1998
+802887,-37.820002,144.957923,1975,10,30.9,1,near,1,492-500 Flinders Street MELBOURNE VIC 3000,,Residential Apartment,2000
+802896,-37.808692,144.968724,1934,2,7.5,2,inside,1,311 Exhibition Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+802903,-37.810204,144.960428,1991,35,123.5,6,inside,1,296-310 La Trobe Street MELBOURNE VIC 3000,Argus Centre,Unoccupied - Unused,
+802922,-37.817197,144.963919,1886,6,31.0,3,inside,1,302-308 Flinders Lane MELBOURNE VIC 3000,Leicester House,Residential Apartment,2001
+802927,-37.815785,144.962798,1982,11,44.5,3,inside,1,363-367 Little Collins Street MELBOURNE VIC 3000,365 Little Collins Street,Office,2004
+802942,-37.815752,144.953413,1952,2,16.5,1,inside,1,Substation 634-648 Little Bourke Street MELBOURNE VIC 3000,Substation JA,Equipment Installation,
+802943,-37.815676,144.953913,,2,10.0,2,inside,1,620-632 Little Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+802970,-37.811297,144.969914,1882,2,9.5,2,inside,1,189-195 Exhibition Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1988
+802993,-37.808736,144.968745,1903,2,7.5,2,inside,1,309 Exhibition Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+803022,-37.811589,144.960278,2001,20,65.5,6,inside,1,Elm Towers Apartments 306-320 Little Lonsdale Street MELBOURNE VIC 3000,Elm Tower Apartments,Residential Apartment,
+803026,-37.814828,144.965894,1930,6,27.0,2,inside,1,123 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+803045,-37.813813,144.954263,1873,2,7.0,2,inside,1,275 King Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1989
+803050,-37.819703,144.95797,1917,3,13.0,1,inside,1,11A Highlander Lane MELBOURNE VIC 3000,,Unoccupied - Unused,
+803074,-37.813176,144.960147,1958,12,50.0,2,inside,1,224-236 Queen Street MELBOURNE VIC 3000,,Office,2000
+803083,-37.815644,144.964768,1957,11,43.0,4,inside,1,276-278 Collins Street MELBOURNE VIC 3000,Mering House,Office,2008
+803110,-37.818171,144.963448,1913,10,44.0,6,near,1,318-332 Flinders Street MELBOURNE VIC 3000,Rendezvous Hotel Melbourne,Commercial Accommodation,1997
+803142,-37.813298,144.960736,1925,2,9.0,2,inside,1,14-20 Goldie Place MELBOURNE VIC 3000,,Unoccupied - Unused,
+803170,-37.815561,144.961944,1905,3,11.5,1,inside,1,382 Little Collins Street MELBOURNE VIC 3000,Law Institute House,Retail - Shop,
+803178,-37.815344,144.961622,1860,3,12.0,1,inside,1,19 McKillop Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2000
+803180,-37.814524,144.961108,1964,16,67.0,4,near,1,158-164 Queen Street MELBOURNE VIC 3000,Elder House,Unoccupied - Unused,1998
+803183,-37.817876,144.955446,1865,3,16.5,3,inside,1,585-587 Little Collins Street MELBOURNE VIC 3000,,Residential Apartment,2010
+803184,-37.809957,144.971157,2003,22,69.0,2,inside,1,Unilodge on Lonsdale 35-41 Lonsdale Street MELBOURNE VIC 3000,Unilodge on Lonsdale,Residential Apartment,
+803212,-37.81035,144.963885,1941,15,55.0,3,near,1,335-347 Swanston Street MELBOURNE VIC 3000,Melbourne Campus Apartments,Student Accommodation,1997
+803213,-37.812346,144.965434,1858,4,19.0,2,inside,1,230-238 Swanston Street MELBOURNE VIC 3000,Latham House,Retail - Shop,1994
+803224,-37.808612,144.958116,1964,2,10.0,1,inside,1,422-428 Queen Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+803248,-37.815908,144.971951,2014,30,89.0,1,inside,1,82 Flinders Street MELBOURNE VIC 3000,Phoenix Apartments,Residential Apartment,
+803270,-37.815091,144.959378,1926,5,19.0,3,inside,1,482-484 Bourke Street MELBOURNE VIC 3000,,Retail - Shop,1986
+803271,-37.814945,144.958778,1978,41,155.5,5,inside,1,494-512 Bourke Street MELBOURNE VIC 3000,National Bank House,Office,2008
+803296,-37.808027,144.95931,,,13.0,1,none,0,,,,
+803306,-37.813536,144.958876,1893,3,19.0,1,inside,1,Court of Appeal 455-469 Lonsdale Street MELBOURNE VIC 3000,Court of Appeal,"Performances, Conferences, Ceremonies",2000
+803319,-37.812975,144.969459,2010,25,84.0,6,inside,1,131-135 Bourke Street MELBOURNE VIC 3000,Citadines Melbourne On Bourke,Commercial Accommodation,
+803327,-37.811588,144.965551,1884,3,12.5,2,inside,1,233-237 Lonsdale Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2010
+803334,-37.814261,144.962067,1930,9,37.0,3,inside,1,388-390 Bourke Street MELBOURNE VIC 3000,Gateway,Educational/Research,2000
+803355,-37.809749,144.958003,1900,2,10.5,1,inside,1,373 Queen Street MELBOURNE VIC 3000,Carlyon House,Retail - Shop,2006
+803356,-37.809794,144.957859,,,6.5,1,none,0,,,,
+803358,-37.816499,144.960764,,,31.0,2,none,0,,,,
+803377,-37.812663,144.960134,1956,8,26.5,1,inside,1,414-416 Lonsdale Street MELBOURNE VIC 3000,,Office,1998
+803380,-37.812981,144.954507,1910,2,8.5,1,inside,1,302-308 King Street MELBOURNE VIC 3000,,Office,2006
+803381,-37.809362,144.967124,1950,2,9.0,1,inside,1,52-54 Hayward Lane MELBOURNE VIC 3000,,House/Townhouse,1986
+803400,-37.818561,144.961534,1910,2,9.0,1,inside,1,Substation 11-27 Tavistock Place MELBOURNE VIC 3000,,Office,
+803403,-37.811234,144.968423,1888,3,11.0,1,inside,1,12-14 Corrs Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2005
+803422,-37.812766,144.96556,1904,2,10.5,2,inside,1,214 Swanston Street MELBOURNE VIC 3000,,Residential Apartment,2005
+803427,-37.811223,144.957107,1990,18,77.5,5,inside,1,410-420 La Trobe Street MELBOURNE VIC 3000,,Office,2008
+803430,-37.812251,144.965835,1895,2,8.0,2,inside,1,236 Little Bourke Street MELBOURNE VIC 3000,,Retail - Shop,1997
+803432,-37.813945,144.965531,1922,7,34.0,3,inside,1,163-165 Swanston Street MELBOURNE VIC 3000,Swanston House,Unoccupied - Unused,
+803453,-37.815197,144.973216,,1,19.0,3,near,1,32-44 Flinders Street MELBOURNE VIC 3000,,Unoccupied - Under Construction,
+803487,-37.815464,144.967705,1997,3,17.0,3,inside,1,189 Collins Street MELBOURNE VIC 3000,The Box,Entertainment/Recreation - Indoor,
+803491,-37.812701,144.954315,1910,2,7.0,1,inside,1,318-322 King Street MELBOURNE VIC 3000,,Unoccupied - Unused,1995
+803511,-37.808802,144.96027,1954,2,9.5,1,inside,1,437-439 Elizabeth Street MELBOURNE VIC 3000,,Workshop/Studio,
+803523,-37.811799,144.966567,,1,9.0,3,inside,1,13 Heffernan Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2012
+803524,-37.809828,144.957673,1939,4,13.7,2,inside,1,215-223 Franklin Street MELBOURNE VIC 3000,,Unoccupied - Unused,1990
+803528,-37.812004,144.9718,1880,2,10.1,6,inside,1,51 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+803564,-37.813635,144.965996,1960,10,47.0,4,inside,1,253-267 Bourke Street MELBOURNE VIC 3000,Royal Mail House,Unoccupied - Unused,2000
+803575,-37.809199,144.960009,1999,8,26.5,1,inside,1,Uni On A'Beckett Apartments 106-116 A'Beckett Street MELBOURNE VIC 3000,Unilodge on Abeckett,Residential Apartment,
+803581,-37.809598,144.958972,1945,3,13.5,1,inside,1,150-154 A'Beckett Street MELBOURNE VIC 3000,,Unoccupied - Unused,1988
+803588,-37.809145,144.968448,2010,30,99.5,5,inside,1,EastEnd Apartments 2-14 Exploration Lane MELBOURNE VIC 3000,East End Apartments,Residential Apartment,
+803604,-37.812697,144.959964,1990,12,48.0,3,inside,1,244-250 Queen Street MELBOURNE VIC 3000,Cecil House,Office,1996
+803619,-37.811861,144.966398,1865,1,3.5,1,inside,1,12-14 Celestial Avenue MELBOURNE VIC 3000,,Storage,
+803620,-37.814447,144.961516,1945,3,12.0,2,inside,1,408-412 Bourke Street MELBOURNE VIC 3000,,Retail - Shop,1998
+803624,-37.813857,144.962412,1910,3,10.5,1,inside,1,17 Somerset Place MELBOURNE VIC 3000,,House/Townhouse,
+803626,-37.813399,144.965336,1945,5,23.5,2,inside,1,179-183 Swanston Street MELBOURNE VIC 3000,,Retail - Shop,1983
+803627,-37.814675,144.970223,1927,8,29.0,4,inside,1,107-113 Collins Street MELBOURNE VIC 3000,Francis House,Office,1991
+803638,-37.815733,144.964175,1935,11,44.0,9,inside,1,92-94 Elizabeth Street MELBOURNE VIC 3000,Beehive Building,Retail - Shop,2003
+803639,-37.812204,144.965637,1987,6,26.5,3,inside,1,242-244 Little Bourke Street MELBOURNE VIC 3000,The Sun Wei Building,Entertainment/Recreation - Indoor,1999
+803696,-37.812563,144.954195,1850,2,6.0,1,inside,1,328-330 King Street MELBOURNE VIC 3000,,Unoccupied - Unused,1989
+803701,-37.820813,144.957178,2009,11,48.0,5,inside,1,507-541 Flinders Street MELBOURNE VIC 3000,Northbank Place East Tower,Unoccupied - Unused,
+803722,-37.813146,144.969038,,2,10.0,1,inside,2,21 Coromandel Place MELBOURNE VIC 3000,,Residential Apartment,
+803729,-37.815919,144.963624,1911,8,35.5,4,near,1,97-103 Elizabeth Street MELBOURNE VIC 3000,,Commercial Accommodation,1988
+803732,-37.814545,144.968487,1874,2,33.0,3,inside,1,Scots Church 77-97 Russell Street MELBOURNE VIC 3000,Scots Church,"Performances, Conferences, Ceremonies",1994
+803765,-37.810751,144.968902,1912,3,13.5,1,inside,1,117-121 Lonsdale Street MELBOURNE VIC 3000,Golden Nugget,Educational/Research,1992
+803781,-37.811676,144.971077,1901,2,9.0,2,inside,1,70 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2006
+803789,-37.811599,144.965277,1872,2,9.7,6,inside,1,241-245 Lonsdale Street MELBOURNE VIC 3000,,Retail - Shop,2004
+803809,-37.812971,144.961282,1887,2,10.5,1,inside,1,31 Niagara Lane MELBOURNE VIC 3000,,Office,2004
+803824,-37.815597,144.963482,1905,6,27.0,1,inside,1,115-117 Elizabeth Street MELBOURNE VIC 3000,Paton Building,Retail - Shop,
+803894,-37.812809,144.962243,1889,3,11.5,1,inside,1,249-251 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,
+803908,-37.812649,144.967786,1920,9,34.5,2,inside,1,180-182 Bourke Street MELBOURNE VIC 3000,,Unoccupied - Under Renovation,1994
+803915,-37.812816,144.961183,1930,3,15.7,2,inside,1,383-387 Lonsdale Street MELBOURNE VIC 3000,Niagara Hotel,Entertainment/Recreation - Indoor,1993
+803922,-37.81373,144.959843,1907,3,15.0,1,inside,1,217-219 Queen Street MELBOURNE VIC 3000,Armstrong House,Office,2001
+803943,-37.818694,144.957518,1986,55,249.0,22,inside,3,South Tower Rialto 525 Collins Street MELBOURNE VIC 3000,,Office,2017
+803944,-37.813562,144.959753,1972,12,44.0,3,inside,1,221-231 Queen Street MELBOURNE VIC 3000,,Office,1988
+803953,-37.812742,144.962174,1889,3,11.5,2,inside,1,255 Elizabeth Street MELBOURNE VIC 3000,,Storage,
+803962,-37.815095,144.965232,1857,4,15.5,3,inside,1,281-283 Little Collins Street MELBOURNE VIC 3000,Halladale House,Unoccupied - Unused,1989
+803984,-37.81819,144.954325,1973,24,103.0,7,inside,1,613-639 Little Collins Street MELBOURNE VIC 3000,,Educational/Research,2007
+803986,-37.809043,144.96226,1955,3,11.5,1,inside,1,41-45 A'Beckett Street MELBOURNE VIC 3000,Wilder House,Entertainment/Recreation - Indoor,1990
+803992,-37.812767,144.962224,1889,3,11.5,1,inside,1,253 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,1995
+804005,-37.816211,144.968571,1911,4,17.0,1,inside,1,179-181 Flinders Lane MELBOURNE VIC 3000,179 FLINDERS LANE,Unoccupied - Unused,1989
+804011,-37.807519,144.968173,1886,3,14.0,2,inside,1,355-357 Exhibition Street MELBOURNE VIC 3000,,Unoccupied - Unused,2000
+804015,-37.813068,144.962245,1945,2,9.0,1,inside,1,235-237 Elizabeth Street MELBOURNE VIC 3000,Teds Camera Stores,Retail - Shop,
+804036,-37.814861,144.960302,1961,12,54.0,3,inside,1,155-161 Queen Street MELBOURNE VIC 3000,155-161 Queen Street,Unoccupied - Unused,1988
+804049,-37.813612,144.966569,1970,17,62.5,5,inside,1,235-251 Bourke Street MELBOURNE VIC 3000,Tivoli Arcade,Educational/Research,1995
+804062,-37.816195,144.955312,1973,11,43.0,4,inside,1,612-620 Bourke Street MELBOURNE VIC 3000,EPIC Centre,Educational/Research,1995
+804065,-37.813886,144.962708,1945,2,6.0,1,inside,1,187-193 Elizabeth Street MELBOURNE VIC 3000,,Office,2009
+804080,-37.814896,144.973454,1927,6,23.0,5,inside,1,27-29 Flinders Lane MELBOURNE VIC 3000,Sackville House,Residential Apartment,1999
+804108,-37.811594,144.95812,1987,6,30.5,2,inside,1,371-389 La Trobe Street MELBOURNE VIC 3000,Royal Mint Centre,Unoccupied - Unused,
+804128,-37.811488,144.964145,1910,5,24.7,3,inside,1,268-270 Lonsdale Street MELBOURNE VIC 3000,Pacific House,Entertainment/Recreation - Indoor,2018
+804136,-37.817331,144.959224,1960,11,45.5,3,inside,1,454-456 Collins Street MELBOURNE VIC 3000,Christie Corporate Serviced Offices,Office,2008
+804156,-37.811603,144.967888,1891,2,11.5,1,inside,1,196-208 Russell Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2008
+804176,-37.811333,144.960288,1915,3,11.5,1,inside,1,15-21 Guildford Lane MELBOURNE VIC 3000,,Residential Apartment,1992
+804184,-37.81181,144.970681,1871,3,14.0,1,inside,1,88-90 Bourke Street MELBOURNE VIC 3000,The Bank,Residential Apartment,2003
+804185,-37.815572,144.961519,1901,5,21.0,2,inside,1,Fairfax House 392-396 Little Collins Street MELBOURNE VIC 3000,Quest Fairfax House,Residential Apartment,1996
+804213,-37.811222,144.966664,1871,2,8.0,1,inside,1,193 Lonsdale Street MELBOURNE VIC 3000,,Office,1999
+804265,-37.809309,144.970647,2006,34,148.0,6,inside,7,The Urban Workshop 32-54 Lonsdale Street MELBOURNE VIC 3000,The Urban Workshop,Office,
+804266,-37.809242,144.971052,,,21.0,2,none,0,,,,
+804274,-37.81393,144.959733,1924,4,15.5,1,inside,1,428-432 Little Bourke Street MELBOURNE VIC 3000,Denmark House,Office,1992
+804281,-37.807964,144.960035,,,8.0,1,none,0,,,,
+804282,-37.810428,144.971106,2018,1,9.0,1,inside,1,18-20 Punch Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+804301,-37.812115,144.964653,1910,2,8.5,1,inside,1,257-259 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2012
+804317,-37.816305,144.96034,1910,2,7.5,2,inside,1,433 Little Collins Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1990
+804320,-37.813441,144.965108,1913,5,24.5,3,inside,1,280-282 Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,1990
+804321,-37.816993,144.959217,1908,7,32.5,3,inside,1,90-96 William Street MELBOURNE VIC 3000,Scottish House,Office,1999
+804325,-37.816406,144.964485,1941,10,47.5,7,inside,1,287-301 Collins Street MELBOURNE VIC 3000,Royal Bank Chambers,Office,2012
+804359,-37.811223,144.969164,1894,2,10.0,1,inside,1,108-110 Little Bourke Street MELBOURNE VIC 3000,Chinese Church Of England Mission Hall,Retail - Shop,
+804373,-37.812138,144.960682,1890,4,17.5,1,inside,1,106-112 Hardware Street MELBOURNE VIC 3000,Hardware Court,Office,1997
+804391,-37.807978,144.970389,,,54.5,5,none,0,,,,
+804393,-37.818015,144.960806,1969,16,57.0,1,inside,1,42-52 Market Street MELBOURNE VIC 3000,Treasury Funds House,Office,1996
+804421,-37.808307,144.960858,2017,71,218.0,3,inside,1,442-450 Elizabeth Street MELBOURNE VIC 3000,Lighthouse,Residential Apartment,
+804430,-37.807358,144.960422,1900,4,15.5,1,inside,1,490-494 Elizabeth Street MELBOURNE VIC 3000,,Commercial Accommodation,1989
+804445,-37.812975,144.969824,,,101.5,5,none,0,,,,
+804456,-37.808916,144.960428,1872,2,9.5,2,inside,1,429-431 Elizabeth Street MELBOURNE VIC 3000,,Unoccupied - Unused,1994
+804475,-37.815389,144.954969,1913,2,10.0,1,inside,1,203-207 King Street MELBOURNE VIC 3000,Former YHA Building,Entertainment/Recreation - Indoor,2000
+804485,-37.813016,144.958633,1975,13,55.0,3,inside,1,Clarence Chambers 452-456 Lonsdale Street MELBOURNE VIC 3000,Clarence Chambers,Office,2009
+804500,-37.817008,144.959766,1965,17,74.0,5,inside,1,430-442 Collins Street MELBOURNE VIC 3000,Royal Insurance Centre,Unoccupied - Unused,1996
+804502,-37.80967,144.958007,1860,2,11.0,3,inside,2,375 Queen Street MELBOURNE VIC 3000,,Unoccupied - Unused,1980
+804506,-37.81069,144.968648,1974,11,45.5,2,inside,1,123-129 Lonsdale Street MELBOURNE VIC 3000,,Educational/Research,2006
+804513,-37.815403,144.961649,1860,3,12.0,1,inside,1,17 McKillop Street MELBOURNE VIC 3000,,Unoccupied - Unused,2000
+804516,-37.819745,144.962136,,,6.5,1,none,0,,,,
+804517,-37.819611,144.962702,,,3.5,1,none,0,,,,
+804520,-37.812252,144.96843,1871,3,10.5,3,inside,1,1-5 Coverlid Place MELBOURNE VIC 3000,,Unoccupied - Unused,1980
+804523,-37.807519,144.959643,1975,9,35.0,5,inside,1,489-499 Elizabeth Street MELBOURNE VIC 3000,Jasper Hotel,Commercial Accommodation,2007
+804541,-37.814587,144.961278,1868,2,7.0,1,inside,1,422-424 Bourke Street MELBOURNE VIC 3000,,Retail - Shop,1991
+804556,-37.813826,144.961756,1939,4,17.0,1,inside,1,373-375 Little Bourke Street MELBOURNE VIC 3000,Drayton House,Office,1997
+804586,-37.816256,144.954714,1916,6,21.5,2,inside,1,636-638 Bourke Street MELBOURNE VIC 3000,Alto Hotel on Bourke,Commercial Accommodation,2006
+804620,-37.819648,144.954738,1950,9,32.5,4,inside,1,Great Southern Hotel 44-64 Spencer Street MELBOURNE VIC 3000,Great Southern Hotel (Former Hotel Enterprize),Commercial Accommodation,2009
+804621,-37.819613,144.954943,,,29.0,1,none,0,,,,
+804630,-37.811612,144.961627,1900,2,9.0,1,inside,1,301 Elizabeth Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+804638,-37.816359,144.958884,1976,24,92.5,2,inside,1,114-128 William Street MELBOURNE VIC 3000,,Office,2008
+804642,-37.813196,144.962275,1974,18,65.5,3,inside,1,Nova Apartments 219-233 Elizabeth Street MELBOURNE VIC 3000,The Nova,Residential Apartment,2001
+804649,-37.814143,144.965612,1920,3,13.0,1,inside,1,155 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+804667,-37.812183,144.966949,1965,2,10.6,2,inside,1,189-191 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+804668,-37.810908,144.971342,1890,4,11.0,1,inside,1,43 Little Bourke Street MELBOURNE VIC 3000,Liverpool Chambers,Residential Apartment,1984
+804679,-37.811865,144.965438,1894,4,17.0,1,inside,1,23-25 Tattersalls Lane MELBOURNE VIC 3000,,Residential Apartment,1997
+804682,-37.810758,144.960871,2016,44,145.0,3,inside,1,Eporo Tower 279-289 La Trobe Street MELBOURNE VIC 3000,Eporo Tower,Residential Apartment,
+804687,-37.816141,144.970322,1907,8,30.0,3,inside,1,10-20 Oliver Lane MELBOURNE VIC 3000,,Office,2015
+804693,-37.810677,144.963549,1900,2,10.0,1,inside,1,194-196 Little Lonsdale Street MELBOURNE VIC 3000,Knox House,Office,1991
+804694,-37.80901,144.966671,1991,13,57.5,5,inside,1,171-177 La Trobe Street MELBOURNE VIC 3000,,Office,
+804706,-37.811346,144.959486,1955,2,8.0,1,inside,1,310-314 Queen Street MELBOURNE VIC 3000,,Commercial Accommodation,1983
+804707,-37.809466,144.967342,1963,3,11.5,2,inside,1,152-156 Little Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+804720,-37.810975,144.960886,1910,2,7.0,1,inside,1,22-28 Sutherland Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+804737,-37.81006,144.957134,2012,25,82.5,9,inside,1,Pegasus Apartment Hotel 206-216 A'Beckett Street MELBOURNE VIC 3000,Pegasus Apartment Hotel,Commercial Accommodation,
+804778,-37.812012,144.964606,,1,8.5,2,inside,1,265-267 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1997
+804782,-37.81443,144.963668,1925,10,47.0,6,inside,1,341-357 Bourke Street MELBOURNE VIC 3000,London Stores,Office,2016
+804788,-37.817407,144.961237,1937,10,48.0,7,inside,1,401-403 Collins Street MELBOURNE VIC 3000,The Trustees Building,Unoccupied - Under Renovation,1985
+804794,-37.81059,144.963733,,,4.5,1,none,0,,,,
+804802,-37.813852,144.961205,1920,4,16.5,1,inside,1,393-397 Little Bourke Street MELBOURNE VIC 3000,Kirks Building,Retail - Shop,2002
+804807,-37.809527,144.961421,2016,2,9.5,1,inside,1,388-396 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,
+804817,-37.818445,144.967375,,2,39.8,25,near,1,Northbank Flinders Walk MELBOURNE VIC 3000,Northbank,Public Display Area,2010
+804876,-37.808659,144.965829,,,20.5,8,none,0,,,,
+804883,-37.816971,144.960489,1941,11,43.0,4,inside,1,412-414 Collins Street MELBOURNE VIC 3000,Collins Hill House,Unoccupied - Unused,1991
+804887,-37.808656,144.960273,1859,3,13.0,4,inside,1,441-447 Elizabeth Street MELBOURNE VIC 3000,,Student Accommodation,1996
+804888,-37.814293,144.961405,1920,3,12.0,1,inside,1,13-15 Hardware Lane MELBOURNE VIC 3000,,Retail - Shop,
+804893,-37.814616,144.966579,,,27.3,11,none,0,,,,
+804903,-37.815816,144.967386,2000,16,59.5,11,inside,1,199-209 Collins Street MELBOURNE VIC 3000,The Westin Melbourne,Commercial Accommodation,
+804909,-37.808225,144.971263,1997,21,70.5,4,near,2,Spring Street Tower 283 Spring Street MELBOURNE VIC 3000,Spring Street Towers,Residential Apartment,1998
+804910,-37.813808,144.966069,1901,3,15.0,1,inside,1,166 Swanston Street MELBOURNE VIC 3000,,Storage,1997
+804925,-37.811713,144.961674,1930,2,10.5,1,inside,1,295-297 Elizabeth Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1991
+804961,-37.819631,144.956892,,31,90.9,4,inside,1,509 Flinders Lane MELBOURNE VIC 3000,,Commercial Accommodation,2020
+804968,-37.813247,144.961421,1920,4,12.5,1,inside,1,15-17 Niagara Lane MELBOURNE VIC 3000,,Commercial Accommodation,1997
+805017,-37.815321,144.954689,1916,2,10.5,3,inside,1,590-592 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2017
+805032,-37.812046,144.969078,1900,3,12.5,1,inside,1,21-25 Croft Alley MELBOURNE VIC 3000,,Unoccupied - Unused,2002
+805138,-37.8133,144.965102,1945,1,6.0,1,inside,1,185-189 Swanston Street MELBOURNE VIC 3000,,Retail - Shop,
+805142,-37.808128,144.958623,1945,2,9.5,1,near,1,25-27 Kulinbulok Lane MELBOURNE VIC 3000,,Office,
+805144,-37.814858,144.96289,1983,42,169.6,4,inside,2,385 Bourke Street MELBOURNE VIC 3000,,Office,
+805192,-37.81404,144.958643,,,15.0,8,none,0,,,,
+805193,-37.81408,144.958162,1874,2,35.5,3,inside,1,Supreme Court 192-228 William Street MELBOURNE VIC 3000,Supreme Court,"Performances, Conferences, Ceremonies",1995
+805215,-37.81616,144.962211,1978,38,143.0,4,inside,1,360 Collins Street MELBOURNE VIC 3000,Collins Wales House,Office,2018
+805218,-37.812454,144.968474,1910,1,8.0,1,inside,1,160-162 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2000
+805221,-37.816048,144.969001,1924,8,28.5,1,inside,1,165 Flinders Lane MELBOURNE VIC 3000,McDonald House,Residential Apartment,1988
+805224,-37.816826,144.966427,1940,8,33.0,3,inside,1,237-239 Flinders Lane MELBOURNE VIC 3000,,Residential Apartment,1987
+805226,-37.816313,144.970562,1885,5,21.0,1,inside,1,130-132 Flinders Street MELBOURNE VIC 3000,,Residential Apartment,1995
+805244,-37.80786,144.960633,2017,79,245.0,2,inside,1,452-472 Elizabeth Street MELBOURNE VIC 3000,,Residential Apartment,
+805246,-37.808756,144.96422,,,18.5,3,none,0,,,,
+805251,-37.809849,144.961486,1875,2,10.5,2,inside,1,380 Elizabeth Street MELBOURNE VIC 3000,,Unoccupied - Unused,2000
+805256,-37.80844,144.958178,1925,2,12.5,1,inside,1,432-438 Queen Street MELBOURNE VIC 3000,Queen Victoria Building,Unoccupied - Unused,1986
+805271,-37.813613,144.962303,1910,3,11.5,1,inside,1,29-31 Somerset Place MELBOURNE VIC 3000,,Unoccupied - Unused,1984
+805280,-37.809887,144.971397,2006,30,97.5,4,inside,1,23-33 Lonsdale Street MELBOURNE VIC 3000,Oaks on Lonsdale,Commercial Accommodation,
+805290,-37.808337,144.967271,1964,3,11.5,1,inside,1,52 La Trobe Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2001
+805295,-37.808877,144.967809,1945,2,8.0,2,inside,1,20 Bennetts Lane MELBOURNE VIC 3000,,House/Townhouse,1998
+805297,-37.809123,144.964,,,29.1,3,none,0,,,,
+805315,-37.811552,144.959671,1848,3,14.0,3,near,1,296-308 Queen Street MELBOURNE VIC 3000,,Office,1980
+805323,-37.817416,144.964333,1966,13,46.5,3,inside,1,31-39 Elizabeth Street MELBOURNE VIC 3000,,Commercial Accommodation,1990
+805329,-37.811096,144.971546,2005,12,38.0,7,inside,1,16-22 Liverpool Street MELBOURNE VIC 3000,16 Liverpool Street,Residential Apartment,
+805350,-37.813167,144.967764,1945,3,14.0,2,inside,1,189-191 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+805361,-37.815003,144.955663,1920,4,14.5,1,inside,1,562-566 Little Bourke Street MELBOURNE VIC 3000,,Residential Apartment,2000
+805364,-37.814568,144.964046,1869,3,15.0,6,inside,1,Royal Arcade 331-339 Bourke Street MELBOURNE VIC 3000,Royal Arcade,Retail - Shop,2003
+805367,-37.815791,144.967822,1929,9,41.0,9,inside,1,Regent Theatre 191-197 Collins Street MELBOURNE VIC 3000,Regent Theatre,"Performances, Conferences, Ceremonies",1996
+805389,-37.814912,144.971526,1970,5,23.5,2,inside,1,45-47 Exhibition Street MELBOURNE VIC 3000,,Unoccupied - Unused,1987
+805432,-37.810752,144.959026,1921,4,16.0,1,inside,1,338-344 Queen Street MELBOURNE VIC 3000,,Educational/Research,1986
+805433,-37.814282,144.96529,1979,6,27.5,12,inside,1,Centrepoint Mall 283-297 Bourke Street MELBOURNE VIC 3000,Centrepoint,Unoccupied - Unused,2006
+805441,-37.811292,144.96794,2000,21,69.5,6,inside,1,Mantra On Russell 210-222 Russell Street MELBOURNE VIC 3000,Mantra On Russell,Commercial Accommodation,
+805442,-37.815583,144.96175,1920,11,37.5,2,inside,1,Excelsior 384-390 Little Collins Street MELBOURNE VIC 3000,Excelsior,Residential Apartment,1994
+805453,-37.813016,144.958324,2002,19,77.0,5,inside,1,458-468 Lonsdale Street MELBOURNE VIC 3000,,Office,
+805487,-37.817589,144.966024,1910,4,19.5,1,inside,1,250-254 Flinders Street MELBOURNE VIC 3000,,Commercial Accommodation,2000
+805492,-37.813814,144.961847,1901,2,8.5,1,inside,1,15-19 Warburton Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+805508,-37.816244,144.962942,1930,8,31.0,3,inside,1,338-342 Collins Street MELBOURNE VIC 3000,Austock House,Retail - Shop,1994
+805518,-37.810721,144.959133,1923,2,9.0,1,inside,1,360 La Trobe Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2006
+805543,-37.813793,144.973472,1950,2,9.0,2,inside,1,11 Collins Street MELBOURNE VIC 3000,,Retail - Shop,2006
+805546,-37.808732,144.967706,1935,4,20.0,4,inside,1,123-139 La Trobe Street MELBOURNE VIC 3000,La Trobe Terrace,Residential Apartment,1999
+805552,-37.817338,144.961473,1891,9,45.0,3,inside,1,389-399 Collins Street MELBOURNE VIC 3000,BNZA House,Unoccupied - Unused,1983
+805561,-37.817868,144.963345,1912,6,22.5,1,inside,1,333 Flinders Lane MELBOURNE VIC 3000,Boydex House,Unoccupied - Unused,1987
+805565,-37.813116,144.960346,1952,6,25.0,3,inside,1,419-421 Lonsdale Street MELBOURNE VIC 3000,Crown Terrace,Residential Apartment,1995
+805588,-37.818735,144.957138,1854,2,9.5,1,inside,1,62-66 King Street MELBOURNE VIC 3000,York Butter Factories,Unoccupied - Unused,1986
+805610,-37.815681,144.97014,1910,2,10.0,2,inside,1,133-135 Flinders Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2007
+805615,-37.814436,144.967815,1880,4,20.0,1,inside,1,162-168 Collins Street MELBOURNE VIC 3000,Georges Building,Office,2002
+805621,-37.81413,144.966216,1871,2,9.6,2,inside,1,148 Swanston Street MELBOURNE VIC 3000,,Retail - Shop,1992
+805627,-37.813134,144.967844,1945,4,16.5,2,inside,1,185-187 Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,1986
+805630,-37.810778,144.956902,2002,27,89.8,5,near,2,Wills Tower 28 Wills Street MELBOURNE VIC 3000,Wills Tower,Residential Apartment,
+805631,-37.817494,144.960983,1930,8,34.0,4,inside,1,409-413 Collins Street MELBOURNE VIC 3000,Commercial Union Chambers,Office,1997
+805639,-37.808292,144.96561,,,11.9,6,none,0,,,,
+805643,-37.80781,144.966955,2011,32,102.5,6,inside,1,MacKenzie Tower 27-39 MacKenzie Street MELBOURNE VIC 3000,Mackenzie Tower,Residential Apartment,
+805652,-37.809399,144.958973,1924,3,15.5,2,inside,1,5-7 Anthony Street MELBOURNE VIC 3000,,House/Townhouse,1993
+805668,-37.816137,144.966537,1904,4,15.0,1,inside,1,65 Swanston Street MELBOURNE VIC 3000,,Storage,2014
+805701,-37.814168,144.966232,1901,2,9.0,3,inside,1,146 Swanston Street MELBOURNE VIC 3000,,Retail - Shop,1981
+805713,-37.815274,144.957623,2008,28,121.5,2,near,3,CGU Tower 181 William Street MELBOURNE VIC 3000,CGU Tower,Office,
+805738,-37.815364,144.97363,1900,5,25.0,2,inside,1,26-30 Flinders Street MELBOURNE VIC 3000,Hotel Lindrum,Unoccupied - Unused,1999
+805745,-37.808104,144.959782,1973,6,21.0,1,inside,1,88-94 Franklin Street MELBOURNE VIC 3000,Cityview Apartments,Residential Apartment,1997
+805746,-37.818395,144.963292,1909,5,36.3,2,inside,1,334-340 Flinders Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+805748,-37.817712,144.963716,1923,12,43.0,4,inside,1,317-323 Flinders Lane MELBOURNE VIC 3000,The Sebel Melbourne,Commercial Accommodation,1995
+805749,-37.813469,144.972483,1976,16,57.5,2,inside,1,30-34 Collins Street MELBOURNE VIC 3000,,Office,2000
+805764,-37.814153,144.97393,2016,43,164.5,3,inside,1,35-47 Spring Street MELBOURNE VIC 3000,,Residential Apartment,
+805770,-37.810228,144.970612,1989,4,14.5,2,inside,1,35-37 Punch Lane MELBOURNE VIC 3000,,Residential Apartment,
+805824,-37.812988,144.95666,1856,2,8.0,2,inside,1,261 William Street MELBOURNE VIC 3000,,Retail - Shop,1990
+805827,-37.815849,144.955136,1900,2,8.5,2,inside,1,185 King Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1957
+805830,-37.81783,144.9645,1963,3,11.5,1,inside,1,11-15 Elizabeth Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1988
+805833,-37.809778,144.965536,1856,6,43.5,17,inside,1,State Library of Victoria 304-328 Swanston Street MELBOURNE VIC 3000,State Library of Victoria,Community Use,2014
+805834,-37.814026,144.960663,1965,19,70.5,3,inside,1,184-192 Queen Street MELBOURNE VIC 3000,190 Queen Street,Educational/Research,2003
+805836,-37.813089,144.965007,1989,16,52.5,4,inside,1,191-205 Swanston Street MELBOURNE VIC 3000,Hotel Swanston,Commercial Accommodation,2000
+805854,-37.813953,144.962355,1920,4,13.0,2,near,1,9-15 Rankins Lane MELBOURNE VIC 3000,Rankins House,Residential Apartment,1990
+805858,-37.812278,144.968176,1970,3,9.0,1,inside,1,168 Russell Street MELBOURNE VIC 3000,,Storage,1997
+805884,-37.816469,144.967717,,,11.5,1,none,0,,,,
+805891,-37.80927,144.96679,2014,58,188.5,4,inside,1,302-324 Russell Street MELBOURNE VIC 3000,Adobe 318 Apartments,Residential Apartment,
+805928,-37.817576,144.968729,,,26.5,2,none,0,,,,
+805929,-37.817474,144.969072,,,21.0,2,none,0,,,,
+805948,-37.815303,144.963958,1888,4,17.0,2,inside,1,112-118 Elizabeth Street MELBOURNE VIC 3000,City of Melbourne Chambers,Unoccupied - Unused,
+805961,-37.812844,144.971192,1925,2,14.0,3,inside,1,114-122 Exhibition Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2013
+805994,-37.816597,144.965594,1901,4,20.0,1,inside,1,252-254 Flinders Lane MELBOURNE VIC 3000,Centre House,Unoccupied - Unused,
+806002,-37.809519,144.966896,1925,3,13.5,2,inside,1,300 Russell Street MELBOURNE VIC 3000,,Retail - Shop,
+806003,-37.813268,144.971435,1965,11,15.6,3,inside,1,96-102 Exhibition Street MELBOURNE VIC 3000,,Commercial Accommodation,2003
+806012,-37.809131,144.961957,1966,2,6.5,1,inside,1,55-59 A'Beckett Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2018
+806014,-37.814863,144.965545,1901,2,8.0,3,inside,1,269 Little Collins Street MELBOURNE VIC 3000,,Retail - Shop,2013
+806016,-37.812585,144.958392,1999,3,14.5,3,inside,1,Melbourne Childrens Court 451-477 Little Lonsdale Street MELBOURNE VIC 3000,Melbourne Childrens Court,Office,
+806020,-37.807288,144.963451,,,17.0,1,none,0,,,,
+806021,-37.807204,144.963947,,,5.5,1,none,0,,,,
+806031,-37.809377,144.96188,1910,3,11.5,1,inside,1,62-64 Little La Trobe Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+806032,-37.812869,144.962241,1889,3,14.0,2,inside,1,245-247 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,1990
+806057,-37.81313,144.956405,1855,1,4.0,1,inside,1,523-525 Little Lonsdale Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1988
+806063,-37.809363,144.96806,1888,3,12.0,2,inside,1,128-130 Little Lonsdale Street MELBOURNE VIC 3000,,House/Townhouse,2000
+806069,-37.811386,144.971703,1983,6,19.0,9,inside,1,40-50 Bourke Street MELBOURNE VIC 3000,Bourke Hill Apartments,Residential Apartment,
+806070,-37.811295,144.971828,,,8.0,1,none,0,,,,
+806073,-37.808692,144.969698,1982,18,98.0,8,inside,1,Telstra Exhibition Exchange 288-308 Exhibition Street MELBOURNE VIC 3000,Telstra Exhibition Exchange,Equipment Installation,2016
+806074,-37.808437,144.970167,,,5.5,1,none,0,,,,
+806080,-37.815562,144.965307,1927,4,17.0,1,inside,1,256 Collins Street MELBOURNE VIC 3000,,"Performances, Conferences, Ceremonies",2000
+806083,-37.812376,144.959897,1890,5,23.0,2,inside,1,260-264 Queen Street MELBOURNE VIC 3000,,Office,1985
+806099,-37.811883,144.960238,1920,4,14.5,2,inside,1,395-397 Little Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,2002
+806115,-37.811433,144.960124,1910,3,8.5,1,inside,1,28 McLean Alley MELBOURNE VIC 3000,,House/Townhouse,1996
+806122,-37.815806,144.964199,1861,3,10.5,2,inside,1,90 Elizabeth Street MELBOURNE VIC 3000,,Unoccupied - Unused,1985
+806148,-37.811793,144.961711,1895,2,10.0,1,inside,1,291-293 Elizabeth Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2009
+806158,-37.818365,144.955426,2016,67,222.5,3,inside,1,568-580 Collins Street MELBOURNE VIC 3000,,Residential Apartment,
+806162,-37.813733,144.956122,,,35.5,2,none,0,,,,
+806165,-37.807451,144.961193,1965,18,70.4,5,inside,1,42-56 Franklin Street MELBOURNE VIC 3000,,Office,2018
+806166,-37.814319,144.966375,,,4.6,1,none,0,,,,
+806167,-37.814335,144.966282,,1,2.5,1,near,1,134-142 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1994
+806249,-37.812579,144.971168,1972,11,43.0,2,inside,1,128-134 Exhibition Street MELBOURNE VIC 3000,128 Exhibition,Office,1991
+806259,-37.812056,144.959786,1945,4,18.0,3,inside,1,272-282 Queen Street MELBOURNE VIC 3000,,Unoccupied - Under Renovation,2005
+806261,-37.812373,144.968207,1874,2,8.0,1,inside,1,162-164 Russell Street MELBOURNE VIC 3000,,Storage,1995
+806265,-37.808419,144.958745,1887,3,14.0,3,inside,1,126-130 Franklin Street MELBOURNE VIC 3000,Franklin Apartments,Residential Apartment,1993
+806269,-37.819419,144.955926,1982,12,37.0,1,inside,1,522-552 Flinders Lane MELBOURNE VIC 3000,,Parking - Commercial Covered,1997
+806283,-37.811603,144.961388,1870,2,12.5,2,inside,1,359 Little Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+806304,-37.817593,144.965735,2006,14,39.5,5,inside,1,The Empire Apartments 256-268 Flinders Street MELBOURNE VIC 3000,The Empire Apartments,Residential Apartment,
+806305,-37.807623,144.969282,1859,2,11.5,2,inside,3,Royal Society Of Victoria Royal Society Of Victoria 8 La Trobe Street MELBOURNE VIC 3000,Royal Society of Victoria,"Performances, Conferences, Ceremonies",2009
+806312,-37.81789,144.962761,1910,7,27.5,3,inside,1,353-355 Flinders Lane MELBOURNE VIC 3000,Labassa House,Residential Apartment,1995
+806316,-37.814185,144.960754,1960,5,24.5,3,inside,1,178-182 Queen Street MELBOURNE VIC 3000,Nicholas O Donhue & Co Building,Office,2004
+806317,-37.816548,144.960585,1885,3,14.0,2,inside,1,The Melbourne Savage Club 12-16 Bank Place MELBOURNE VIC 3000,The Melbourne Savage Club,Entertainment/Recreation - Indoor,
+806341,-37.812222,144.969175,1920,4,17.5,1,inside,1,130-132 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2004
+806353,-37.813494,144.962306,1920,2,9.5,1,inside,1,349-351 Little Bourke Street MELBOURNE VIC 3000,,Retail - Shop,2000
+806370,-37.816483,144.969387,1929,6,34.5,4,inside,1,150-162 Flinders Street MELBOURNE VIC 3000,Forum Theatre,Entertainment/Recreation - Indoor,1996
+806376,-37.809278,144.968089,1920,2,8.0,1,inside,1,124-126 Little Lonsdale Street MELBOURNE VIC 3000,,Retail - Shop,
+806377,-37.813913,144.95431,1953,2,9.5,1,inside,1,267-271 King Street MELBOURNE VIC 3000,,Retail - Shop,1991
+806385,-37.814881,144.967284,1885,4,22.8,5,inside,1,184-192 Collins Street MELBOURNE VIC 3000,Athenaeum Library and Theatre,"Performances, Conferences, Ceremonies",1991
+806390,-37.81742,144.955358,1874,2,8.0,2,inside,1,582-584 Little Collins Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2001
+806404,-37.809076,144.95707,,,10.0,1,none,0,,,,
+806438,-37.81345,144.965228,1859,3,16.0,2,inside,1,274-278 Bourke Street MELBOURNE VIC 3000,,Retail - Shop,2011
+806440,-37.812018,144.971752,1880,2,10.1,4,inside,1,53 Bourke Street MELBOURNE VIC 3000,,Retail - Shop,
+806450,-37.813437,144.960996,1887,3,14.0,1,inside,1,55-57 Hardware Lane MELBOURNE VIC 3000,,Unoccupied - Unused,1989
+806457,-37.812677,144.971309,1973,11,44.5,3,inside,1,124-126 Exhibition Street MELBOURNE VIC 3000,,Unoccupied - Unused,2001
+806499,-37.809008,144.962366,1970,3,11.0,1,inside,1,39 A'Beckett Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+806501,-37.814014,144.965539,1910,3,13.0,1,inside,1,161 Swanston Street MELBOURNE VIC 3000,,Storage,
+806524,-37.812002,144.966608,1861,2,10.5,3,inside,1,200-202 Little Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+806568,-37.809339,144.967081,1950,2,9.0,1,inside,1,56 Hayward Lane MELBOURNE VIC 3000,,House/Townhouse,
+806575,-37.817989,144.954888,2004,14,52.0,5,inside,1,601-611 Little Collins Street MELBOURNE VIC 3000,,Residential Apartment,2014
+806587,-37.812205,144.972396,1910,2,10.5,1,inside,2,20 Meyers Place MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+806596,-37.811328,144.97238,1890,2,11.5,2,inside,1,18 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1998
+806629,-37.813109,144.967994,1923,6,24.0,1,inside,1,143-153 Russell Street MELBOURNE VIC 3000,Bourke House,Office,2015
+806667,-37.817585,144.968311,,,22.5,1,none,0,,,,
+806689,-37.809294,144.968286,1862,2,9.5,2,inside,1,116-118 Little Lonsdale Street MELBOURNE VIC 3000,,House/Townhouse,2006
+806691,-37.81987,144.956627,1990,6,25.5,8,inside,1,517-537 Flinders Lane MELBOURNE VIC 3000,Katherine Square,Parking - Commercial Covered,
+806705,-37.812509,144.96825,1861,2,8.0,1,inside,1,168-174 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2010
+806719,-37.818617,144.957068,,,5.0,1,none,0,,,,
+806738,-37.813156,144.953833,1920,1,4.5,1,inside,1,311-315 King Street MELBOURNE VIC 3000,Building F,Educational/Research,2009
+806751,-37.816882,144.970228,,,4.5,1,none,0,,,,
+806752,-37.816834,144.970428,,,5.9,2,none,0,,,,
+806753,-37.816862,144.97032,,,3.5,1,none,0,,,,
+806754,-37.809145,144.968586,1954,2,8.5,1,inside,1,106 Little Lonsdale Street MELBOURNE VIC 3000,,Office,1995
+806809,-37.815875,144.960657,1961,17,61.0,7,inside,1,111-129 Queen Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2006
+806828,-37.809241,144.961582,1854,2,7.0,1,inside,1,71-73 A'Beckett Street MELBOURNE VIC 3000,Victorian Spiritualist Union,Retail - Shop,
+806870,-37.812075,144.967426,1890,3,14.5,2,inside,1,191-193 Russell Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2013
+806874,-37.817715,144.964447,1927,7,33.8,3,inside,1,17-19 Elizabeth Street MELBOURNE VIC 3000,Excelsior House,Residential Apartment,1993
+806889,-37.813742,144.973658,1984,18,70.5,13,inside,1,1-9 Collins Street MELBOURNE VIC 3000,One Collins Street,Office,1995
+806929,-37.819491,144.958553,1993,20,89.0,8,inside,1,452-470 Flinders Street MELBOURNE VIC 3000,,Office,
+806942,-37.812265,144.965789,1895,2,8.0,2,inside,1,238 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1998
+806943,-37.814922,144.967634,1889,5,22.5,1,near,1,176-180 Collins Street MELBOURNE VIC 3000,Pleasance House,Office,1991
+806953,-37.808497,144.958485,1899,2,9.5,1,inside,1,132-140 Franklin Street MELBOURNE VIC 3000,Concord House,Office,
+806993,-37.809764,144.957381,,,7.0,1,none,0,,,,
+806994,-37.809634,144.957404,1937,2,10.0,1,near,1,225-227 Franklin Street MELBOURNE VIC 3000,,Unoccupied - Unused,1997
+807014,-37.811561,144.967236,1892,3,14.0,2,inside,1,213-217 Russell Street MELBOURNE VIC 3000,Tetis Building,Entertainment/Recreation - Indoor,1985
+807033,-37.818504,144.958589,2020,40,167.7,13,inside,1,471-485 Collins Street MELBOURNE VIC 3000,The Olderfleet Building,Office,
+807044,-37.810921,144.962089,1991,52,211.0,3,inside,1,316-360 Elizabeth Street MELBOURNE VIC 3000,Melbourne Central Tower,Office,
+807057,-37.8155,144.956752,1972,33,118.0,3,inside,1,562-574 Bourke Street MELBOURNE VIC 3000,570 Bourke,Office,2015
+807068,-37.812311,144.96758,1892,2,13.0,2,inside,2,175 Russell Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2007
+807075,-37.816089,144.955263,1922,3,14.5,2,inside,1,171-173 King Street MELBOURNE VIC 3000,,Unoccupied - Unused,1992
+807077,-37.810328,144.972164,1989,5,21.5,2,inside,1,185-197 Spring Street MELBOURNE VIC 3000,Holmes Colleges,Educational/Research,
+807088,-37.816794,144.960917,1865,8,38.5,4,inside,1,400-402 Collins Street MELBOURNE VIC 3000,London and Lancashire Building,Office,2012
+807101,-37.808207,144.96668,2004,27,97.1,18,near,3,The Blue Tower 68 La Trobe Street MELBOURNE VIC 3000,The Blue Tower,Residential Apartment,
+807103,-37.811477,144.967198,1892,3,13.0,1,inside,1,219 Russell Street MELBOURNE VIC 3000,,Residential Apartment,2001
+807112,-37.813435,144.959429,1924,4,20.5,1,inside,1,Lonsdale Central Apartments 439-445 Lonsdale Street MELBOURNE VIC 3000,Lonsdale Central Apartments,Student Accommodation,2004
+807118,-37.81967,144.958239,1990,19,61.5,5,inside,1,472-482 Flinders Street MELBOURNE VIC 3000,Best Western Riverside Apartments,Parking - Commercial Covered,2000
+807144,-37.817794,144.961328,1945,7,38.9,7,inside,1,376-382 Flinders Lane MELBOURNE VIC 3000,Telstra Batman Exchange,Equipment Installation,1945
+807166,-37.815969,144.964223,1904,8,36.0,4,inside,1,298-304 Collins Street MELBOURNE VIC 3000,The Cashmore On Collins,Residential Apartment,2002
+807174,-37.81142,144.964354,1920,3,12.5,2,inside,1,281-287 Swanston Street MELBOURNE VIC 3000,,Unoccupied - Unused,1995
+807201,-37.815496,144.965412,1935,7,25.8,3,inside,1,252 Collins Street MELBOURNE VIC 3000,The Hour Glass Building,Office,1997
+807222,-37.815693,144.956214,1991,53,202.6,12,inside,1,578-606 Bourke Street MELBOURNE VIC 3000,Bourke Place,Office,
+807223,-37.812067,144.966295,1883,2,9.5,1,inside,1,212 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2002
+807225,-37.817986,144.961212,1890,4,22.5,2,inside,1,384-386 Flinders Lane MELBOURNE VIC 3000,Tonic House,Office,2011
+807227,-37.811911,144.96453,1901,2,8.5,2,inside,1,271 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+807257,-37.815205,144.965206,1930,6,24.0,2,inside,1,1-7 Carson Place MELBOURNE VIC 3000,Vesta House,Equipment Installation,
+807284,-37.819755,144.95695,1913,6,26.5,2,inside,1,27-31 King Street MELBOURNE VIC 3000,Melbourne Steamship CO.,Entertainment/Recreation - Indoor,2010
+807296,-37.811303,144.963972,1901,4,19.0,2,inside,1,2-20 Drewery Place MELBOURNE VIC 3000,Harstel House,Office,
+807302,-37.813464,144.967103,1941,11,51.0,6,inside,1,219-225 Bourke Street MELBOURNE VIC 3000,Commonwealth Bank Building,Office,1991
+807317,-37.8157,144.970034,1924,3,16.5,2,inside,1,137-139 Flinders Lane MELBOURNE VIC 3000,Bank of New South Wales,Office,2000
+807345,-37.811203,144.959974,1920,1,3.5,1,inside,1,26-28 Guildford Lane MELBOURNE VIC 3000,,Office,
+807365,-37.816332,144.965627,1973,16,72.1,5,inside,1,251-257 Collins Street MELBOURNE VIC 3000,Emirates House,Office,2019
+807393,-37.814847,144.963728,1901,2,13.5,1,inside,1,136-140 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,
+807400,-37.815289,144.964272,1891,4,16.0,1,near,1,317-321 Little Collins Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+807421,-37.812036,144.960116,2018,38,126.0,1,inside,1,399-401 Little Lonsdale Street MELBOURNE VIC 3000,,Commercial Accommodation,
+807425,-37.814885,144.954736,1990,12,50.0,7,inside,1,225-237 King Street MELBOURNE VIC 3000,Victorian University of Technology,Unoccupied - Unused,1999
+807441,-37.813779,144.962226,1920,2,10.0,1,inside,1,5-7 Rankins Lane MELBOURNE VIC 3000,,Retail - Shop,
+807446,-37.820179,144.957221,1925,3,15.2,3,near,1,Waterside Hotel 508-514 Flinders Street MELBOURNE VIC 3000,Waterside Hotel,Unoccupied - Under Renovation,
+807454,-37.813187,144.961882,1923,6,27.9,5,inside,1,354-360 Little Bourke Street MELBOURNE VIC 3000,Leo Cussen Institute,Unoccupied - Unused,2001
+807472,-37.814324,144.964159,1924,9,39.5,8,inside,1,327-329 Bourke Street MELBOURNE VIC 3000,Deva House,Unoccupied - Under Renovation,1997
+807478,-37.818862,144.961563,1987,9,23.0,1,inside,1,376-388 Flinders Street MELBOURNE VIC 3000,,Parking - Commercial Covered,
+807479,-37.813137,144.973261,1872,3,13.5,2,inside,1,8 Collins Street MELBOURNE VIC 3000,Portland House,Office,
+807498,-37.812784,144.969043,1920,2,7.5,1,inside,1,143-145 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1989
+807499,-37.811615,144.966987,1900,4,15.5,1,inside,1,7-9 Waratah Place MELBOURNE VIC 3000,,Office,2005
+807505,-37.810897,144.963708,1910,2,8.5,1,inside,1,277-279 Little Lonsdale Street MELBOURNE VIC 3000,,Retail - Shop,1994
+807520,-37.817851,144.963046,1909,6,26.0,1,inside,1,341-347 Flinders Lane MELBOURNE VIC 3000,Reid House,Educational/Research,1998
+807535,-37.817297,144.959439,1967,13,48.0,3,inside,1,446-452 Collins Street MELBOURNE VIC 3000,446 Collins,Office,1988
+807539,-37.817106,144.965474,1899,6,26.5,1,inside,1,Punt Hill Apartments 267-275 Flinders Lane MELBOURNE VIC 3000,The Lane Building,Commercial Accommodation,1997
+807540,-37.809455,144.969996,1992,47,193.5,36,inside,1,242-284 Exhibition Street MELBOURNE VIC 3000,Telstra Centre,Office,2010
+807543,-37.815063,144.972514,1929,9,37.0,4,inside,1,61-73 Flinders Lane MELBOURNE VIC 3000,Sargood House,Residential Apartment,1998
+807569,-37.815046,144.961443,,,42.5,2,none,0,,,,
+807573,-37.811908,144.96073,1989,5,19.0,2,inside,1,116-122 Hardware Street MELBOURNE VIC 3000,The Forecourt,Office,1997
+807580,-37.815718,144.955716,1925,2,9.0,2,inside,1,184 King Street MELBOURNE VIC 3000,,Retail - Shop,
+807593,-37.807843,144.9666,1967,4,21.5,2,inside,1,41-45 MacKenzie Street MELBOURNE VIC 3000,VPA Building,Unoccupied - Unused,
+807594,-37.808042,144.966691,,,9.0,3,none,0,,,,
+807603,-37.811258,144.966624,1871,2,8.0,1,inside,1,195 Lonsdale Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1996
+807617,-37.81532,144.964467,1901,3,11.0,1,near,1,28-32 Block Place MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1999
+807618,-37.815244,144.964469,,,7.5,1,none,0,,,,
+807632,-37.812694,144.96219,1889,3,11.5,1,inside,1,257 Elizabeth Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+807633,-37.816006,144.971053,2013,14,41.0,1,near,1,104-112 Flinders Street MELBOURNE VIC 3000,108 Flinders St,Residential Apartment,
+807640,-37.80669,144.960624,2011,10,32.0,5,inside,1,51-57 Victoria Street MELBOURNE VIC 3000,Drill Hall Affordable Housing Development,Residential Apartment,2010
+807650,-37.809665,144.966972,1855,2,9.8,1,inside,1,288-294 Russell Street MELBOURNE VIC 3000,Alexandra Building,Unoccupied - Under Renovation,2000
+807663,-37.810035,144.968899,1974,12,46.0,3,inside,1,108-116 Lonsdale Street MELBOURNE VIC 3000,Aviation House,Educational/Research,2007
+807671,-37.812914,144.955576,2004,7,27.0,3,inside,1,466-468 Little Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,2005
+807685,-37.820003,144.955815,2000,8,26.5,1,inside,1,547-555 Flinders Lane MELBOURNE VIC 3000,Morgan Place,Residential Apartment,
+807694,-37.814029,144.961033,1890,5,23.5,4,inside,1,401-405 Little Bourke Street MELBOURNE VIC 3000,Dawson Chambers,Office,1986
+807721,-37.810313,144.970652,1989,4,16.0,2,inside,1,31-33 Punch Lane MELBOURNE VIC 3000,,Residential Apartment,
+807738,-37.811814,144.972503,,1,9.5,1,inside,1,19-21 Bourke Street MELBOURNE VIC 3000,,Unoccupied - Under Renovation,
+807751,-37.814193,144.95414,,,13.0,2,none,0,,,,
+807765,-37.809236,144.95929,1924,3,14.0,1,inside,1,14-16 Anthony Street MELBOURNE VIC 3000,Swinnerton Bros & Co,Student Accommodation,2001
+807794,-37.812801,144.969171,2016,20,62.0,3,inside,1,The Metropolitan 137-141 Bourke Street MELBOURNE VIC 3000,,Residential Apartment,
+807848,-37.810511,144.969105,1890,3,18.0,1,inside,1,107-111 Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+807849,-37.815128,144.962185,2019,39,169.8,7,inside,1,393-413 Bourke Street MELBOURNE VIC 3000,The Foundry,Office,
+807863,-37.814876,144.959992,1965,14,54.0,1,inside,1,458-466 Bourke Street MELBOURNE VIC 3000,460 Bourke Street,Unoccupied - Unused,2008
+807865,-37.816297,144.961863,1993,36,161.8,9,near,1,376-390 Collins Street MELBOURNE VIC 3000,Queen & Collins,Office,1993
+807909,-37.809094,144.968904,1970,12,39.5,3,inside,1,287-293 Exhibition Street MELBOURNE VIC 3000,Exhibition Apartments,Residential Apartment,1996
+807918,-37.814772,144.958088,1973,13,46.0,2,inside,1,178-188 William Street MELBOURNE VIC 3000,Douglas Menzies Chambers,Office,1997
+807921,-37.811108,144.967032,1880,2,7.5,3,inside,1,235-241 Russell Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1996
+807940,-37.812617,144.973193,1972,28,83.0,5,inside,1,93-101 Spring Street MELBOURNE VIC 3000,Treasury Gate,Residential Apartment,1990
+807942,-37.812063,144.964629,1910,2,8.5,1,inside,1,261-263 Swanston Street MELBOURNE VIC 3000,Dooboo Korean Tofu House,Entertainment/Recreation - Indoor,1986
+807958,-37.812215,144.964699,1945,2,8.5,1,inside,1,251-253 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2018
+807977,-37.815839,144.958829,1972,42,153.0,1,inside,1,130-148 William Street MELBOURNE VIC 3000,,Office,2004
+807978,-37.816213,144.959242,,,27.5,2,none,0,,,,
+808000,-37.817552,144.964058,1914,6,31.0,1,inside,1,301-311 Flinders Lane MELBOURNE VIC 3000,Reliance House,Educational/Research,1989
+808006,-37.811588,144.966481,1910,4,21.3,6,inside,1,Substation 23-31 Heffernan Lane MELBOURNE VIC 3000,MCC SUBSTATION,Equipment Installation,
+808014,-37.814361,144.964869,1928,7,42.6,9,inside,1,299-307 Bourke Street MELBOURNE VIC 3000,David Jones,Unoccupied - Under Renovation,2004
+808015,-37.815699,144.955084,1880,2,9.5,2,inside,1,189-195 King Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1998
+808043,-37.816974,144.964131,1902,8,29.0,2,inside,1,55-57 Elizabeth Street MELBOURNE VIC 3000,,Residential Apartment,2000
+808063,-37.814292,144.960773,1950,4,17.5,2,inside,1,174-176 Queen Street MELBOURNE VIC 3000,Lensworth House,Office,2000
+808064,-37.807287,144.966133,1887,3,15.0,2,inside,1,Victoria Hall Apartments 390-394 Russell Street MELBOURNE VIC 3000,Victoria Hall Apartments,Residential Apartment,2000
+808076,-37.815243,144.955462,,,9.4,2,none,0,,,,
+808077,-37.816577,144.968551,1890,12,48.8,11,inside,2,172-192 Flinders Street MELBOURNE VIC 3000,Flinders Gate,Office,2020
+808102,-37.809356,144.961322,2016,62,198.5,3,inside,1,75-89 A'Beckett Street MELBOURNE VIC 3000,Empire,Residential Apartment,
+808137,-37.813601,144.961072,1926,7,30.0,3,inside,1,386-392 Little Bourke Street MELBOURNE VIC 3000,Hardware House,Unoccupied - Unused,1988
+808138,-37.810459,144.970809,1989,4,13.5,2,inside,5,15-17 Punch Lane MELBOURNE VIC 3000,,House/Townhouse,
+808156,-37.815269,144.964381,1912,4,12.5,1,inside,1,34-36 Block Place MELBOURNE VIC 3000,Douglas House,Retail - Shop,
+808167,-37.814868,144.965492,1901,2,8.0,3,inside,1,271 Little Collins Street MELBOURNE VIC 3000,,Retail - Shop,
+808172,-37.811435,144.966764,2018,4,23.2,8,inside,1,Substation 24-32 Heffernan Lane MELBOURNE VIC 3000,,Equipment Installation,2021
+808177,-37.818084,144.964008,1991,19,62.5,6,inside,1,300-316 Flinders Street MELBOURNE VIC 3000,Victoria University Of Technology,Parking - Commercial Covered,
+808184,-37.812546,144.965506,1888,5,22.0,1,inside,1,226-228 Swanston Street MELBOURNE VIC 3000,226 Swanston St,Unoccupied - Unused,1981
+808224,-37.810383,144.959083,1990,21,89.0,6,inside,1,346-362 Queen Street MELBOURNE VIC 3000,KTS House,Office,2003
+808238,-37.811703,144.971139,1890,2,9.0,2,inside,1,68 Bourke Street MELBOURNE VIC 3000,,Retail - Shop,
+808311,-37.815385,144.954576,1998,11,39.5,3,inside,1,594-600 Little Bourke Street MELBOURNE VIC 3000,Melbourne Hotel CBD,Commercial Accommodation,
+808324,-37.816534,144.956667,1987,17,67.5,2,inside,1,573-585 Bourke Street MELBOURNE VIC 3000,,Office,2003
+808327,-37.811051,144.968904,2000,11,36.5,4,inside,1,Punt Hill Apartment Hotel 11-17 Cohen Place MELBOURNE VIC 3000,Punt Hill Apartment Hotel,Commercial Accommodation,
+808334,-37.81115,144.960123,1915,4,12.5,1,inside,1,20-24 Guildford Lane MELBOURNE VIC 3000,,Office,2012
+808347,-37.811079,144.964195,1922,3,15.0,2,inside,1,301-303 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+808360,-37.807853,144.959844,1872,2,10.0,7,near,1,473-481 Elizabeth Street MELBOURNE VIC 3000,Queen Victoria Mews,Residential Apartment,1993
+808361,-37.807712,144.959564,,,10.0,2,none,0,,,,
+808362,-37.814857,144.965614,1920,3,13.0,1,inside,1,267 Little Collins Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+808365,-37.807888,144.962372,1910,3,18.5,1,inside,1,65-77 Franklin Street MELBOURNE VIC 3000,RMIT University Building 49,Educational/Research,1974
+808366,-37.807951,144.959933,1854,2,8.5,2,inside,2,471 Elizabeth Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+808381,-37.813459,144.96041,1982,36,116.5,5,inside,1,200-222 Queen Street MELBOURNE VIC 3000,200 Queen St,Office,1997
+808385,-37.811462,144.956689,1982,7,27.5,1,inside,1,324-328 William Street MELBOURNE VIC 3000,,Office,1999
+808387,-37.808133,144.961804,2001,32,93.5,6,inside,1,83-93 Franklin Street MELBOURNE VIC 3000,Franklin Lofts,Residential Apartment,
+808395,-37.810114,144.967159,1965,2,7.0,2,inside,1,270 Russell Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+808405,-37.81858,144.959101,1983,15,62.0,2,inside,1,35-47 William Street MELBOURNE VIC 3000,45 William Street,Unoccupied - Unused,2001
+808423,-37.813458,144.96079,1888,2,11.5,1,inside,1,8 Goldie Place MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+808427,-37.814077,144.965583,1920,3,13.0,1,inside,1,157-159 Swanston Street MELBOURNE VIC 3000,,Office,1998
+808428,-37.81318,144.961368,1913,3,12.5,2,inside,1,19-21 Niagara Lane MELBOURNE VIC 3000,,House/Townhouse,1990
+808451,-37.8097,144.957126,2018,24,75.5,3,inside,1,229-241 Franklin Street MELBOURNE VIC 3000,Iglu,Student Accommodation,
+808454,-37.817057,144.963243,1990,29,118.5,10,inside,1,327-343 Collins Street MELBOURNE VIC 3000,333 Collins Street,Office,
+808455,-37.81618,144.96868,1937,8,26.0,2,inside,1,175-177 Flinders Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1988
+808458,-37.810772,144.964053,1870,3,11.5,4,inside,1,319-323 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2014
+808459,-37.81888,144.961188,1961,6,24.5,1,inside,1,8-12 Market Street MELBOURNE VIC 3000,Reed House,Office,2008
+808460,-37.811315,144.968906,1905,2,10.5,2,inside,1,120-122 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+808552,-37.810729,144.961231,,,12.5,1,none,0,,,,
+808566,-37.811749,144.970962,1963,2,9.2,1,inside,1,76 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1998
+808570,-37.814092,144.961314,1920,3,12.5,1,inside,1,21-25 Hardware Lane MELBOURNE VIC 3000,,Unoccupied - Unused,
+808584,-37.811658,144.962363,1992,7,9.0,7,near,3,322 Lonsdale Street MELBOURNE VIC 3000,St Francis Church Carpark,Parking - Commercial Covered,1999
+808601,-37.814897,144.965892,1886,5,25.0,2,inside,1,119-121 Swanston Street MELBOURNE VIC 3000,Talma Building,Residential Apartment,2000
+808612,-37.808302,144.958234,1956,2,10.5,2,inside,1,440-444 Queen Street MELBOURNE VIC 3000,,Retail - Shop,
+808623,-37.817651,144.964417,1890,5,25.0,2,inside,1,21-23 Elizabeth Street MELBOURNE VIC 3000,Elizabeth Chambers,Unoccupied - Unused,2024
+808624,-37.817561,144.962164,1973,15,63.0,2,inside,1,40-52 Queen Street MELBOURNE VIC 3000,Perprtual Trustees Building,Office,2001
+808646,-37.811007,144.968551,1972,17,61.0,8,inside,1,131-137 Lonsdale Street MELBOURNE VIC 3000,Hotel Grand Chancellor,Residential Apartment,1996
+808671,-37.81027,144.960052,2014,24,80.5,3,inside,1,312-318 La Trobe Street MELBOURNE VIC 3000,,Student Accommodation,
+808672,-37.819289,144.954541,2005,6,31.5,9,near,1,607-623 Collins Street MELBOURNE VIC 3000,Batmans Hill on Collins Hotel,Commercial Accommodation,2009
+808709,-37.817558,144.961552,1958,12,49.5,4,inside,1,53-57 Queen Street MELBOURNE VIC 3000,SDA House,Office,2006
+808729,-37.812113,144.960874,1989,5,19.5,2,inside,1,114 Hardware Street MELBOURNE VIC 3000,Atrium Building,Residential Apartment,2000
+808746,-37.812798,144.964994,1901,2,8.0,1,inside,1,215-217 Swanston Street MELBOURNE VIC 3000,,Unoccupied - Unused,1999
+808765,-37.813888,144.96758,1923,6,24.5,3,inside,1,188-194 Little Collins Street MELBOURNE VIC 3000,Shocko House (Historic Name),Residential Apartment,1998
+808766,-37.811553,144.961599,1930,2,7.0,1,inside,1,303-305 Elizabeth Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+808779,-37.810707,144.971974,1991,6,22.0,2,inside,1,19 Little Bourke Street MELBOURNE VIC 3000,Ovolo,Commercial Accommodation,1996
+808797,-37.812459,144.955263,1988,19,75.5,5,inside,1,469-477 La Trobe Street MELBOURNE VIC 3000,,Office,2010
+808801,-37.81458,144.968113,1914,3,18.5,2,inside,1,Assembly Hall 156-160 Collins Street MELBOURNE VIC 3000,Assembly Hall,Office,2009
+808817,-37.820731,144.955467,1913,4,17.0,2,near,1,566-580 Flinders Street MELBOURNE VIC 3000,Nomads All Nations Backpacker Hotel,Unoccupied - Unused,2000
+808825,-37.808974,144.961139,2014,56,172.7,6,inside,1,410-420 Elizabeth Street MELBOURNE VIC 3000,Silver Skies MY80,Residential Apartment,
+808847,-37.811849,144.962416,,,4.0,1,none,0,,,,
+808848,-37.811419,144.962966,,,3.5,1,none,0,,,,
+808849,-37.811466,144.962705,,,6.0,1,none,0,,,,
+808850,-37.811194,144.962596,,,15.0,2,none,0,,,,
+808858,-37.818247,144.955845,1936,6,22.5,5,inside,1,McPherson's Building 546-566 Collins Street MELBOURNE VIC 3000,McPhersons Building,Entertainment/Recreation - Indoor,2006
+808867,-37.819019,144.961251,1858,3,13.0,1,inside,1,390-398 Flinders Street MELBOURNE VIC 3000,Holyman House,Office,1995
+808874,-37.817016,144.960324,1964,11,45.0,4,inside,1,416-420 Collins Street MELBOURNE VIC 3000,Victory Tower,Unoccupied - Unused,1980
+808882,-37.812174,144.957087,,,14.5,1,none,0,,,,
+808886,-37.814935,144.958229,1967,16,53.0,3,inside,1,170-176 William Street MELBOURNE VIC 3000,Quest on William,Commercial Accommodation,2008
+808913,-37.812907,144.972714,2014,33,105.1,5,inside,1,25-35 Little Collins Street MELBOURNE VIC 3000,,Residential Apartment,
+808922,-37.816137,144.957935,1969,26,113.8,3,near,2,535 Bourke Street MELBOURNE VIC 3000,AMP Tower,Office,2012
+808959,-37.812483,144.959947,1990,14,60.0,3,inside,1,254-258 Queen Street MELBOURNE VIC 3000,256 Queen Street,Office,1996
+808962,-37.817042,144.965894,1900,6,33.1,4,inside,1,253-265 Flinders Lane MELBOURNE VIC 3000,,Educational/Research,2003
+808968,-37.811214,144.971135,1930,1,5.0,1,inside,1,Substation 28 Crossley Street MELBOURNE VIC 3000,MCC Substation,Equipment Installation,
+808976,-37.811019,144.964167,1910,2,12.0,1,inside,1,305-307 Swanston Street MELBOURNE VIC 3000,,Office,2003
+808982,-37.81714,144.965007,1939,11,43.5,2,inside,1,Carlow House 281-291 Flinders Lane MELBOURNE VIC 3000,Carlow House,Unoccupied - Unused,2010
+808995,-37.810694,144.957456,,,84.5,3,none,0,,,,
+809002,-37.812551,144.954469,1990,10,39.0,1,inside,1,497-503 La Trobe Street MELBOURNE VIC 3000,Parkview,Office,
+809023,-37.817732,144.963511,1907,5,24.5,1,inside,1,325-331 Flinders Lane MELBOURNE VIC 3000,Lane Centre,Unoccupied - Unused,1986
+809046,-37.810732,144.972329,1886,3,24.0,6,inside,1,Princess Theatre 163-181 Spring Street MELBOURNE VIC 3000,Princess Theatre,Entertainment/Recreation - Indoor,1990
+809049,-37.810979,144.96135,1920,3,14.0,1,inside,1,329-335 Elizabeth Street MELBOURNE VIC 3000,Ithaca House,Retail - Shop,
+809064,-37.808895,144.966949,1984,3,16.4,11,inside,1,159-169 La Trobe Street MELBOURNE VIC 3000,La Trobe Gardens,Residential Apartment,1997
+809083,-37.812506,144.971565,,,13.0,1,none,0,,,,
+809084,-37.812277,144.971448,1890,6,26.5,3,inside,1,65-71 Bourke Street MELBOURNE VIC 3000,Salvation Army Headquarters,Office,2010
+809102,-37.813711,144.952056,2009,37,113.5,8,inside,1,Atlantis Hotel & Tower 284-302 Spencer Street MELBOURNE VIC 3000,Atlantis Tower & Hotel,Commercial Accommodation,
+809107,-37.811713,144.965102,1967,3,13.0,1,inside,1,247-255 Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,2000
+809108,-37.811446,144.960618,,37,114.5,4,inside,1,296-300 Little Lonsdale Street MELBOURNE VIC 3000,Merlin Apartments,Residential Apartment,
+809111,-37.811312,144.968759,1910,2,12.0,1,inside,1,124-126 Little Bourke Street MELBOURNE VIC 3000,See Yup Society,Unoccupied - Unused,1996
+809141,-37.819473,144.959526,1967,21,76.5,3,inside,1,The Clarion Gateway Apartments 1-13 William Street MELBOURNE VIC 3000,The Clarion Gateway Apartments,Residential Apartment,1997
+809143,-37.815097,144.953822,,,148.2,4,none,0,,,,
+809154,-37.812064,144.968565,1934,5,24.0,10,inside,1,152-158 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1995
+809159,-37.813587,144.961993,1920,3,8.5,1,inside,1,361-363 Little Bourke Street MELBOURNE VIC 3000,ACS Building,Office,
+809174,-37.814042,144.957025,1969,13,62.0,1,inside,1,William Cooper Justice Centre 223-229 William Street MELBOURNE VIC 3000,William Cooper Justice Centre,Office,2010
+809180,-37.818263,144.970257,,,7.0,1,none,0,,,,
+809203,-37.809421,144.961818,1910,1,4.5,1,inside,1,66-68 Little La Trobe Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+809216,-37.80736,144.966422,1874,2,16.5,4,inside,1,Horticultural Hall 31-33 Victoria Street MELBOURNE VIC 3000,Horticultural Hall,"Performances, Conferences, Ceremonies",2001
+809217,-37.817416,144.966805,1856,3,10.0,1,inside,1,222-224 Flinders Street MELBOURNE VIC 3000,,Retail - Shop,1990
+809222,-37.813388,144.961259,1938,3,10.5,2,inside,1,54-58 Hardware Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+809225,-37.81337,144.953111,,,4.5,2,none,0,,,,
+809226,-37.813349,144.95295,,,3.5,2,none,0,,,,
+809227,-37.81321,144.952899,,,3.5,2,none,0,,,,
+809228,-37.812257,144.970918,1971,2,9.0,1,inside,1,87-91 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1996
+809256,-37.810761,144.968125,1885,2,7.0,1,near,2,145-147 Lonsdale Street MELBOURNE VIC 3000,,Residential Apartment,1996
+809261,-37.811463,144.969266,1904,3,11.5,1,inside,1,107 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1997
+809279,-37.817391,144.955041,,,7.5,3,none,0,,,,
+809283,-37.812655,144.962172,1889,3,14.5,2,inside,1,259 Elizabeth Street MELBOURNE VIC 3000,Melbourne Optical Centre,Storage,1996
+809332,-37.818152,144.963062,1986,8,24.5,1,inside,1,16-26 Bond Street MELBOURNE VIC 3000,Metro Parking,Parking - Commercial Covered,
+809335,-37.811832,144.97241,1901,3,10.0,3,inside,1,23-29 Bourke Street MELBOURNE VIC 3000,,Unoccupied - Under Renovation,1998
+809353,-37.811755,144.970858,1860,2,10.0,2,inside,1,Florentino Restaurant 78-84 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2006
+809375,-37.811952,144.972487,1900,3,14.0,2,inside,1,27 Windsor Place MELBOURNE VIC 3000,,Unoccupied - Unused,2007
+809383,-37.813349,144.959656,1968,11,43.5,2,inside,1,233-243 Queen Street MELBOURNE VIC 3000,,Educational/Research,
+809387,-37.812555,144.958816,,,3.0,1,none,0,,,,
+809388,-37.812544,144.959269,,,19.0,6,none,0,,,,
+809389,-37.812588,144.95904,1875,3,15.0,3,inside,1,247-283 Queen Street MELBOURNE VIC 3000,,Unoccupied - Unused,1997
+809393,-37.811999,144.967404,1890,3,16.0,2,inside,1,195-197 Russell Street MELBOURNE VIC 3000,,Unoccupied - Unused,1988
+809395,-37.809192,144.961749,1871,2,7.0,1,inside,1,61-69 A'Beckett Street MELBOURNE VIC 3000,Abaris Printing,Entertainment/Recreation - Indoor,
+809408,-37.814526,144.955452,1858,2,10.5,1,inside,1,Seabrook Chambers 573-577 Lonsdale Street MELBOURNE VIC 3000,Seabrook Chambers,Office,1984
+809413,-37.816221,144.960952,1967,13,48.5,2,inside,1,97-101 Queen Street MELBOURNE VIC 3000,99 Queen Street,Unoccupied - Unused,1984
+809426,-37.815996,144.969254,1927,9,38.5,2,inside,1,Cavendish House Apartments 27-37 Russell Street MELBOURNE VIC 3000,Cavendish House Apartment,Residential Apartment,1995
+809458,-37.816613,144.959553,1969,18,60.0,4,inside,1,457-469 Little Collins Street MELBOURNE VIC 3000,,Unoccupied - Unused,1991
+809467,-37.820183,144.956191,1945,2,13.5,5,inside,1,539-545 Flinders Lane MELBOURNE VIC 3000,,Unoccupied - Under Demolition/Condemned,1984
+809479,-37.814919,144.970092,1960,1,6.5,1,inside,1,23-25 George Parade MELBOURNE VIC 3000,Electricity Substation,Equipment Installation,
+809480,-37.811815,144.966358,1895,2,9.0,1,inside,1,16 Celestial Avenue MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1992
+809541,-37.812326,144.967452,,,13.0,1,none,0,,,,
+809558,-37.815732,144.963539,1889,6,25.5,2,inside,1,107-113 Elizabeth Street MELBOURNE VIC 3000,,Office,1992
+809566,-37.814595,144.955218,1855,3,10.5,1,inside,1,Colonial Hotel 234-244 King Street MELBOURNE VIC 3000,Colonial Hotel,Entertainment/Recreation - Indoor,2001
+809580,-37.816741,144.968151,1892,6,44.6,5,inside,1,194-196 Flinders Street MELBOURNE VIC 3000,,Educational/Research,2010
+809612,-37.813072,144.961105,1930,2,8.0,1,inside,1,68-78 Hardware Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1987
+809636,-37.807984,144.964812,,,16.0,2,none,0,,,,
+809638,-37.815461,144.971072,1896,4,17.5,3,inside,1,95-101 Flinders Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2016
+809639,-37.815288,144.966172,1932,17,50.0,5,inside,1,220-226 Collins Street MELBOURNE VIC 3000,Manchester Unity Building,Hospital/Clinic,1988
+809655,-37.815415,144.971219,1920,5,19.0,2,inside,1,91-93 Flinders Lane MELBOURNE VIC 3000,Duckboard House,Office,2008
+809709,-37.810422,144.966344,,,24.5,2,none,0,,,,
+809715,-37.809031,144.968112,1998,5,19.0,3,inside,1,13-15 Exploration Lane MELBOURNE VIC 3000,,Residential Apartment,
+809716,-37.813021,144.961306,1887,2,10.5,1,inside,1,29 Niagara Lane MELBOURNE VIC 3000,,Office,2008
+809726,-37.819325,144.958082,,1,15.5,1,inside,1,475-485 Flinders Lane MELBOURNE VIC 3000,,Unoccupied - Under Demolition/Condemned,
+809732,-37.820211,144.956984,1901,4,15.0,2,inside,1,516-518 Flinders Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1990
+809733,-37.815596,144.971305,1901,2,4.5,1,inside,1,11-15 Duckboard Place MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+809751,-37.818627,144.962028,1886,3,14.5,2,inside,1,7-11 Queen Street MELBOURNE VIC 3000,Bennelong House,Office,1994
+809754,-37.816273,144.96045,1910,4,13.5,2,inside,1,429 Little Collins Street MELBOURNE VIC 3000,C.C.Roeszler & Son,Entertainment/Recreation - Indoor,1997
+809757,-37.815983,144.96989,1993,8,34.5,5,inside,1,24-30 Russell Street MELBOURNE VIC 3000,The Brooks,Residential Apartment,2000
+809764,-37.818039,144.96246,1983,12,52.5,3,inside,1,28-38 Queen Street MELBOURNE VIC 3000,Prime Value House,Office,1995
+809766,-37.818137,144.956219,1910,5,26.0,4,inside,1,538-544 Collins Street MELBOURNE VIC 3000,Former New Zealand Loan and Merc,Student Accommodation,2010
+809797,-37.808725,144.965275,,,4.5,1,none,0,,,,
+809798,-37.808611,144.965509,,,16.5,1,none,0,,,,
+809799,-37.808334,144.964169,,,35.0,1,none,0,,,,
+809800,-37.808114,144.964874,,,2.5,1,none,0,,,,
+809801,-37.81543,144.957203,,,95.0,3,none,0,,,,
+809807,-37.816246,144.968479,1924,6,26.5,1,inside,1,183-185 Flinders Lane MELBOURNE VIC 3000,Toronto House,Residential Apartment,1992
+809813,-37.81727,144.96531,1853,7,34.0,3,inside,1,Tomasetti House 277-279 Flinders Lane MELBOURNE VIC 3000,Tomasetti House,Unoccupied - Unused,1989
+809820,-37.815123,144.972232,1925,6,22.5,1,inside,1,75-77 Flinders Lane MELBOURNE VIC 3000,Alley Building,Office,2004
+809839,-37.813772,144.961462,1920,2,7.5,1,inside,1,383-385 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1980
+809851,-37.813069,144.961329,1887,2,10.5,1,inside,1,27 Niagara Lane MELBOURNE VIC 3000,Marks Warehouse,Office,2003
+809852,-37.814335,144.965699,1945,2,8.0,1,inside,1,145 Swanston Street MELBOURNE VIC 3000,,Retail - Shop,
+809873,-37.813988,144.961267,1920,3,12.5,1,inside,1,27-31 Hardware Lane MELBOURNE VIC 3000,Henry George League,Retail - Shop,2000
+809878,-37.813672,144.961782,1920,2,8.5,1,inside,1,369-371 Little Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+809885,-37.81368,144.954202,1955,7,28.5,2,inside,1,Hotel Sophia 277-287 King Street MELBOURNE VIC 3000,Hotel Sophia,Commercial Accommodation,2012
+809894,-37.812449,144.96481,1910,3,11.0,1,inside,1,237 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2016
+809950,-37.812881,144.961012,1920,4,18.0,1,inside,1,389-395 Lonsdale Street MELBOURNE VIC 3000,,Office,1990
+810003,-37.813443,144.972717,1969,13,47.0,2,inside,1,24-28 Collins Street MELBOURNE VIC 3000,Farrer House,Office,1997
+810024,-37.817141,144.959277,1912,8,34.5,3,inside,1,84-88 William Street MELBOURNE VIC 3000,Queensland Building,Unoccupied - Unused,1999
+810029,-37.816994,144.956767,1879,5,13.0,3,inside,1,538-542 Little Collins Street MELBOURNE VIC 3000,Ebsworth House,Institutional Accommodation,1997
+810074,-37.814985,144.963824,1945,2,8.5,1,inside,1,128-132 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,2001
+810096,-37.808959,144.968079,2009,14,42.5,3,inside,1,Fraser Place Melbourne 17-19 Exploration Lane MELBOURNE VIC 3000,Fraser Place Melbourne,Unoccupied - Unused,
+810100,-37.809098,144.966972,2001,6,23.0,2,inside,1,62-68 Hayward Lane MELBOURNE VIC 3000,,Residential Apartment,
+810102,-37.814519,144.960003,1978,12,50.0,4,inside,1,175-183 Queen Street MELBOURNE VIC 3000,Lumley House,Office,2008
+810110,-37.810838,144.971782,1912,3,15.5,2,inside,1,27-35 Little Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+810125,-37.81114,144.968381,1888,3,11.0,1,inside,1,16-20 Corrs Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2006
+810128,-37.815804,144.953021,,,124.0,3,none,0,,,,
+810142,-37.809818,144.967759,,,5.5,1,none,0,,,,
+810145,-37.813869,144.955887,1991,12,52.5,2,inside,1,552-554 Lonsdale Street MELBOURNE VIC 3000,College House,Office,
+810151,-37.815584,144.955031,1926,4,14.5,2,inside,1,197-199 King Street MELBOURNE VIC 3000,,Commercial Accommodation,1997
+810152,-37.810823,144.9715,1920,4,20.0,2,inside,1,37-41 Little Bourke Street MELBOURNE VIC 3000,Harwood House,Entertainment/Recreation - Indoor,1997
+810166,-37.811205,144.960734,1901,1,4.5,1,inside,1,15-21 Sutherland Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+810179,-37.813422,144.961479,1942,6,23.5,3,inside,1,372-378 Little Bourke Street MELBOURNE VIC 3000,Chart House,Commercial Accommodation,2007
+810188,-37.814175,144.96673,2006,10,49.7,7,inside,1,Council House 2 218-242 Little Collins Street MELBOURNE VIC 3000,Council House 2,Office,
+810195,-37.809258,144.958908,1995,5,17.5,2,inside,1,9-13 Anthony Street MELBOURNE VIC 3000,Arizona,Residential Apartment,
+810196,-37.811202,144.972675,1857,2,14.0,4,inside,1,The Imperial Hotel 2-8 Bourke Street MELBOURNE VIC 3000,Imperial Hotel,Entertainment/Recreation - Indoor,2016
+810216,-37.812397,144.971107,1979,12,51.0,2,inside,1,136-144 Exhibition Street MELBOURNE VIC 3000,,Office,1989
+810220,-37.813866,144.959906,1924,2,9.0,3,inside,1,207-213 Queen Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+810221,-37.822389,144.956033,,,9.0,1,none,0,,,,
+810241,-37.811954,144.961804,1860,2,11.5,1,inside,1,283-285 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,
+810258,-37.815325,144.96871,1926,11,60.0,7,inside,2,141-165 Collins Street MELBOURNE VIC 3000,161 Collins Street,Office,2017
+810262,-37.812079,144.965781,1922,3,15.0,1,inside,1,4-12 Tattersalls Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2004
+810274,-37.816865,144.95524,1889,2,11.0,4,inside,1,621-633 Bourke Street MELBOURNE VIC 3000,Royal Melbourne Hotel,Entertainment/Recreation - Indoor,1989
+810275,-37.81686,144.955064,,,7.5,1,none,0,,,,
+810283,-37.81375,144.961992,1887,3,11.5,3,inside,2,365-367 Little Bourke Street MELBOURNE VIC 3000,,Residential Apartment,2002
+810285,-37.81543,144.971396,1910,3,12.0,1,inside,1,87-89 Flinders Lane MELBOURNE VIC 3000,Swiss Club of Victoria,Entertainment/Recreation - Indoor,1997
+810334,-37.812106,144.96541,,,6.0,1,none,0,,,,
+810377,-37.813372,144.95188,2000,11,30.5,2,inside,1,Harbour Views Apartments 581-589 La Trobe Street MELBOURNE VIC 3000,Harbour Views Apartments,Residential Apartment,
+810383,-37.813782,144.961388,1920,3,11.5,1,inside,1,387 Little Bourke Street MELBOURNE VIC 3000,Farrants Building,Office,
+810392,-37.811392,144.966121,1972,5,21.0,2,inside,1,213-215 Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,2009
+810410,-37.810298,144.971045,1959,2,8.5,1,inside,1,24-26 Punch Lane MELBOURNE VIC 3000,,House/Townhouse,1983
+810415,-37.814252,144.956612,1987,27,104.0,4,inside,1,Owen Dixon Chambers West 525-539 Lonsdale Street MELBOURNE VIC 3000,Owen Dixon Chambers West,Office,2014
+810433,-37.81214,144.971181,1880,3,11.5,2,inside,1,73-77 Bourke Street MELBOURNE VIC 3000,,Retail - Shop,1986
+810442,-37.814223,144.96565,1910,3,16.0,1,inside,1,149-153 Swanston Street MELBOURNE VIC 3000,,Retail - Shop,2001
+810468,-37.812012,144.96655,1901,2,8.5,2,inside,1,204 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1990
+810476,-37.813183,144.973173,1921,6,26.0,4,near,1,10-12 Collins Street MELBOURNE VIC 3000,Victor Horsley Chambers,Office,
+810480,-37.812635,144.965516,1910,3,13.5,1,inside,2,222 Swanston Street MELBOURNE VIC 3000,,Unoccupied - Unused,2003
+810510,-37.814654,144.957061,1966,25,87.5,8,inside,1,189-203 William Street MELBOURNE VIC 3000,The William,Residential Apartment,2014
+810512,-37.814488,144.965768,1910,11,41.0,3,inside,1,135-137 Swanston Street MELBOURNE VIC 3000,Swanston Apartments,Residential Apartment,2013
+810517,-37.811043,144.960357,1999,4,9.5,2,inside,1,8-10 Guildford Lane MELBOURNE VIC 3000,,Residential Apartment,2000
+810562,-37.815461,144.971727,2005,19,72.5,4,inside,1,11-37 Exhibition Street MELBOURNE VIC 3000,Mercer,Office,
+810586,-37.812172,144.971043,1935,3,13.5,2,inside,1,79-85 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2006
+810602,-37.811057,144.972486,1986,5,20.5,4,inside,1,155-157 Spring Street MELBOURNE VIC 3000,,Office,1996
+810613,-37.815967,144.955207,1928,3,11.5,2,inside,1,179 King Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1985
+810626,-37.80919,144.960523,1920,2,10.5,1,inside,1,413-417 Elizabeth Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2006
+810634,-37.819534,144.957468,1911,4,17.5,1,inside,2,26-32 King Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+810642,-37.811854,144.966615,1892,4,17.0,2,inside,1,11 Heffernan Lane MELBOURNE VIC 3000,,Unoccupied - Unused,2012
+810663,-37.813437,144.962451,1901,3,14.8,1,inside,1,217 Elizabeth Street MELBOURNE VIC 3000,,Office,2000
+810664,-37.816862,144.957099,1976,18,61.0,2,inside,1,520-536 Little Collins Street MELBOURNE VIC 3000,Exchange Tower,Office,2001
+810678,-37.81038,144.965537,,,47.2,4,none,0,,,,
+810691,-37.813489,144.961019,1888,3,14.0,1,inside,1,51-53 Hardware Lane MELBOURNE VIC 3000,,Office,2006
+810697,-37.807359,144.959528,1901,3,15.0,1,inside,1,501-503 Elizabeth Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1990
+810704,-37.818221,144.961781,1976,22,92.0,2,inside,1,19-35 Queen Street MELBOURNE VIC 3000,,Office,
+810711,-37.807638,144.960572,,,8.5,1,none,0,,,,
+810729,-37.817117,144.964196,1981,5,20.5,1,inside,1,43-53 Elizabeth Street MELBOURNE VIC 3000,APA Building,Educational/Research,1999
+810747,-37.809491,144.959343,1915,4,12.5,2,inside,1,City Life Apartments 136-140 A'Beckett Street MELBOURNE VIC 3000,City Life Apartments,Residential Apartment,1997
+810749,-37.816381,144.968961,1910,3,15.0,1,inside,1,7-11 Hosier Lane MELBOURNE VIC 3000,,Hospital/Clinic,
+810752,-37.81328,144.9691,1923,2,10.0,1,inside,2,13 Coromandel Place MELBOURNE VIC 3000,,Residential Apartment,1994
+810761,-37.81147,144.961561,1920,2,7.0,1,inside,1,307-311 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,2012
+810762,-37.811483,144.969206,1904,3,11.5,1,inside,1,109 Little Bourke Street MELBOURNE VIC 3000,,Office,2009
+810766,-37.814494,144.96451,,1,38.2,20,near,1,309-325 Bourke Street MELBOURNE VIC 3000,,Unoccupied - Under Construction,
+810771,-37.815677,144.97051,1910,7,28.5,3,inside,1,121-123 Flinders Lane MELBOURNE VIC 3000,121 Flinders Lane,Office,1988
+810790,-37.811984,144.971899,1945,3,12.0,3,inside,1,45-49 Bourke Street MELBOURNE VIC 3000,,Office,2002
+810805,-37.815631,144.970848,1920,5,18.5,2,inside,1,107-109 Flinders Lane MELBOURNE VIC 3000,,Unoccupied - Unused,1988
+810808,-37.815491,144.960168,1969,21,76.5,4,inside,1,457-471 Bourke Street MELBOURNE VIC 3000,,Office,2001
+810842,-37.816309,144.970437,1927,7,29.0,4,inside,1,134-136 Flinders Street MELBOURNE VIC 3000,Epstein House,Unoccupied - Unused,
+810860,-37.816844,144.963846,1960,16,63.0,4,near,1,The Mark On Collins Apartments 319-325 Collins Street MELBOURNE VIC 3000,The Mark on Collins,Residential Apartment,2015
+810864,-37.81424,144.957121,1961,14,54.0,3,inside,1,Owen Dixon Chambers East 205 William Street MELBOURNE VIC 3000,Owen Dixon Chambers East,Office,2003
+810870,-37.810365,144.967277,1910,1,5.5,1,inside,1,252-254 Russell Street MELBOURNE VIC 3000,,Retail - Shop,2001
+810872,-37.815442,144.964021,1920,6,28.1,5,inside,1,104-110 Elizabeth Street MELBOURNE VIC 3000,Brash,Office,1997
+810880,-37.81068,144.959275,1968,13,50.0,3,inside,1,Centro Apartments 348-358 La Trobe Street MELBOURNE VIC 3000,Centro Apartments,Residential Apartment,1995
+810893,-37.817263,144.962432,1975,34,158.5,5,inside,1,359-373 Collins Street MELBOURNE VIC 3000,Optus Centre,Office,1992
+810898,-37.808824,144.970614,,,8.5,1,none,0,,,,
+810916,-37.810808,144.958484,1986,7,32.5,2,inside,1,321-339 Queen Street MELBOURNE VIC 3000,,Office,
+810920,-37.810077,144.967111,1873,2,7.0,1,inside,1,272 Russell Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+810929,-37.812843,144.968989,1945,2,7.5,2,inside,1,147-149 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+810935,-37.808563,144.959953,1901,3,13.5,3,inside,1,139-141 Franklin Street MELBOURNE VIC 3000,,Unoccupied - Unused,1989
+810937,-37.80994,144.971938,1987,10,42.1,5,inside,1,209-227 Spring Street MELBOURNE VIC 3000,Price Waterhouse Centre,Office,1996
+810951,-37.807538,144.966101,1963,9,28.5,4,inside,1,380-388 Russell Street MELBOURNE VIC 3000,Space Hotel,Commercial Accommodation,2010
+810956,-37.809456,144.967774,,1,5.1,1,near,1,134-144 Little Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Under Construction,
+810966,-37.815875,144.960338,1986,10,43.0,2,inside,1,422-428 Little Collins Street MELBOURNE VIC 3000,,Unoccupied - Under Renovation,2006
+810968,-37.809243,144.962423,1948,3,11.0,1,inside,1,38-40 Little La Trobe Street MELBOURNE VIC 3000,,Office,
+810975,-37.814437,144.967306,1934,9,36.0,3,inside,1,209-231 Little Collins Street MELBOURNE VIC 3000,The Victoria Hotel,Commercial Accommodation,2003
+810976,-37.814557,144.9669,,,32.0,3,none,0,,,,
+810979,-37.810969,144.964151,1870,2,7.0,2,inside,1,309 Swanston Street MELBOURNE VIC 3000,,Retail - Shop,
+810981,-37.815421,144.967808,1936,7,27.0,5,inside,1,Regent 187 On Collins 181-187 Collins Street MELBOURNE VIC 3000,Regent 187 on Collins,Residential Apartment,1999
+810985,-37.811869,144.960336,1938,2,6.0,1,inside,1,391-393 Little Lonsdale Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2012
+810995,-37.8123,144.959769,1932,3,11.5,1,inside,1,266-270 Queen Street MELBOURNE VIC 3000,Bank Of China,Unoccupied - Unused,1995
+811009,-37.820289,144.956905,1910,2,9.0,1,inside,1,520-522 Flinders Street MELBOURNE VIC 3000,,"Performances, Conferences, Ceremonies",
+811022,-37.807035,144.956551,1890,2,10.0,1,inside,26,65-81 Victoria Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+811023,-37.809548,144.967184,2004,10,33.5,2,inside,1,158-162 Little Lonsdale Street MELBOURNE VIC 3000,,Residential Apartment,
+811030,-37.81696,144.962809,1888,6,23.5,2,inside,1,345-349 Collins Street MELBOURNE VIC 3000,Chimaera Capital,Office,1994
+811065,-37.808985,144.958463,1994,10,35.5,7,inside,1,Melbourne Terrace Apartments 408-416 Queen Street MELBOURNE VIC 3000,Melbourne Terrace Apartments,Residential Apartment,
+811072,-37.81262,144.954257,1924,2,6.5,2,inside,1,324-326 King Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1996
+811088,-37.816392,144.960093,1891,8,39.5,2,inside,1,435-443 Little Collins Street MELBOURNE VIC 3000,Stalbridge Chambers,Unoccupied - Unused,2001
+811089,-37.810439,144.969512,1897,2,9.0,3,inside,1,235 Exhibition Street MELBOURNE VIC 3000,,Retail - Shop,2003
+811099,-37.816197,144.965332,1913,7,31.0,2,inside,1,259-263 Collins Street MELBOURNE VIC 3000,Centreway Arcade,Educational/Research,1988
+811136,-37.808793,144.968766,,2,5.0,1,inside,1,303-307 Exhibition Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+811137,-37.810256,144.967224,1907,3,13.5,1,inside,1,260-262 Russell Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+811145,-37.819617,144.957688,1873,3,12.0,2,inside,1,22-24 King Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1988
+811156,-37.809351,144.958557,1987,6,22.5,1,inside,1,382-406 Queen Street MELBOURNE VIC 3000,,Parking - Commercial Covered,
+811158,-37.813491,144.95482,1986,2,11.0,2,inside,1,276-282 King Street MELBOURNE VIC 3000,,Unoccupied - Unused,1996
+811169,-37.808398,144.956837,,,4.5,1,none,0,,,,
+811210,-37.809237,144.96253,1929,2,11.0,1,inside,1,34-36 Little La Trobe Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+811213,-37.818164,144.958949,1972,32,123.0,5,inside,2,MLC Tower (North Tower) 459 Collins Street MELBOURNE VIC 3000,MLC (North) Tower,Office,1990
+811234,-37.812854,144.955393,1950,1,7.0,1,inside,1,Substation 10-14 Park Street MELBOURNE VIC 3000,MCC Substation,Equipment Installation,
+811244,-37.819018,144.955706,2015,27,123.5,5,inside,1,559-587 Collins Street MELBOURNE VIC 3000,,Office,
+811259,-37.814336,144.967548,1928,10,30.0,1,inside,1,201-207 Little Collins Street MELBOURNE VIC 3000,Victoria Hotel,Commercial Accommodation,1969
+811267,-37.813143,144.960864,1889,4,15.5,2,inside,1,75-77 Hardware Lane MELBOURNE VIC 3000,,Unoccupied - Unused,1997
+811318,-37.813854,144.954277,1953,2,8.5,3,inside,1,273 King Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+811333,-37.81596,144.971503,1920,6,24.5,3,inside,1,96-98 Flinders Street MELBOURNE VIC 3000,Dreman Building,Office,
+811359,-37.814544,144.961357,1891,4,16.0,1,inside,1,418-420 Bourke Street MELBOURNE VIC 3000,,Storage,
+811370,-37.816657,144.953586,1917,6,34.0,4,inside,1,672-696 Bourke Street MELBOURNE VIC 3000,,Office,2010
+811372,-37.810475,144.967326,1901,2,10.5,2,inside,1,244-246 Russell Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+811373,-37.81532,144.952806,1915,3,15.0,3,inside,1,Substation 651-669 Lonsdale Street MELBOURNE VIC 3000,Substation J,Equipment Installation,
+811375,-37.812867,144.961449,1889,4,18.5,1,inside,1,377-381 Lonsdale Street MELBOURNE VIC 3000,,Office,1993
+811396,-37.817993,144.961062,1970,2,5.5,1,inside,1,388-394 Flinders Lane MELBOURNE VIC 3000,,Parking - Commercial Covered,2016
+811406,-37.811838,144.972187,1872,2,10.5,1,inside,1,35-37 Bourke Street MELBOURNE VIC 3000,,Office,
+811411,-37.811698,144.966807,1891,3,13.5,3,inside,1,14-22 Heffernan Lane MELBOURNE VIC 3000,,Unoccupied - Unused,1989
+811422,-37.808021,144.96653,,,3.5,1,none,0,,,,
+811450,-37.815565,144.969742,1923,4,25.0,3,inside,1,42-44 Russell Street MELBOURNE VIC 3000,,Retail - Shop,2012
+811464,-37.811236,144.95986,1901,2,7.5,1,inside,1,30 Guildford Lane MELBOURNE VIC 3000,,Unoccupied - Unused,2010
+811467,-37.816756,144.966829,1926,10,49.5,6,near,1,31-41 Swanston Street MELBOURNE VIC 3000,Nicholas Building,Retail - Shop,1992
+811472,-37.81102,144.957592,1928,6,24.5,2,inside,1,Empire Apartments 402-408 La Trobe Street MELBOURNE VIC 3000,The Empire Apartments,Residential Apartment,1998
+811542,-37.815536,144.972764,1921,39,164.5,5,inside,1,46-74 Flinders Street MELBOURNE VIC 3000,Herald Living Apartments,Office,2006
+811557,-37.810678,144.969587,1901,2,10.0,4,inside,1,221-227 Exhibition Street MELBOURNE VIC 3000,,Office,
+811561,-37.810942,144.960175,1991,14,54.0,2,inside,1,305-313 La Trobe Street MELBOURNE VIC 3000,Kosciusko Centre,Office,
+811594,-37.811863,144.965167,1957,2,10.0,1,inside,1,260-262 Swanston Street MELBOURNE VIC 3000,,Retail - Shop,2014
+811602,-37.807176,144.96034,2016,70,229.5,7,inside,1,496-504 Elizabeth Street MELBOURNE VIC 3000,,Residential Apartment,
+811605,-37.80927,144.96233,1929,4,15.5,1,inside,1,42-44 Little La Trobe Street MELBOURNE VIC 3000,,Residential Apartment,1999
+811616,-37.81514,144.961816,1889,7,29.0,2,inside,1,18-22 McKillop Street MELBOURNE VIC 3000,,Residential Apartment,2004
+811617,-37.811905,144.958991,1900,4,15.5,1,near,1,287-297 Queen Street MELBOURNE VIC 3000,,Educational/Research,1982
+811628,-37.813053,144.956639,1889,3,12.0,1,inside,1,259 William Street MELBOURNE VIC 3000,,Office,
+811652,-37.80969,144.956652,2011,19,55.5,7,inside,1,Infinity 8 Apartments 243-263 Franklin Street MELBOURNE VIC 3000,Infinity 8 & Infinity 88 & Grand 8,Residential Apartment,2014
+811690,-37.813765,144.962651,1914,5,23.6,2,inside,1,197-199 Elizabeth Street MELBOURNE VIC 3000,Moloneys Apartments,Residential Apartment,1998
+811706,-37.811875,144.969452,1921,3,12.5,1,inside,1,14-16 Market Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2009
+811719,-37.81031,144.96725,1910,1,5.5,1,inside,1,256-258 Russell Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+811720,-37.812225,144.965307,1859,2,9.5,1,inside,2,240 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1992
+811729,-37.81094,144.963563,1926,3,15.0,1,inside,1,283-285 Little Lonsdale Street MELBOURNE VIC 3000,Reddans Building,Storage,1979
+811740,-37.810538,144.968996,1886,3,13.0,2,inside,1,113 Lonsdale Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2002
+811750,-37.812002,144.972999,1888,5,37.1,7,inside,1,103-137 Spring Street MELBOURNE VIC 3000,The Hotel  Windsor,Commercial Accommodation,1984
+811755,-37.815305,144.962528,1920,4,18.0,1,inside,1,362 Little Collins Street MELBOURNE VIC 3000,,Unoccupied - Under Renovation,2005
+811756,-37.81677,144.961174,1875,9,47.5,6,inside,2,Rear 394 Collins Street MELBOURNE VIC 3000,,Commercial Accommodation,2008
+811766,-37.81326,144.95555,2009,3,13.5,1,inside,1,551-555 Little Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Under Renovation,
+811784,-37.819984,144.958005,1955,2,7.5,2,inside,1,490 Flinders Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+811794,-37.810897,144.96801,1927,1,5.5,1,inside,1,149-155 Lonsdale Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1990
+811796,-37.815534,144.962033,1986,1,7.0,1,inside,1,378-380 Little Collins Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2006
+811800,-37.806834,144.962652,,1,6.0,2,inside,1,"Tramways Signal Cabin, Shelter and Conveniences Opposite 475-511 Swanston Street MELBOURNE VIC 3000",,Equipment Installation,
+811812,-37.808675,144.964389,,,25.7,2,none,0,,,,
+811826,-37.813347,144.955365,2014,26,86.5,4,inside,1,Metro Park West Apartments 557-561 Little Lonsdale Street MELBOURNE VIC 3000,Metro Park West,Residential Apartment,
+811832,-37.814901,144.965367,1938,9,33.3,4,inside,1,273-279 Little Collins Street MELBOURNE VIC 3000,Presgrave Building,Commercial Accommodation,2000
+811840,-37.811244,144.972559,1890,2,11.5,2,inside,1,10 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1994
+811841,-37.815409,144.95437,1952,6,29.0,3,inside,1,602-606 Little Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,2013
+811849,-37.808137,144.96368,,,55.3,21,none,0,,,,
+811855,-37.809036,144.964533,,,23.0,4,none,0,,,,
+811858,-37.815298,144.954927,1910,2,10.0,1,inside,1,209-211 King Street MELBOURNE VIC 3000,Stefani House,Entertainment/Recreation - Indoor,1998
+811885,-37.81822,144.958974,,,14.5,1,none,0,,,,
+811918,-37.813047,144.955426,1920,2,7.5,1,inside,1,474 Little Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,1990
+811920,-37.812437,144.972605,1957,3,16.0,2,inside,1,22-32 Little Collins Street MELBOURNE VIC 3000,City Centre Budget Hotel,Commercial Accommodation,
+811929,-37.812586,144.957067,,,6.0,1,none,0,,,,
+811969,-37.813056,144.969014,1920,2,7.1,2,inside,1,23 Coromandel Place MELBOURNE VIC 3000,,Office,1994
+812001,-37.815056,144.954284,2017,52,159.5,6,inside,1,20-40 Rose Lane MELBOURNE VIC 3000,The Fifth Apartments,Residential Apartment,
+812010,-37.810864,144.963819,1910,4,15.5,1,inside,1,273-275 Little Lonsdale Street MELBOURNE VIC 3000,Central Melbourne Apartments,Residential Apartment,1994
+812028,-37.809824,144.971536,1976,5,16.0,1,inside,1,19-21 Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+812029,-37.813682,144.960909,1920,3,17.0,4,inside,1,394-400 Little Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,1988
+812040,-37.807721,144.960531,1910,1,13.0,1,inside,1,474-476 Elizabeth Street MELBOURNE VIC 3000,,Office,1994
+812051,-37.815818,144.963475,1930,6,26.5,2,inside,1,105 Elizabeth Street MELBOURNE VIC 3000,,Unoccupied - Unused,1996
+812052,-37.812423,144.960537,1994,13,43.5,4,inside,1,394-400 Lonsdale Street MELBOURNE VIC 3000,,Educational/Research,2000
+812053,-37.81155,144.960516,1922,3,15.5,2,inside,1,302-304 Little Lonsdale Street MELBOURNE VIC 3000,,Residential Apartment,2006
+812059,-37.814678,144.954647,1889,2,9.5,1,inside,1,239-241 King Street MELBOURNE VIC 3000,,Office,1990
+812062,-37.808052,144.962047,1875,3,13.5,2,inside,1,79-81 Franklin Street MELBOURNE VIC 3000,Currie and Richards Building,Residential Apartment,1993
+812085,-37.808252,144.962688,2011,13,53.5,4,inside,1,427-457 Swanston Street MELBOURNE VIC 3000,RMIT Building 80,Educational/Research,
+812086,-37.808453,144.963009,,,13.5,1,none,0,,,,
+812108,-37.811046,144.959797,2016,43,136.5,2,inside,1,La Trobe Tower 323-331 La Trobe Street MELBOURNE VIC 3000,La Trobe Tower,Residential Apartment,
+812122,-37.812982,144.968414,1901,3,13.0,3,inside,1,173-175 Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+812140,-37.812994,144.955509,1873,2,7.5,3,inside,1,470-472 Little Lonsdale Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1995
+812173,-37.811286,144.972525,1890,2,11.5,2,inside,1,12 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1992
+812180,-37.812729,144.970394,2006,39,167.8,4,near,2,SX121 121 Exhibition Street MELBOURNE VIC 3000,121 Exhibition Street,Office,
+812193,-37.816144,144.968832,1901,6,26.0,1,inside,1,167-173 Flinders Lane MELBOURNE VIC 3000,,Office,2012
+812209,-37.814872,144.964015,1966,3,11.5,1,inside,1,The Hub Arcade 318-322 Little Collins Street MELBOURNE VIC 3000,The Hub Arcade,Unoccupied - Unused,1992
+812220,-37.815347,144.968026,1927,10,44.5,3,inside,1,175-177 Collins Street MELBOURNE VIC 3000,Kurrajong House,Office,1987
+812222,-37.810677,144.961207,1920,2,22.4,2,inside,1,349 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,
+812226,-37.81287,144.958871,1924,9,39.0,8,inside,1,436-450 Lonsdale Street MELBOURNE VIC 3000,State Public Offices,Unoccupied - Unused,1995
+812227,-37.811018,144.971118,1962,7,25.5,5,inside,1,47-55 Little Bourke Street MELBOURNE VIC 3000,Crossley Hotel,Commercial Accommodation,2004
+812232,-37.810449,144.96258,1991,6,40.5,14,inside,1,Melbourne Central 183-265 La Trobe Street MELBOURNE VIC 3000,Melbourne Central,Retail - Shop,2012
+812233,-37.811336,144.963395,,,25.5,12,none,0,,,,
+812234,-37.811516,144.96908,1882,2,10.0,1,inside,1,113 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2003
+812243,-37.820618,144.958442,,,15.0,5,none,0,,,,
+812244,-37.820516,144.957896,,,7.5,1,none,0,,,,
+812266,-37.814018,144.969912,1887,4,20.0,6,inside,1,7-19 Alfred Place MELBOURNE VIC 3000,,Unoccupied - Unused,2006
+812273,-37.815074,144.954825,1920,2,8.5,2,inside,1,221-223 King Street MELBOURNE VIC 3000,,Retail - Shop,1977
+812295,-37.815624,144.964603,,,32.5,9,none,0,,,,
+812296,-37.815578,144.964195,1892,5,30.5,9,near,1,280-292 Collins Street MELBOURNE VIC 3000,The Block Arcade,Office,1995
+812311,-37.809804,144.957813,,,6.5,1,none,0,,,,
+812312,-37.80966,144.957845,,,7.6,1,none,0,,,,
+812317,-37.816289,144.960395,1910,2,7.5,2,inside,1,431 Little Collins Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1992
+812334,-37.811313,144.966345,1920,3,12.5,1,inside,1,203-207 Lonsdale Street MELBOURNE VIC 3000,,Educational/Research,2001
+812338,-37.818214,144.969219,,,25.9,4,none,0,,,,
+812376,-37.81699,144.966169,1899,5,28.0,2,inside,1,247-251 Flinders Lane MELBOURNE VIC 3000,Ross House,Office,1987
+812443,-37.811132,144.960238,1912,3,20.0,2,inside,1,16-18 Guildford Lane MELBOURNE VIC 3000,,House/Townhouse,2010
+812444,-37.813405,144.966831,1957,3,11.5,1,inside,1,231-233 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+812449,-37.81067,144.970967,1920,2,11.0,5,inside,1,50-52 Little Bourke Street MELBOURNE VIC 3000,Shark Fin Inn City,Entertainment/Recreation - Indoor,1981
+812466,-37.816894,144.958416,1985,14,55.5,3,inside,1,99-107 William Street MELBOURNE VIC 3000,99 William Street,Office,1998
+812474,-37.81751,144.960632,1931,9,43.3,7,inside,1,419-429 Collins Street MELBOURNE VIC 3000,Trustees House,Office,1988
+812516,-37.814531,144.961452,1928,8,32.0,2,inside,1,414-416 Bourke Street MELBOURNE VIC 3000,,Residential Apartment,2002
+812546,-37.814746,144.962384,1901,2,8.5,2,inside,1,387-391 Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+812613,-37.811534,144.963997,1978,2,8.0,1,inside,1,272-282 Lonsdale Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+812616,-37.81605,144.953934,,,89.5,6,none,0,,,,
+812617,-37.81628,144.95404,2003,32,95.7,5,inside,1,City Point On Bourke Apartments 654-670 Bourke Street MELBOURNE VIC 3000,City Point on Bourke,Residential Apartment,2002
+812627,-37.810459,144.971815,1978,9,28.5,2,inside,1,20-22 Little Bourke Street MELBOURNE VIC 3000,City Limits Motel,Commercial Accommodation,2004
+812642,-37.810196,144.970998,1959,2,8.5,1,inside,1,30 Punch Lane MELBOURNE VIC 3000,,House/Townhouse,1983
+812646,-37.810449,144.958317,1991,10,42.0,2,inside,1,341-351 Queen Street MELBOURNE VIC 3000,,Educational/Research,
+812648,-37.817896,144.961689,1937,14,46.5,2,inside,1,37-41 Queen Street MELBOURNE VIC 3000,The Madison,Residential Apartment,1993
+812654,-37.806136,144.956675,,,8.0,2,none,0,,,,
+812667,-37.811493,144.966952,1900,3,13.0,1,inside,1,11-15 Waratah Place MELBOURNE VIC 3000,,Unoccupied - Unused,2010
+812681,-37.810374,144.969452,1953,2,10.0,3,inside,1,237-239 Exhibition Street MELBOURNE VIC 3000,,Unoccupied - Unused,1991
+812697,-37.812849,144.965017,1945,4,15.0,2,inside,1,211-213 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2000
+812698,-37.812456,144.960253,1950,14,44.5,3,near,1,University City Apartments 402-408 Lonsdale Street MELBOURNE VIC 3000,University City Apartments,Residential Apartment,1998
+812711,-37.816843,144.96407,1911,6,26.0,1,inside,1,59-65 Elizabeth Street MELBOURNE VIC 3000,,Residential Apartment,2003
+812718,-37.812176,144.971599,1900,5,19.5,3,inside,1,59-63 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1990
+812719,-37.816618,144.960219,1903,6,26.5,1,inside,1,11-19 Bank Place MELBOURNE VIC 3000,Bank House,Unoccupied - Unused,2008
+812757,-37.810316,144.970767,,,1.0,1,none,0,,,,
+812760,-37.812809,144.954498,1990,11,47.0,3,inside,1,310-316 King Street MELBOURNE VIC 3000,Concorde Hotel,Educational/Research,1998
+812842,-37.810203,144.966189,,,138.3,9,none,0,,,,
+812889,-37.811241,144.970927,1929,3,12.0,1,inside,1,27-29 Crossley Street MELBOURNE VIC 3000,,Unoccupied - Unused,2008
+812905,-37.812475,144.968389,1938,5,24.5,1,inside,1,164-166 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1997
+812909,-37.811697,144.966551,1880,2,11.5,2,inside,1,15-21 Heffernan Lane MELBOURNE VIC 3000,,Unoccupied - Under Renovation,1999
+812910,-37.814766,144.973562,1901,3,14.5,1,inside,1,21-25 Flinders Lane MELBOURNE VIC 3000,Milton House,Unoccupied - Unused,1988
+812915,-37.810964,144.972475,1900,2,15.0,4,inside,2,159 Spring Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2008
+812918,-37.811365,144.97198,1892,3,18.0,4,inside,1,32-38 Bourke Street MELBOURNE VIC 3000,Bourke Mews,Residential Apartment,2002
+812922,-37.811452,144.971019,1957,2,9.0,1,inside,1,11-25 Crossley Street MELBOURNE VIC 3000,Sapphire House,Entertainment/Recreation - Indoor,1996
+812927,-37.81269,144.967524,1931,7,23.5,1,inside,1,190-192 Bourke Street MELBOURNE VIC 3000,NSW Chambers,Unoccupied - Unused,2000
+812933,-37.809116,144.964334,,,12.0,4,none,0,,,,
+812989,-37.812663,144.967684,1919,5,23.5,2,inside,1,184-186 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2010
+813030,-37.812035,144.969528,1860,3,13.5,3,inside,1,118-122 Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,1998
+813039,-37.816266,144.953254,2007,43,128.0,5,inside,1,NEO 200 Apartments 182-200 Spencer Street MELBOURNE VIC 3000,NEO 200 Apartment,Residential Apartment,
+813049,-37.8157,144.970228,1857,2,8.5,1,inside,1,129-131 Flinders Lane MELBOURNE VIC 3000,,Storage,
+813079,-37.815274,144.96051,1961,13,47.0,1,inside,1,449-455 Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,1991
+813080,-37.81232,144.968208,1901,4,14.5,2,inside,1,166 Russell Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2009
+813088,-37.81208,144.960394,1910,5,18.5,2,inside,1,115-123 Hardware Street MELBOURNE VIC 3000,Bianca Apartments,Residential Apartment,2002
+813113,-37.809727,144.961677,1994,2,7.0,1,inside,1,65-69 Little La Trobe Street MELBOURNE VIC 3000,,House/Townhouse,2002
+813132,-37.813836,144.973357,1970,23,73.5,5,inside,1,13-15 Collins Street MELBOURNE VIC 3000,,Hospital/Clinic,1999
+813140,-37.810738,144.969204,1890,4,16.5,1,inside,1,The Museum Of Australian Chinese History 20-24 Cohen Place MELBOURNE VIC 3000,Museum of Chinese Australian History,Public Display Area,1995
+813141,-37.810981,144.959955,2016,35,109.0,4,inside,1,315-321 La Trobe Street MELBOURNE VIC 3000,,Residential Apartment,
+813143,-37.81443,144.961238,1901,4,16.0,1,inside,1,3 Kirks Lane MELBOURNE VIC 3000,,Office,
+813151,-37.812464,144.967645,1868,2,8.5,2,inside,1,163-169 Russell Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2001
+813174,-37.813426,144.968722,1900,2,8.0,2,inside,1,122 Russell Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1990
+813182,-37.818587,144.962711,2007,13,54.5,2,inside,1,Q2 Tower 2-8 Queen Street MELBOURNE VIC 3000,Q2 Tower,Office,2012
+813198,-37.811263,144.960468,1910,3,9.5,5,inside,1,5-13 Guildford Lane MELBOURNE VIC 3000,,House/Townhouse,2000
+813199,-37.811236,144.960632,,,4.5,1,none,0,,,,
+813200,-37.815794,144.955128,1920,2,9.0,1,inside,1,187 King Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1991
+813208,-37.810567,144.96737,2014,13,50.0,1,inside,1,166-170 Lonsdale Street MELBOURNE VIC 3000,The Greek Centre,Educational/Research,
+813232,-37.811788,144.965766,1953,3,11.0,2,inside,1,217-231 Lonsdale Street MELBOURNE VIC 3000,Golden Square Carpark,Parking - Commercial Covered,
+813235,-37.816615,144.965458,1929,8,36.0,4,inside,1,258-260 Flinders Lane MELBOURNE VIC 3000,Majorca Building,Residential Apartment,1997
+813257,-37.81176,144.970744,1925,3,14.0,1,inside,1,86 Bourke Street MELBOURNE VIC 3000,,Retail - Shop,
+813286,-37.815488,144.954101,,,82.7,3,none,0,,,,
+813317,-37.812183,144.961468,1937,7,28.0,2,inside,1,364-372 Lonsdale Street MELBOURNE VIC 3000,Askew House,Unoccupied - Unused,2011
+813318,-37.812481,144.963937,2014,6,43.0,9,inside,1,269-321 Lonsdale Street MELBOURNE VIC 3000,Emporium Melbourne,Retail - Shop,
+813327,-37.808968,144.95611,,,8.0,1,none,0,,,,
+813341,-37.813216,144.96765,1937,5,23.9,5,inside,1,193-199 Bourke Street MELBOURNE VIC 3000,Carlton Hotel,Entertainment/Recreation - Indoor,2007
+813387,-37.814343,144.971378,1923,7,27.0,3,inside,1,69-73 Collins Street MELBOURNE VIC 3000,Harley House,Hospital/Clinic,2003
+813388,-37.814544,144.974103,1974,25,99.0,4,inside,1,25-31 Spring Street MELBOURNE VIC 3000,The Philadelphia Apartments,Residential Apartment,2001
+813391,-37.809558,144.96064,1934,6,22.5,1,inside,1,399-411 Elizabeth Street MELBOURNE VIC 3000,City Edge Apartment Hotel,Commercial Accommodation,2009
+813400,-37.811208,144.956571,2013,37,121.8,4,inside,1,Oaks on William 330-352 William Street MELBOURNE VIC 3000,Art on the Park/Singers Lane,Commercial Accommodation,
+813408,-37.820396,144.955991,2006,30,91.5,5,inside,1,550-554 Flinders Street MELBOURNE VIC 3000,Eifel Tower Apartments,Residential Apartment,
+813419,-37.816007,144.966062,1959,13,47.0,3,inside,1,233-239 Collins Street MELBOURNE VIC 3000,The Collins,Residential Apartment,2001
+813434,-37.820053,144.957654,1911,3,11.0,1,inside,1,502-504 Flinders Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2006
+813444,-37.811751,144.9694,1884,2,9.0,1,inside,1,18-24 Market Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1989
+813445,-37.815568,144.970966,1886,2,7.5,1,inside,1,103-105 Flinders Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+813452,-37.81374,144.966,1901,3,15.0,1,inside,1,172 Swanston Street MELBOURNE VIC 3000,,Storage,
+813458,-37.816677,144.960638,1897,8,34.5,3,inside,1,4-10 Bank Place MELBOURNE VIC 3000,Charter House,Residential Apartment,2001
+813473,-37.815954,144.970246,1907,6,24.0,3,inside,1,22-30 Oliver Lane MELBOURNE VIC 3000,The Bond Store,Residential Apartment,2009
+813497,-37.811826,144.969152,1950,1,6.0,1,inside,1,Substation 21 Market Lane MELBOURNE VIC 3000,,Equipment Installation,
+813498,-37.814719,144.963803,1887,3,13.5,1,inside,1,142-146 Elizabeth Street MELBOURNE VIC 3000,,Unoccupied - Unused,1993
+813516,-37.813601,144.963267,1859,4,53.1,12,inside,1,General Post Office 338-352 Bourke Street MELBOURNE VIC 3000,GPO,Retail - Shop,2013
+813526,-37.806235,144.957618,,,6.0,1,none,0,,,,
+813532,-37.809167,144.967974,1939,2,8.5,1,inside,1,4-8 Bennetts Lane MELBOURNE VIC 3000,,Wholesale,1985
+813534,-37.812981,144.957628,2002,11,52.9,7,inside,1,Victorian County Court 240-278 William Street MELBOURNE VIC 3000,Victorian County Court,Office,
+813543,-37.813213,144.969069,,2,10.0,1,inside,2,17 Coromandel Place MELBOURNE VIC 3000,,Residential Apartment,
+813564,-37.811007,144.968332,1929,3,12.0,1,inside,1,22-26 Corrs Lane MELBOURNE VIC 3000,,Office,1955
+813574,-37.811352,144.963818,1910,2,9.0,1,inside,1,22 Drewery Place MELBOURNE VIC 3000,,Unoccupied - Unused,
+813575,-37.818792,144.962028,2020,25,9.0,1,inside,1,1-5 Queen Street MELBOURNE VIC 3000,,Commercial Accommodation,
+813582,-37.81267,144.962866,1976,27,98.5,6,inside,1,222-260 Elizabeth Street MELBOURNE VIC 3000,250E Apartments,Residential Apartment,2013
+813584,-37.810556,144.963893,1863,1,10.0,1,inside,2,Church Of Christ 329-333 Swanston Street MELBOURNE VIC 3000,Church of Christ,"Performances, Conferences, Ceremonies",1994
+813591,-37.811589,144.968888,1902,3,13.5,1,inside,1,119-121 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1997
+813608,-37.811777,144.967334,1913,4,16.5,2,inside,1,199-203 Russell Street MELBOURNE VIC 3000,Exford Hotel,Commercial Accommodation,1994
+813637,-37.811517,144.970734,1972,11,41.0,2,inside,1,166-172 Exhibition Street MELBOURNE VIC 3000,State Trustees,Educational/Research,1993
+813645,-37.809537,144.970993,,,10.0,1,none,0,,,,
+813650,-37.817682,144.965335,1977,15,60.0,1,inside,1,270-272 Flinders Street MELBOURNE VIC 3000,Double Tree by Hilton,Commercial Accommodation,2002
+813652,-37.813894,144.955454,1923,2,7.5,3,inside,2,568-570 Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,1997
+813677,-37.813664,144.962606,1901,3,9.5,2,inside,1,201-207 Elizabeth Street MELBOURNE VIC 3000,,Residential Apartment,2003
+813700,-37.809871,144.96917,1982,17,45.5,3,inside,1,92-106 Lonsdale Street MELBOURNE VIC 3000,Melbourne Marriott Hotel,Commercial Accommodation,2001
+813731,-37.815137,144.964423,1932,5,20.0,3,inside,1,309-311 Little Collins Street MELBOURNE VIC 3000,Yule House,Hospital/Clinic,1999
+813735,-37.811421,144.958644,1999,36,113.0,7,inside,1,299-319 Queen Street MELBOURNE VIC 3000,Republic Tower,Residential Apartment,
+813741,-37.813466,144.962514,1901,3,11.0,1,inside,1,215 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,
+813781,-37.808328,144.967135,1945,2,10.0,2,inside,1,54-56 La Trobe Street MELBOURNE VIC 3000,,Educational/Research,1990
+813782,-37.808071,144.967022,,,6.5,1,none,0,,,,
+813789,-37.817118,144.958519,1987,11,52.0,2,inside,1,91-97 William Street MELBOURNE VIC 3000,Eagle House,Office,2004
+813793,-37.81423,144.972591,1981,54,184.5,4,inside,3,Collins Tower 25-45 Collins Street MELBOURNE VIC 3000,Collins Tower,Office,2006
+813800,-37.820527,144.956152,2004,16,39.0,2,inside,1,546-548 Flinders Street MELBOURNE VIC 3000,Flinders Towers,Residential Apartment,
+813803,-37.813252,144.955929,1986,13,40.0,1,inside,2,535 Little Lonsdale Street MELBOURNE VIC 3000,Flagstaff Carpark,Parking - Commercial Covered,2003
+813806,-37.812657,144.96691,1965,5,31.0,5,inside,1,206-218 Bourke Street MELBOURNE VIC 3000,,Office,2009
+813844,-37.808847,144.968792,,,6.5,1,none,0,,,,
+813846,-37.809,144.960121,1948,1,7.0,1,inside,1,Rear Substation 104 A'Beckett Street MELBOURNE VIC 3000,,Equipment Installation,
+813849,-37.810179,144.967891,,,11.3,3,none,0,,,,
+813859,-37.80988,144.957993,1990,10,38.0,1,inside,1,365-371 Queen Street MELBOURNE VIC 3000,,Office,1996
+813864,-37.81537,144.964907,1992,13,49.0,6,inside,1,258-274 Collins Street MELBOURNE VIC 3000,St. Collins Lane,Commercial Accommodation,2016
+813867,-37.808956,144.963176,1926,7,26.5,3,inside,1,407-409 Swanston Street MELBOURNE VIC 3000,Druids House,Entertainment/Recreation - Indoor,1992
+813870,-37.808747,144.96147,2017,56,173.0,8,inside,1,52-64 A'Beckett Street MELBOURNE VIC 3000,Avant,Residential Apartment,
+813872,-37.808786,144.970799,,,9.0,1,none,0,,,,
+813880,-37.81906,144.957265,1859,2,10.5,1,inside,1,46-52 King Street MELBOURNE VIC 3000,,Unoccupied - Unused,1975
+813881,-37.810202,144.967199,1893,2,9.0,3,inside,1,264-266 Russell Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+813883,-37.811269,144.97062,1972,24,81.5,4,inside,1,174-192 Exhibition Street MELBOURNE VIC 3000,Rydges Melbourne Hotel,Commercial Accommodation,2009
+813888,-37.81938,144.957712,1988,4,18.0,2,inside,1,Riverside Apartments 487-497 Flinders Lane MELBOURNE VIC 3000,Highlander Apartments,Residential Apartment,1997
+813908,-37.813626,144.956406,1957,9,39.5,4,inside,1,528-538 Lonsdale Street MELBOURNE VIC 3000,Ceres House,Office,2005
+813919,-37.817427,144.958772,1939,10,45.0,4,inside,1,77-89 William Street MELBOURNE VIC 3000,Western House,Office,1983
+813936,-37.812385,144.968745,1870,3,12.0,2,inside,1,146-150 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1994
+813975,-37.817186,144.955059,,,6.0,1,none,0,,,,
+813976,-37.81708,144.954847,1973,2,13.5,6,inside,2,Stella Maris Seafarers Club 588-600 Little Collins Street MELBOURNE VIC 3000,Stella Maris Seafarers Centre,"Performances, Conferences, Ceremonies",1981
+813984,-37.81864,144.960418,1931,12,53.5,3,inside,1,21-31 Market Street MELBOURNE VIC 3000,The Port Apartments,Residential Apartment,2000
+813991,-37.814903,144.959599,1931,19,63.5,4,inside,1,Equity Chambers 472-478 Bourke Street MELBOURNE VIC 3000,Equity Chambers,Commercial Accommodation,2019
+813995,-37.813252,144.96729,1901,3,12.9,3,inside,1,209-215 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2010
+814009,-37.820313,144.955545,2022,27,91.2,3,inside,1,9-27 Downie Street MELBOURNE VIC 3000,,Commercial Accommodation,
+814016,-37.812404,144.960809,1959,20,69.1,6,inside,1,386-392 Lonsdale Street MELBOURNE VIC 3000,MIT House,Commercial Accommodation,2016
+814019,-37.812649,144.96024,1924,5,26.0,2,inside,1,410-412 Lonsdale Street MELBOURNE VIC 3000,P R D House,Unoccupied - Unused,2006
+814025,-37.814163,144.962141,1901,3,12.0,3,inside,1,384-386 Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,2003
+814027,-37.807959,144.957612,,,4.0,1,none,0,,,,
+814028,-37.806885,144.959083,,,10.5,1,none,0,,,,
+814029,-37.8076,144.959803,1901,2,7.0,2,inside,1,487 Elizabeth Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1996
+814036,-37.809186,144.960214,1901,2,7.5,1,inside,1,100-104 A'Beckett Street MELBOURNE VIC 3000,MCC Childcare,Unoccupied - Unused,2006
+814052,-37.817397,144.966393,1932,14,45.5,4,inside,1,Unilodge On Flinders Apartments 238-242 Flinders Street MELBOURNE VIC 3000,Home @ Flinders,Student Accommodation,1999
+814056,-37.812002,144.968143,1966,12,43.5,3,inside,1,170-190 Russell Street MELBOURNE VIC 3000,Total House,Parking - Commercial Covered,1988
+814063,-37.808271,144.966933,1957,4,18.0,3,inside,1,58-66 La Trobe Street MELBOURNE VIC 3000,La Trobe Apartments,Residential Apartment,2008
+814076,-37.807853,144.956682,,,3.5,1,none,0,,,,
+814083,-37.819961,144.958086,1984,3,8.5,1,inside,1,1-9 Highlander Lane MELBOURNE VIC 3000,Highlander Mews,House/Townhouse,
+814086,-37.819853,144.956995,1887,3,17.5,1,inside,1,25 King Street MELBOURNE VIC 3000,,Office,2019
+814092,-37.813629,144.971633,1965,17,74.6,4,inside,1,56-64 Collins Street MELBOURNE VIC 3000,Reserve Bank of Australia,Unoccupied - Unused,2003
+814095,-37.810956,144.956983,2024,36,114.5,3,inside,1,17-23 Wills Street MELBOURNE VIC 3000,,Student Accommodation,
+814102,-37.813646,144.955282,1910,3,12.0,2,inside,1,10-22 Manton Lane MELBOURNE VIC 3000,,Parking - Private Covered,2007
+814119,-37.815998,144.954325,1905,3,17.0,2,inside,1,640-652 Bourke Street MELBOURNE VIC 3000,Eliza Tinsley Building,Unoccupied - Unused,1998
+814129,-37.811809,144.964513,1926,2,9.0,1,inside,1,275-279 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1993
+814160,-37.814985,144.973797,1989,29,119.5,7,inside,1,1-9 Spring Street MELBOURNE VIC 3000,Shell House,Office,
+814208,-37.820256,144.956439,2013,26,84.5,5,inside,1,532-536 Flinders Street MELBOURNE VIC 3000,Aura Apartments,Residential Apartment,
+814216,-37.807905,144.970901,,,34.6,8,none,0,,,,
+814232,-37.816616,144.963821,1973,30,124.0,3,inside,1,303-317 Collins Street MELBOURNE VIC 3000,IOOF Centre,Office,1987
+814264,-37.813385,144.960973,1887,3,14.0,1,inside,1,59-61 Hardware Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+814297,-37.809575,144.96692,1874,3,12.0,3,inside,1,296-298 Russell Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+814305,-37.812899,144.965041,1945,5,15.0,2,inside,1,207-209 Swanston Street MELBOURNE VIC 3000,,Unoccupied - Unused,1989
+814314,-37.807862,144.957955,,,5.5,3,none,0,,,,
+814325,-37.813777,144.966017,1901,3,15.0,1,inside,1,168 Swanston Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+814326,-37.81381,144.953829,2016,46,147.5,4,inside,1,Australis Apartments 593-611 Little Lonsdale Street MELBOURNE VIC 3000,,Residential Apartment,
+814330,-37.811677,144.960063,1923,3,11.0,1,inside,1,322 Little Lonsdale Street MELBOURNE VIC 3000,,Retail - Shop,
+814337,-37.811652,144.961646,1860,3,12.5,1,inside,1,299 Elizabeth Street MELBOURNE VIC 3000,,Residential Apartment,
+814341,-37.813888,144.962129,1920,3,11.5,2,inside,1,8-14 Rankins Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+814350,-37.816433,144.956998,1902,16,70.5,5,inside,1,561-571 Bourke Street MELBOURNE VIC 3000,OCBC House,Office,2006
+814354,-37.814301,144.965678,1945,3,9.5,2,inside,1,147 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1989
+814371,-37.811352,144.960087,1910,3,8.5,1,inside,1,27 Guildford Lane MELBOURNE VIC 3000,,House/Townhouse,1996
+814383,-37.814773,144.967721,1859,10,34.0,4,inside,1,170-174 Collins Street MELBOURNE VIC 3000,Collins Street Baptist Church,"Performances, Conferences, Ceremonies",1997
+814390,-37.811337,144.962775,,,16.0,1,none,0,,,,
+814396,-37.817207,144.962801,1968,26,95.5,6,inside,1,351-357 Collins Street MELBOURNE VIC 3000,357 Collins Street,Office,2010
+814397,-37.815595,144.96825,2014,21,88.9,5,inside,1,167-173 Collins Street MELBOURNE VIC 3000,BHP Billiton,Office,
+814406,-37.814024,144.966169,1925,4,21.3,4,inside,1,152-156 Swanston Street MELBOURNE VIC 3000,,Office,1991
+814428,-37.813772,144.967866,1891,5,17.5,6,inside,1,166-186 Little Collins Street MELBOURNE VIC 3000,Georges Apartments,Residential Apartment,1995
+814429,-37.808128,144.959148,1920,2,10.0,4,inside,1,110-112 Franklin Street MELBOURNE VIC 3000,,Retail - Shop,
+814434,-37.817636,144.967925,,,19.0,4,none,0,,,,
+814615,-37.816127,144.963384,1963,20,80.5,5,inside,1,308-336 Collins Street MELBOURNE VIC 3000,330 COLLINS STREET,Office,2003
+814617,-37.813959,144.959951,1869,2,9.5,2,inside,1,203-205 Queen Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2001
+814641,-37.809074,144.962153,1923,3,11.5,1,inside,1,47-49 A'Beckett Street MELBOURNE VIC 3000,,Office,
+814692,-37.816033,144.969085,1909,7,27.0,2,inside,1,Flinders Landing Apartments 161-163 Flinders Lane MELBOURNE VIC 3000,Flinders Landing Apartments,Commercial Accommodation,1998
+814704,-37.812165,144.964676,1910,2,8.5,1,inside,1,255 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+814725,-37.811984,144.970183,1853,3,14.0,2,inside,1,98 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1999
+814727,-37.813295,144.969378,1967,8,19.2,2,inside,1,130-134 Little Collins Street MELBOURNE VIC 3000,Uniting Church Centre,Unoccupied - Under Renovation,1995
+814728,-37.814416,144.965736,1924,3,16.5,2,inside,1,139-141 Swanston Street MELBOURNE VIC 3000,Faul's Building,Entertainment/Recreation - Indoor,2001
+814729,-37.813267,144.961747,1890,5,20.1,4,inside,1,362-364 Little Bourke Street MELBOURNE VIC 3000,Campton House,Residential Apartment,2007
+814763,-37.813995,144.969528,1991,51,220.0,14,inside,1,106-120 Collins Street MELBOURNE VIC 3000,120 Collins Street,Office,2005
+814766,-37.818037,144.964599,1956,11,44.0,4,inside,1,1-5 Elizabeth Street MELBOURNE VIC 3000,Hosies House,Office,1987
+814768,-37.816496,144.961025,1972,11,44.5,3,inside,1,85-91 Queen Street MELBOURNE VIC 3000,,Unoccupied - Unused,2002
+814770,-37.814144,144.968129,2013,14,64.0,5,inside,1,150-154 Collins Street MELBOURNE VIC 3000,,Office,
+814780,-37.813549,144.956807,1995,9,42.5,5,inside,1,Melbourne Magistrates Court 233-245 William Street MELBOURNE VIC 3000,Melbourne Magistrates Court,"Performances, Conferences, Ceremonies",
+814802,-37.814733,144.965801,1938,13,47.5,5,inside,1,Century Building 125-133 Swanston Street MELBOURNE VIC 3000,Century Building,Office,
+814817,-37.814395,144.971148,1937,5,23.0,2,inside,1,Alexandra Club 75-81 Collins Street MELBOURNE VIC 3000,No 81,Entertainment/Recreation - Indoor,2007
+814849,-37.807431,144.960821,1991,13,45.0,3,inside,1,58-64 Franklin Street MELBOURNE VIC 3000,Mercure,Parking - Commercial Covered,2009
+814867,-37.814152,144.962265,1987,5,25.5,2,inside,1,380-382 Bourke Street MELBOURNE VIC 3000,,Educational/Research,2000
+814871,-37.809286,144.967057,1950,2,8.5,1,inside,1,58 Hayward Lane MELBOURNE VIC 3000,,House/Townhouse,
+814881,-37.81159,144.970047,1960,3,11.5,1,inside,1,173-175 Exhibition Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2000
+814888,-37.817672,144.965088,1972,17,68.7,6,inside,1,River View House 274-282 Flinders Street MELBOURNE VIC 3000,River View House,Office,2019
+814928,-37.81288,144.968761,1936,7,34.0,3,inside,1,Quest On Bourke Apartment Hotel 151-163 Bourke Street MELBOURNE VIC 3000,Quest on Bourke,Commercial Accommodation,1999
+814931,-37.811446,144.960829,,,116.0,3,none,0,,,,
+814936,-37.810803,144.961265,1920,3,12.5,1,inside,1,337-347 Elizabeth Street MELBOURNE VIC 3000,,Unoccupied - Unused,2003
+814951,-37.809987,144.957425,2024,28,87.9,3,inside,1,192-204 A'Beckett Street MELBOURNE VIC 3000,The Switch,Student Accommodation,
+814953,-37.813522,144.960819,1888,2,11.5,1,inside,1,4-6 Goldie Place MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+814955,-37.810624,144.963674,,,5.0,1,none,0,,,,
+814959,-37.808012,144.960028,1854,2,8.0,1,inside,1,467 Elizabeth Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+814965,-37.807314,144.96516,,,15.5,3,none,0,,,,
+814997,-37.819121,144.960399,1876,3,17.5,1,inside,1,Immigration Museum 400-424 Flinders Street MELBOURNE VIC 3000,Immigration Museum,Public Display Area,1997
+814998,-37.818956,144.96011,,,9.3,2,none,0,,,,
+815000,-37.814854,144.970096,1901,2,8.0,1,inside,1,27 George Parade MELBOURNE VIC 3000,,Unoccupied - Unused,
+815034,-37.815811,144.969742,1902,4,16.5,1,inside,1,145-149 Flinders Lane MELBOURNE VIC 3000,The Ivy,Retail - Showroom,2012
+815045,-37.813119,144.961352,1887,2,10.5,1,inside,1,23-25 Niagara Lane MELBOURNE VIC 3000,,Residential Apartment,1994
+815069,-37.812926,144.96863,1922,4,18.0,1,inside,1,165 Bourke Street MELBOURNE VIC 3000,,Residential Apartment,2000
+815073,-37.814195,144.953885,2015,49,149.0,9,inside,1,Melbourne One Apartments 612-620 Lonsdale Street MELBOURNE VIC 3000,Melbourne One,Residential Apartment,
+815075,-37.815027,144.957098,,,15.5,1,none,0,,,,
+815079,-37.816107,144.965845,1912,6,26.0,1,inside,1,241-245 Collins Street MELBOURNE VIC 3000,Merrigold on Collins,Residential Apartment,1987
+815092,-37.813308,144.972873,1959,13,48.9,5,inside,1,18-22 Collins Street MELBOURNE VIC 3000,Coates Building,Hospital/Clinic,1996
+815097,-37.81398,144.959048,1926,3,12.5,2,inside,1,Supreme Court Extension 442-460 Little Bourke Street MELBOURNE VIC 3000,Supreme Court Old High Court,"Performances, Conferences, Ceremonies",1930
+815200,-37.81685,144.960792,1958,11,42.5,6,inside,1,404-406 Collins Street MELBOURNE VIC 3000,,Unoccupied - Unused,2008
+815211,-37.812798,144.972402,1919,3,12.5,1,inside,1,39-41 Little Collins Street MELBOURNE VIC 3000,,Office,1999
+815219,-37.817299,144.965581,1900,8,38.0,2,inside,1,17-21 Degraves Street MELBOURNE VIC 3000,Cae City Centre,Educational/Research,
+815227,-37.811249,144.969073,1887,3,19.5,4,inside,1,112-114 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1996
+815232,-37.817798,144.955594,1880,3,12.0,2,inside,1,577-583 Little Collins Street MELBOURNE VIC 3000,The Fiddler,Entertainment/Recreation - Indoor,1994
+815233,-37.815089,144.959471,1925,4,15.5,1,inside,1,480 Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+815237,-37.81111,144.959522,1920,3,14.0,1,inside,1,337-339 La Trobe Street MELBOURNE VIC 3000,Francis House,Educational/Research,1996
+815239,-37.8176,144.954304,1937,8,30.5,8,inside,1,616-622 Little Collins Street MELBOURNE VIC 3000,Grand City Apartments,Residential Apartment,1995
+815259,-37.811582,144.96537,1901,3,12.5,2,inside,1,239 Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,1995
+815270,-37.809082,144.960472,1872,2,9.5,2,inside,1,421 Elizabeth Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+815291,-37.808991,144.968583,1910,2,8.0,1,inside,1,1-3 Evans Lane MELBOURNE VIC 3000,,Equipment Installation,
+815311,-37.813757,144.961581,1920,3,14.5,2,inside,1,377-379 Little Bourke Street MELBOURNE VIC 3000,ODonohues Building,Retail - Shop,1998
+815346,-37.807817,144.96528,1851,3,19.1,4,inside,1,Old Melbourne Gaol 377 Russell Street MELBOURNE VIC 3000,Old Melbourne Gaol,Public Display Area,1999
+815348,-37.810153,144.967177,1961,2,7.0,1,inside,1,268 Russell Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+815357,-37.811698,144.967299,1891,5,19.0,2,inside,1,205-207 Russell Street MELBOURNE VIC 3000,Harris Building,Entertainment/Recreation - Indoor,2013
+815370,-37.814818,144.963855,1962,2,6.5,1,inside,1,134 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,1994
+815380,-37.811634,144.961257,1854,2,8.0,2,inside,1,361-365 Little Lonsdale Street MELBOURNE VIC 3000,,Retail - Shop,2009
+815393,-37.818467,144.963084,1956,11,47.0,4,inside,1,342-348 Flinders Street MELBOURNE VIC 3000,,Office,2005
+815430,-37.809191,144.968673,1894,2,11.0,2,inside,1,102-104 Little Lonsdale Street MELBOURNE VIC 3000,,House/Townhouse,
+815437,-37.809982,144.961704,1972,6,28.0,3,inside,1,368-378 Elizabeth Street MELBOURNE VIC 3000,A - C Buildings,Educational/Research,1985
+815453,-37.813191,144.972595,1959,3,22.0,3,inside,1,2-18 Ridgway Place MELBOURNE VIC 3000,The Lyceum Club,Entertainment/Recreation - Indoor,
+815467,-37.809372,144.96799,1907,3,14.0,2,inside,1,132 Little Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+815479,-37.813381,144.953528,1953,3,9.0,1,inside,9,1 Nicholson Place MELBOURNE VIC 3000,DOCKLANDS TERRACE,House/Townhouse,2002
+815489,-37.813533,144.962171,1910,3,11.5,1,inside,1,353-359 Little Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+815563,-37.820496,144.955225,1890,5,21.0,3,inside,1,10-22 Spencer Street MELBOURNE VIC 3000,,Commercial Accommodation,2006
+815564,-37.808285,144.959289,1901,2,8.0,2,inside,1,108 Franklin Street MELBOURNE VIC 3000,,House/Townhouse,
+815573,-37.816705,144.969131,1927,9,32.0,3,inside,1,164-170 Flinders Street MELBOURNE VIC 3000,Masonic Club Building,Residential Apartment,1996
+815583,-37.812776,144.973214,1988,16,65.0,4,inside,1,85 Spring Street MELBOURNE VIC 3000,,Unoccupied - Unused,2003
+815588,-37.81602,144.962683,1969,16,66.5,3,inside,1,344-350 Collins Street MELBOURNE VIC 3000,Citibank Centre,Office,2007
+815630,-37.814791,144.955309,,,8.5,1,none,0,,,,
+815638,-37.815069,144.965785,1924,11,43.0,4,inside,1,Capitol Arcade 109-117 Swanston Street MELBOURNE VIC 3000,Capitol Arcade,Residential Apartment,2000
+815653,-37.813433,144.963823,1933,9,44.0,5,inside,1,314-336 Bourke Street MELBOURNE VIC 3000,Myer,Retail - Shop,2011
+815678,-37.810721,144.966483,,,124.5,3,none,0,,,,
+815684,-37.815527,144.965355,1927,2,15.6,4,inside,1,254 Collins Street MELBOURNE VIC 3000,,Retail - Shop,1999
+815692,-37.81308,144.973561,1930,8,36.5,4,inside,1,2 Collins Street MELBOURNE VIC 3000,Alcaston House,Hospital/Clinic,1982
+815716,-37.811727,144.967037,1972,2,7.5,1,inside,1,3-5 Waratah Place MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2000
+815722,-37.817362,144.967025,1853,3,10.5,2,inside,1,Young And Jacksons Hotel 1-7 Swanston Street MELBOURNE VIC 3000,Young  And Jacksons Hotel,Entertainment/Recreation - Indoor,1922
+815733,-37.813975,144.970301,1988,22,95.5,7,inside,1,90-98 Collins Street MELBOURNE VIC 3000,90 COLLINS STREET,Office,2003
+815741,-37.809643,144.967833,,,4.0,1,none,0,,,,
+815746,-37.810245,144.971021,1959,2,8.5,1,inside,1,28 Punch Lane MELBOURNE VIC 3000,,House/Townhouse,1983
+815751,-37.809889,144.959759,2017,64,200.5,3,inside,1,127-141 A'Beckett Street MELBOURNE VIC 3000,EQ Tower,Residential Apartment,
+815753,-37.811004,144.961197,,,7.8,1,none,0,,,,
+815770,-37.81181,144.965147,1914,5,20.5,1,inside,1,264-266 Swanston Street MELBOURNE VIC 3000,Denyers Building,Entertainment/Recreation - Indoor,2012
+815837,-37.809223,144.967027,1950,2,8.5,1,inside,1,60 Hayward Lane MELBOURNE VIC 3000,,House/Townhouse,
+815838,-37.811235,144.967088,1923,3,12.0,1,inside,1,231-233 Russell Street MELBOURNE VIC 3000,,Retail - Shop,1990
+815839,-37.806988,144.959515,,,11.0,2,none,0,,,,
+815840,-37.806742,144.959373,,,10.0,2,none,0,,,,
+815851,-37.808562,144.960218,1901,2,7.5,2,inside,1,449-451 Elizabeth Street MELBOURNE VIC 3000,,Residential Apartment,2008
+815869,-37.815338,144.961908,1920,7,31.0,3,inside,1,10-16 McKillop Street MELBOURNE VIC 3000,,Office,1998
+815888,-37.813685,144.966011,1901,3,15.0,1,inside,1,174 Swanston Street MELBOURNE VIC 3000,,Retail - Shop,
+815964,-37.813034,144.969247,2011,16,50.5,2,inside,1,20-26 Coromandel Place MELBOURNE VIC 3000,The Coromandel,Residential Apartment,
+815973,-37.81141,144.967167,1882,1,3.5,2,inside,1,221-223 Russell Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1995
+815978,-37.814259,144.972053,,,160.5,2,none,0,,,,
+815979,-37.817215,144.954083,1891,4,21.5,2,inside,1,669-675 Bourke Street MELBOURNE VIC 3000,The Old Tramways Building,Unoccupied - Unused,1997
+816025,-37.812002,144.968843,1969,14,52.0,7,inside,1,140 East 134-144 Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,2009
+816061,-37.80998,144.970882,1966,7,30.0,3,inside,1,43-51 Lonsdale Street MELBOURNE VIC 3000,Comfort Hotel Melbourne Central,Commercial Accommodation,2008
+816074,-37.810481,144.970394,1988,30,100.4,21,inside,1,196-226 Exhibition Street MELBOURNE VIC 3000,222 Exhibition Street,Office,2010
+816078,-37.81297,144.972514,1898,4,14.0,3,inside,1,20 Ridgway Place MELBOURNE VIC 3000,,House/Townhouse,
+816088,-37.816584,144.964994,1927,11,52.2,17,inside,1,271-285 Collins Street MELBOURNE VIC 3000,National Australia Bank,Unoccupied - Unused,2012
+816101,-37.812714,144.967621,1937,3,13.5,1,inside,1,188 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1995
+816111,-37.812153,144.972108,1920,4,16.0,1,inside,1,19-23 Meyers Place MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2013
+816148,-37.814967,144.954501,1928,2,9.0,3,inside,1,597-603 Lonsdale Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1993
+816149,-37.809053,144.96792,2010,14,44.5,3,inside,1,10-14 Bennetts Lane MELBOURNE VIC 3000,Fraser Place Melbourne,Unoccupied - Under Renovation,
+816151,-37.813309,144.973099,1912,6,25.5,2,inside,1,14-16 Collins Street MELBOURNE VIC 3000,Chanonry,Retail - Shop,1999
+816162,-37.816267,144.96516,1960,11,52.5,4,inside,1,265-269 Collins Street MELBOURNE VIC 3000,,Office,1982
+816164,-37.813227,144.971416,1935,6,32.1,2,inside,1,104-110 Exhibition Street MELBOURNE VIC 3000,Centenary Hall,Office,2002
+816186,-37.815931,144.964376,1915,7,30.5,4,inside,1,294-296 Collins Street MELBOURNE VIC 3000,Permanent Trustee House,Office,1988
+816187,-37.809283,144.962242,1864,3,14.5,1,inside,1,46 Little La Trobe Street MELBOURNE VIC 3000,,Office,1987
+816193,-37.810086,144.972116,1969,18,57.0,4,inside,1,Park Tower 199-207 Spring Street MELBOURNE VIC 3000,Park Tower,Residential Apartment,2000
+816219,-37.81193,144.972046,1910,2,8.0,6,inside,1,39-43 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+816260,-37.812551,144.954814,,,49.0,5,none,0,,,,
+816261,-37.813,144.955085,,,96.5,4,none,0,,,,
+816262,-37.812788,144.954946,1988,23,28.5,1,inside,1,479-495 La Trobe Street MELBOURNE VIC 3000,,Unoccupied - Unused,2006
+816279,-37.810795,144.968256,2005,16,49.0,6,inside,1,139-143 Lonsdale Street MELBOURNE VIC 3000,Mayflower on Lonsdale,Residential Apartment,
+816288,-37.807662,144.959823,1937,4,15.0,2,inside,1,483-485 Elizabeth Street MELBOURNE VIC 3000,London & American Supply Stores,Residential Apartment,2000
+816314,-37.812387,144.960974,1959,5,21.0,2,inside,1,382-384 Lonsdale Street MELBOURNE VIC 3000,OTC Building,Unoccupied - Unused,1994
+816319,-37.81654,144.956188,1975,12,45.5,2,inside,1,589-603 Bourke Street MELBOURNE VIC 3000,,Educational/Research,2002
+816330,-37.817598,144.964393,1889,5,25.0,2,inside,1,25 Elizabeth Street MELBOURNE VIC 3000,South Australia House,Office,
+816331,-37.8113,144.972478,1901,2,11.5,2,inside,1,14 Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,1995
+816345,-37.817548,144.957492,1973,28,105.5,3,inside,1,500-514 Collins Street MELBOURNE VIC 3000,500 Collins,Office,2008
+816346,-37.817251,144.957444,,,4.5,1,none,0,,,,
+816354,-37.812516,144.95636,1962,13,50.5,1,inside,1,277-287 William Street MELBOURNE VIC 3000,AGC House,Office,2003
+816359,-37.817593,144.969854,2002,5,24.0,3,inside,12,Yarra Building Federation Square 2 Swanston Street MELBOURNE VIC 3000,Birrarung Building,Public Display Area,
+816366,-37.812147,144.96527,1859,2,9.5,1,inside,2,244 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1989
+816383,-37.814192,144.973549,1987,10,33.0,3,inside,1,12-20 Flinders Lane MELBOURNE VIC 3000,Cannons House,Parking - Commercial Covered,1996
+816386,-37.81278,144.962011,1940,3,17.0,1,inside,1,355-357 Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,2005
+816392,-37.814668,144.960218,1974,13,52.5,3,inside,1,163-173 Queen Street MELBOURNE VIC 3000,167 - 169  Queen Street,Office,2003
+816401,-37.80886,144.971036,,,3.0,1,none,0,,,,
+816406,-37.810593,144.968918,1888,3,13.5,1,inside,1,115 Lonsdale Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+816408,-37.812384,144.972736,1900,4,17.0,2,inside,1,18-20 Little Collins Street MELBOURNE VIC 3000,Frontier House,Office,1998
+816443,-37.807645,144.968108,1926,3,11.5,1,inside,1,353 Exhibition Street MELBOURNE VIC 3000,,Residential Apartment,1983
+816446,-37.813388,144.960776,1937,2,9.0,1,inside,1,10-12 Goldie Place MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+816452,-37.81569,144.970405,1913,5,23.0,1,inside,1,125-127 Flinders Lane MELBOURNE VIC 3000,Higson Building,Entertainment/Recreation - Indoor,1998
+816474,-37.813432,144.970718,1977,47,183.6,5,inside,3,95-109 Exhibition Street MELBOURNE VIC 3000,North Tower,Office,2018
+816486,-37.817646,144.957958,1966,21,79.5,6,inside,1,480-490 Collins Street MELBOURNE VIC 3000,Collins Street Tower,Commercial Accommodation,2005
+816497,-37.809714,144.960712,1910,2,8.0,1,inside,1,395-397 Elizabeth Street MELBOURNE VIC 3000,Cecil Walker Cycle Sports Stores,Storage,
+816505,-37.811342,144.967138,2014,1,4.5,1,inside,1,225 Russell Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+816518,-37.814245,144.961781,1960,3,13.0,1,inside,1,392-406 Bourke Street MELBOURNE VIC 3000,,Parking - Commercial Covered,2001
+816524,-37.811296,144.967117,2014,1,4.5,1,inside,1,229 Russell Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+816556,-37.811075,144.961395,1878,2,8.5,2,inside,1,325-327 Elizabeth Street MELBOURNE VIC 3000,,Unoccupied - Unused,2003
+816558,-37.820275,144.956757,1967,2,8.5,1,inside,1,524-528 Flinders Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+816565,-37.818101,144.964367,1908,8,29.0,2,inside,1,292-298 Flinders Street MELBOURNE VIC 3000,The Rocke Tompsitt Building,Residential Apartment,2002
+816566,-37.813391,144.96692,1945,1,4.0,1,inside,1,227-229 Bourke Street MELBOURNE VIC 3000,,Community Use,1979
+816586,-37.820189,144.955036,1990,9,36.5,4,inside,1,Hotel Indigo Melbourne Flinders 561-585 Flinders Lane MELBOURNE VIC 3000,Holiday Inn on Flinders,Commercial Accommodation,1997
+816598,-37.816364,144.966376,1945,7,30.0,1,inside,1,226-232 Flinders Lane MELBOURNE VIC 3000,Invicta House,Unoccupied - Unused,2000
+816606,-37.809557,144.959109,1926,4,15.0,1,inside,1,144-148 A'Beckett Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+816615,-37.816417,144.970089,2008,9,37.0,4,inside,1,The Duke 142-148 Flinders Street MELBOURNE VIC 3000,The Duke,Office,2012
+816621,-37.808945,144.962617,2010,34,105.0,2,inside,1,A'Beckett Tower 19-37 A'Beckett Street MELBOURNE VIC 3000,ABeckett Tower,Residential Apartment,
+816623,-37.817624,144.963843,1910,7,35.0,2,inside,1,313-315 Flinders Lane MELBOURNE VIC 3000,,Office,1988
+816630,-37.806756,144.960182,1930,2,9.0,3,inside,1,Multicultural Hub 506-516 Elizabeth Street MELBOURNE VIC 3000,,"Performances, Conferences, Ceremonies",
+816637,-37.815404,144.965993,1936,12,46.5,4,inside,1,228-232 Collins Street MELBOURNE VIC 3000,,Unoccupied - Unused,2001
+816639,-37.813161,144.954662,1923,4,16.5,1,inside,1,290-300 King Street MELBOURNE VIC 3000,The Wiltshire,Residential Apartment,2000
+816654,-37.812923,144.972499,2007,4,16.5,1,inside,1,22 Ridgway Place MELBOURNE VIC 3000,Monaco House,Office,
+816656,-37.811408,144.960195,1910,3,8.5,1,inside,1,24-26 McLean Alley MELBOURNE VIC 3000,,House/Townhouse,1996
+816668,-37.81726,144.963683,1919,8,31.5,2,inside,1,310 Flinders Lane MELBOURNE VIC 3000,,Residential Apartment,2003
+816679,-37.816504,144.965963,1860,6,29.0,4,inside,1,Flinders House 238-244 Flinders Lane MELBOURNE VIC 3000,Flinders House,Residential Apartment,2000
+816697,-37.807766,144.962671,1910,3,14.0,2,inside,1,459-469 Swanston Street MELBOURNE VIC 3000,RMIT University Building 39,Educational/Research,2000
+816704,-37.812643,144.962092,1889,3,14.3,3,inside,1,261 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,
+816709,-37.81051,144.96926,1908,6,22.5,3,inside,1,103-105 Lonsdale Street MELBOURNE VIC 3000,,Office,2009
+816711,-37.815969,144.96013,1883,4,20.5,6,inside,1,430-436 Little Collins Street MELBOURNE VIC 3000,Normanby Chambers,Office,
+816720,-37.810512,144.969528,1897,2,9.5,3,inside,1,231-233 Exhibition Street MELBOURNE VIC 3000,,Retail - Shop,2008
+816726,-37.808538,144.970901,,,3.5,1,none,0,,,,
+816727,-37.808182,144.970907,,,4.5,1,none,0,,,,
+816728,-37.808194,144.97085,,,3.5,1,none,0,,,,
+816738,-37.812878,144.965832,1930,8,45.5,3,inside,1,246-260 Bourke Street MELBOURNE VIC 3000,Midtown Plaza,Unoccupied - Unused,2010
+816749,-37.815151,144.964338,1921,8,29.5,1,inside,1,313-315 Little Collins Street MELBOURNE VIC 3000,,Office,1983
+816755,-37.812912,144.966737,1937,4,18.0,1,inside,1,220 Bourke Street MELBOURNE VIC 3000,,Residential Apartment,2001
+816758,-37.810127,144.970998,1959,2,8.5,1,inside,1,32 Punch Lane MELBOURNE VIC 3000,,House/Townhouse,1983
+816769,-37.81123,144.964265,1920,4,18.5,1,inside,1,289-299 Swanston Street MELBOURNE VIC 3000,Legacy House,Office,1995
+816776,-37.806935,144.961928,1980,20,87.0,6,inside,1,499-511 Swanston Street MELBOURNE VIC 3000,,Unoccupied - Unused,2014
+816792,-37.815911,144.964189,1911,3,14.5,1,inside,1,84-86 Elizabeth Street MELBOURNE VIC 3000,,Unoccupied - Unused,1985
+816815,-37.818406,144.968361,,,18.3,5,none,0,,,,
+816822,-37.813545,144.971837,1990,12,49.5,7,inside,1,52-54 Collins Street MELBOURNE VIC 3000,ANU House,Unoccupied - Unused,
+816826,-37.813956,144.95217,2005,26,87.5,2,inside,1,Mondriane Tower 278-282 Spencer Street MELBOURNE VIC 3000,Mondriane Tower,Residential Apartment,
+816827,-37.814538,144.959043,1982,12,45.5,3,inside,1,459-475 Little Bourke Street MELBOURNE VIC 3000,Mantra On Little Bourke,Commercial Accommodation,2006
+816844,-37.815515,144.955626,,4,23.0,2,inside,1,188-202 King Street MELBOURNE VIC 3000,,Unoccupied - Unused,2005
+816852,-37.809272,144.963246,2016,43,145.0,6,inside,1,Scape Swanston 393-397 Swanston Street MELBOURNE VIC 3000,Scape Swanston,Student Accommodation,
+816855,-37.815576,144.963249,1925,14,53.5,10,inside,1,335-349 Little Collins Street MELBOURNE VIC 3000,Equitable House,Office,2002
+816859,-37.810583,144.969541,1901,2,8.5,1,inside,1,229 Exhibition Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1993
+816904,-37.814094,144.966175,1901,2,9.0,2,inside,1,150 Swanston Street MELBOURNE VIC 3000,,Retail - Shop,
+816937,-37.811331,144.96016,1910,3,8.5,1,inside,1,23-25 Guildford Lane MELBOURNE VIC 3000,,House/Townhouse,
+816938,-37.809155,144.95886,1920,4,16.0,1,inside,1,15-19 Anthony Street MELBOURNE VIC 3000,Sample House,Residential Apartment,2000
+816960,-37.817029,144.95641,1914,5,20.5,2,inside,1,120-138 King Street MELBOURNE VIC 3000,,Educational/Research,1989
+816964,-37.811272,144.966571,1961,3,11.0,1,inside,1,197 Lonsdale Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2009
+816992,-37.812339,144.967249,1964,3,22.5,3,inside,1,194-200 Bourke Street MELBOURNE VIC 3000,Mid City Arcade,Parking - Commercial Covered,2001
+816994,-37.808812,144.967838,,2,3.0,1,inside,1,22-24 Bennetts Lane MELBOURNE VIC 3000,,Unoccupied - Unused,
+817017,-37.815677,144.955681,1925,2,9.0,1,inside,1,186 King Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1990
+817084,-37.816458,144.958149,,,48.1,5,none,0,,,,
+817133,-37.808051,144.959551,,1,22.5,4,near,1,96-106 Franklin Street MELBOURNE VIC 3000,,Unoccupied - Under Construction,
+817139,-37.816758,144.95914,1876,5,23.0,3,inside,1,98-110 William Street MELBOURNE VIC 3000,Australian Club,Entertainment/Recreation - Indoor,
+817144,-37.8159,144.955177,1920,3,13.0,1,inside,1,181-183 King Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1996
+817148,-37.816507,144.969018,1880,3,12.0,2,inside,1,3-5 Hosier Lane MELBOURNE VIC 3000,,Office,1998
+817160,-37.811251,144.961473,1890,3,15.0,3,inside,1,315-323 Elizabeth Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1996
+817179,-37.81047,144.957357,1929,6,24.0,1,inside,1,The Gill 213-219 A'Beckett Street MELBOURNE VIC 3000,The Gill,Residential Apartment,2001
+817186,-37.809567,144.970888,,,10.0,1,none,0,,,,
+817192,-37.814994,144.973153,1910,2,20.0,4,inside,1,37-45 Flinders Lane MELBOURNE VIC 3000,,Retail - Showroom,
+817195,-37.811107,144.959624,1901,2,6.0,2,near,1,333-335 La Trobe Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+817196,-37.819225,144.956602,1988,8,38.5,2,inside,1,43-61 King Street MELBOURNE VIC 3000,Exchange Square,Office,2000
+817204,-37.814956,144.973323,1910,5,14.5,1,inside,1,31-35 Flinders Lane MELBOURNE VIC 3000,,Office,
+817228,-37.815002,144.972812,1926,8,31.5,1,inside,2,Manhattan Apartments 57-59 Flinders Lane MELBOURNE VIC 3000,Manhattan Apartments,Commercial Accommodation,1998
+817260,-37.818593,144.954553,,,14.3,3,none,0,,,,
+817270,-37.811862,144.964537,1901,2,7.5,2,inside,1,273 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2001
+817298,-37.81322,144.968893,1871,2,9.5,1,inside,1,Kelvin Club 14-30 Melbourne Place MELBOURNE VIC 3000,Kelvin Club,Entertainment/Recreation - Indoor,
+817302,-37.811904,144.970239,1853,3,14.0,1,inside,1,94-96 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2000
+817330,-37.817932,144.96455,,2,10.5,1,inside,1,7-9 Elizabeth Street MELBOURNE VIC 3000,,Office,1992
+817334,-37.820581,144.955592,1918,5,24.0,5,inside,1,YHA Melbourne Central 562-564 Flinders Street MELBOURNE VIC 3000,Markilles Hotel,Commercial Accommodation,2009
+817335,-37.8183,144.962573,1937,10,33.5,5,inside,1,18 Queen Street MELBOURNE VIC 3000,Alkira House,Residential Apartment,1991
+817338,-37.81215,144.967477,1890,3,14.5,4,inside,1,185-189 Russell Street MELBOURNE VIC 3000,,Office,
+817345,-37.81515,144.954859,1924,2,8.5,1,inside,1,217-219 King Street MELBOURNE VIC 3000,,Unoccupied - Unused,1998
+817347,-37.819486,144.957734,1854,3,19.5,3,inside,1,11 Highlander Lane MELBOURNE VIC 3000,RUTHERGLEN HOUSE,House/Townhouse,1990
+817365,-37.809443,144.961744,1910,1,4.5,1,inside,1,70-72 Little La Trobe Street MELBOURNE VIC 3000,Kimkhi House,Entertainment/Recreation - Indoor,2007
+817375,-37.813287,144.961609,1920,5,25.0,2,inside,1,368-370 Little Bourke Street MELBOURNE VIC 3000,Niagara House,Office,1988
+817376,-37.80789,144.96445,1972,15,25.7,8,inside,21,Building 12 RMIT University 394-412 Swanston Street MELBOURNE VIC 3000,Building 12 (Gillespie Wing),Educational/Research,
+817438,-37.821051,144.956903,,,4.0,1,none,0,,,,
+817439,-37.820986,144.95649,2009,16,53.6,4,inside,1,545-557 Flinders Street MELBOURNE VIC 3000,Northbank Place Central Tower,Residential Apartment,
+817445,-37.808087,144.959991,1956,2,6.5,2,inside,2,465 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,
+817477,-37.811129,144.96038,1920,1,6.0,1,inside,1,12-14 Guildford Lane MELBOURNE VIC 3000,MCC SUBSTATION,Equipment Installation,
+817479,-37.808446,144.96017,2006,13,45.5,2,inside,1,453-459 Elizabeth Street MELBOURNE VIC 3000,Q Apartments,Residential Apartment,2007
+817487,-37.812706,144.956443,1972,15,50.5,2,inside,1,269-275 William Street MELBOURNE VIC 3000,Nubrik House,Office,1994
+817549,-37.814922,144.961743,1930,6,24.0,1,inside,1,415-419 Bourke Street MELBOURNE VIC 3000,Rochelle House,Office,1995
+817567,-37.816333,144.962589,1973,17,70.5,2,inside,1,352-358 Collins Street MELBOURNE VIC 3000,,Office,1990
+817576,-37.81493,144.955976,1987,7,18.5,1,inside,1,548-558 Little Bourke Street MELBOURNE VIC 3000,,Parking - Commercial Covered,
+817587,-37.814306,144.959659,1920,2,10.0,1,inside,1,441-443 Little Bourke Street MELBOURNE VIC 3000,Downs House,Entertainment/Recreation - Indoor,2008
+817598,-37.808075,144.960096,,,6.5,1,none,0,,,,
+817604,-37.812214,144.965921,1895,2,8.0,2,inside,1,232 Little Bourke Street MELBOURNE VIC 3000,,Retail - Shop,1998
+817607,-37.81925,144.959194,1967,22,89.0,5,inside,1,15-33 William Street MELBOURNE VIC 3000,15W,Office,2003
+817614,-37.810208,144.958206,2010,30,85.0,1,inside,1,ABeckett 181 175-181 A'Beckett Street MELBOURNE VIC 3000,CityTempo Apartments,Residential Apartment,
+817625,-37.812536,144.957036,,,6.0,1,none,0,,,,
+817637,-37.815916,144.959563,2005,19,88.5,7,inside,1,RACV Building 483-501 Bourke Street MELBOURNE VIC 3000,RACV Centre,Parking - Private Covered,2008
+817649,-37.813125,144.971687,1945,3,18.0,6,inside,1,57-67 Little Collins Street MELBOURNE VIC 3000,,Office,2005
+817671,-37.813076,144.953391,1998,6,32.2,12,inside,5,"Building A, Sir William Angliss Centre 555 La Trobe Street MELBOURNE VIC 3000",Building A,Educational/Research,2003
+817678,-37.813615,144.959275,1965,15,71.5,1,inside,1,Telstra Lonsdale Exchange Building 447-453 Lonsdale Street MELBOURNE VIC 3000,Telstra Lonsdale Exchange Building,Equipment Installation,
+817696,-37.807025,144.963438,1903,3,14.0,3,inside,1,City Baths 420-438 Swanston Street MELBOURNE VIC 3000,CITY BATHS,Entertainment/Recreation - Indoor,1996
+817700,-37.81364,144.968187,1965,3,14.5,3,inside,1,115-127 Russell Street MELBOURNE VIC 3000,Portland Hotel,Entertainment/Recreation - Indoor,1989
+817715,-37.817077,144.955791,1926,7,31.0,4,inside,1,131-137 King Street MELBOURNE VIC 3000,Ibis Styles Hotel,Commercial Accommodation,2010
+817720,-37.816852,144.966297,1898,7,26.5,2,inside,1,241-243 Flinders Lane MELBOURNE VIC 3000,Bible House,Residential Apartment,1993
+817763,-37.813779,144.962065,,,12.0,1,none,0,,,,
+817789,-37.809119,144.960488,1872,2,9.5,2,inside,1,419 Elizabeth Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2002
+817797,-37.812006,144.969233,1965,2,16.0,2,inside,1,124-128 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1997
+817845,-37.813338,144.964396,1911,6,37.0,5,inside,1,294-312 Bourke Street MELBOURNE VIC 3000,David Jones,Retail - Shop,2009
+817849,-37.817155,144.957781,1990,13,55.5,2,inside,1,505-515 Little Collins Street MELBOURNE VIC 3000,State Revenue Office,Office,
+817866,-37.812383,144.967584,1890,1,4.5,1,inside,1,171-173 Russell Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1999
+817886,-37.809964,144.960827,1926,7,45.5,3,inside,1,284-294 La Trobe Street MELBOURNE VIC 3000,The Argus Building,Educational/Research,2013
+817900,-37.810873,144.965815,1911,6,32.0,10,inside,1,Queen Victoria Women's Centre 204-216 Lonsdale Street MELBOURNE VIC 3000,Queen Victoria Womens Centre,Office,1997
+817923,-37.811264,144.961017,2013,41,133.5,4,inside,3,Melbourne Star Apartments 8 Sutherland Street MELBOURNE VIC 3000,Melbourne Star Apartments,Residential Apartment,
+817935,-37.817367,144.954503,1990,10,40.0,6,inside,1,655-667 Bourke Street MELBOURNE VIC 3000,Defence Plaza,Office,1995
+817943,-37.812698,144.966299,1935,5,29.4,13,inside,1,Kmart Centre 222-244 Bourke Street MELBOURNE VIC 3000,Kmart Centre,Educational/Research,2010
+817962,-37.819503,144.96334,,,8.0,1,none,0,,,,
+817987,-37.81272,144.964958,1928,4,18.5,2,inside,1,219-225 Swanston Street MELBOURNE VIC 3000,,Unoccupied - Unused,2016
+818007,-37.812817,144.961549,1945,2,7.0,1,inside,1,373-375 Lonsdale Street MELBOURNE VIC 3000,,Office,
+818008,-37.810421,144.9673,1851,2,9.0,3,inside,1,248-250 Russell Street MELBOURNE VIC 3000,,Unoccupied - Unused,1994
+818014,-37.813577,144.953231,2000,26,81.5,3,inside,1,536-548 Little Lonsdale Street MELBOURNE VIC 3000,Dockside Tower,Residential Apartment,
+818038,-37.811008,144.960644,1901,2,7.0,1,inside,1,25-31 Sutherland Street MELBOURNE VIC 3000,,Storage,1990
+818107,-37.812142,144.96187,1937,7,28.0,8,inside,1,352-362 Lonsdale Street MELBOURNE VIC 3000,Mitchell House,Unoccupied - Unused,2004
+818113,-37.810884,144.964105,1870,2,7.0,2,inside,1,313-315 Swanston Street MELBOURNE VIC 3000,,Retail - Shop,
+818114,-37.815559,144.975469,,,9.0,1,none,0,,,,
+818122,-37.811012,144.96537,,,44.0,3,none,0,,,,
+818123,-37.814912,144.970786,1991,52,194.0,10,inside,1,89-105 Collins Street MELBOURNE VIC 3000,101 Collins Street,Office,
+818147,-37.815814,144.966315,1964,17,61.0,2,inside,1,221-231 Collins Street MELBOURNE VIC 3000,Wales Corner,Office,1991
+818200,-37.811834,144.972284,1906,2,11.5,2,inside,1,31-33 Bourke Street MELBOURNE VIC 3000,,Office,
+818206,-37.813948,144.959469,1925,7,36.5,3,inside,1,Telstra City West Exchange Building 434-440 Little Bourke Street MELBOURNE VIC 3000,Telstra City West Telephone Exchange,Office,1993
+818214,-37.811994,144.966677,1890,2,10.0,2,inside,1,198 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1997
+818300,-37.814872,144.967443,1915,9,32.5,3,inside,1,Clyde House 182 Collins Street MELBOURNE VIC 3000,Clyde House,Commercial Accommodation,2000
+818308,-37.816438,144.966207,1912,8,38.5,2,inside,1,30-44 Manchester Lane MELBOURNE VIC 3000,Manchester House,Residential Apartment,2000
+818320,-37.812807,144.961771,1920,3,13.5,3,inside,1,365-367 Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,1999
+818348,-37.811739,144.969718,1996,21,71.5,10,inside,1,The Paramount 100-116 Bourke Street MELBOURNE VIC 3000,Paramount Apartments,Residential Apartment,2002
+818349,-37.811472,144.969986,,,18.5,4,none,0,,,,
+818363,-37.809416,144.968882,1860,1,5.0,1,inside,1,275-285 Exhibition Street MELBOURNE VIC 3000,Former Mickveh Yisrael Synagogue,Entertainment/Recreation - Indoor,2002
+818364,-37.809314,144.968877,,,2.5,1,none,0,,,,
+818381,-37.812548,144.962075,1916,3,14.0,1,inside,1,263-269 Elizabeth Street MELBOURNE VIC 3000,Michaels Building,Entertainment/Recreation - Indoor,2005
+818382,-37.814206,144.966249,1985,3,9.0,1,inside,1,144 Swanston Street MELBOURNE VIC 3000,,Retail - Shop,
+818389,-37.812029,144.966419,1984,3,10.5,1,inside,1,208-210 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+818405,-37.812801,144.965576,1904,2,10.5,2,inside,1,212 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2004
+818408,-37.80904,144.963219,1890,3,16.5,2,inside,2,401-405 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2006
+818417,-37.815436,144.953588,2016,54,153.0,7,inside,4,21-39 Rose Lane MELBOURNE VIC 3000,Manhattan,Residential Apartment,
+818418,-37.811656,144.970066,1976,2,12.5,2,inside,1,169-171 Exhibition Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2008
+818435,-37.811766,144.960719,1989,5,19.0,1,inside,1,377-383 Little Lonsdale Street MELBOURNE VIC 3000,Portico Building,Office,
+818450,-37.814306,144.969237,1866,1,35.0,3,inside,1,St Michaels Uniting Church 122-136 Collins Street MELBOURNE VIC 3000,St Michaels Uniting Church,"Performances, Conferences, Ceremonies",
+818490,-37.811896,144.966944,1987,2,9.0,1,inside,1,178-190 Little Bourke Street MELBOURNE VIC 3000,Dynasty House,Entertainment/Recreation - Indoor,1997
+818496,-37.812867,144.96465,1990,13,42.5,4,inside,1,265-279 Little Bourke Street MELBOURNE VIC 3000,Welcome Hotel,Commercial Accommodation,2002
+818512,-37.812941,144.968486,1868,2,8.5,2,inside,1,171 Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2012
+818532,-37.814563,144.971004,1929,6,29.5,5,inside,1,Athenaeum Club 83-87 Collins Street MELBOURNE VIC 3000,Athenaem Club,Entertainment/Recreation - Indoor,1994
+818554,-37.811818,144.96054,1989,4,15.5,1,inside,1,385-389 Little Lonsdale Street MELBOURNE VIC 3000,The Collonade,Unoccupied - Unused,1991
+818563,-37.8112,144.966742,1887,3,14.5,2,inside,1,189-191 Lonsdale Street MELBOURNE VIC 3000,,Unoccupied - Unused,1997
+818569,-37.811432,144.959848,1924,3,11.0,1,inside,1,33-35 Guildford Lane MELBOURNE VIC 3000,Regency House,Entertainment/Recreation - Indoor,
+818570,-37.814311,144.959982,1980,22,81.0,4,inside,1,185-199 Queen Street MELBOURNE VIC 3000,Adina,Commercial Accommodation,2007
+818571,-37.81281,144.965652,1904,2,10.5,3,inside,1,210 Swanston Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2009
+818574,-37.812017,144.965282,1922,7,34.0,5,inside,1,Curtin House 248-258 Swanston Street MELBOURNE VIC 3000,Curtin House,Entertainment/Recreation - Indoor,2005
+818588,-37.817818,144.963213,1929,6,28.8,3,inside,1,335-339 Flinders Lane MELBOURNE VIC 3000,The Corporate Clearing House,Entertainment/Recreation - Indoor,1994
+818589,-37.809096,144.962077,1923,3,11.5,1,inside,1,51-53 A'Beckett Street MELBOURNE VIC 3000,,Office,
+818592,-37.81068,144.956578,1938,3,13.0,2,inside,1,221-249 A'Beckett Street MELBOURNE VIC 3000,Former Army Medical Corps Depot,Office,2000
+818595,-37.818479,144.961878,1890,7,32.0,2,inside,1,13-17 Queen Street MELBOURNE VIC 3000,Lombard Buildings,Office,1990
+818598,-37.807053,144.961021,2011,49,170.5,5,inside,1,Zen Apartments 23-39 Therry Street MELBOURNE VIC 3000,ZEN Tower,Residential Apartment,
+818605,-37.813183,144.956697,1985,7,29.0,2,inside,1,247-257 William Street MELBOURNE VIC 3000,,Educational/Research,1997
+818623,-37.812703,144.965572,1936,3,13.0,2,inside,1,216-220 Swanston Street MELBOURNE VIC 3000,Modok House,Retail - Shop,2008
+818629,-37.812968,144.963151,1932,6,34.0,3,inside,1,Break Free (Heritage on Little Bourke) 318-322 Little Bourke Street MELBOURNE VIC 3000,,Unoccupied - Unused,2002
+818630,-37.814392,144.956183,1989,14,59.5,3,inside,1,541-557 Lonsdale Street MELBOURNE VIC 3000,Marsh Centre,Office,
+818632,-37.816119,144.965744,1933,7,30.0,3,inside,1,247-249 Collins Street MELBOURNE VIC 3000,Newspaper House,Educational/Research,2016
+818657,-37.818506,144.958119,1890,12,50.5,8,inside,1,487-503 Collins Street MELBOURNE VIC 3000,Intercontinental Melbourne The Rialto,Commercial Accommodation,2008
+818668,-37.811903,144.961656,1895,2,8.5,2,inside,1,287-289 Elizabeth Street MELBOURNE VIC 3000,,Retail - Shop,
+818670,-37.815068,144.963863,1925,5,21.9,2,inside,1,326-332 Little Collins Street MELBOURNE VIC 3000,Hoddle House,Unoccupied - Unused,2005
+818673,-37.808013,144.967715,1872,4,16.0,1,inside,1,30-34 La Trobe Street MELBOURNE VIC 3000,Sefton Apartments,Residential Apartment,2000
+818705,-37.81769,144.956809,1991,39,159.5,7,inside,1,522-534 Collins Street MELBOURNE VIC 3000,530 Collins,Office,2009
+818733,-37.811595,144.968786,,3,13.0,3,inside,1,123-127 Little Bourke Street MELBOURNE VIC 3000,,"Performances, Conferences, Ceremonies",
+818807,-37.808932,144.96883,1936,2,9.0,1,inside,1,295-301 Exhibition Street MELBOURNE VIC 3000,Taweeels Building,Unoccupied - Unused,
+818814,-37.811438,144.959955,1910,3,14.5,2,inside,1,31 Guildford Lane MELBOURNE VIC 3000,,House/Townhouse,1998
+818825,-37.817774,144.971778,,,13.5,3,none,0,,,,
+818829,-37.811284,144.966448,1993,3,8.0,1,inside,1,201 Lonsdale Street MELBOURNE VIC 3000,Parthenon House,Unoccupied - Unused,
+818838,-37.814998,144.966881,1867,6,34.0,10,inside,2,Melbourne Town Hall 100 Swanston Street MELBOURNE VIC 3000,MELBOURNE TOWN HALL,"Performances, Conferences, Ceremonies",1998
+818839,-37.818486,144.961125,1988,10,45.5,4,inside,1,14-40 Market Street MELBOURNE VIC 3000,Electric House,Office,1998
+818852,-37.813187,144.961157,1890,2,9.0,1,inside,1,64-66 Hardware Lane MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1997
+818864,-37.808735,144.970964,,,8.5,2,none,0,,,,
+818866,-37.812099,144.966242,1883,2,9.1,4,inside,1,214-216 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1995
+818904,-37.812026,144.9665,1901,2,8.0,2,inside,1,206 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,1983
+818931,-37.809359,144.962076,1995,4,16.0,2,inside,1,48-60 Little La Trobe Street MELBOURNE VIC 3000,Nido Apartments,Residential Apartment,
+818949,-37.811452,144.96933,1880,3,13.5,1,inside,1,105 Little Bourke Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2001
+818983,-37.813714,144.962349,1920,3,11.5,1,inside,1,21-27 Somerset Place MELBOURNE VIC 3000,,Office,
+818991,-37.81746,144.960865,1920,3,16.5,2,inside,1,415-417 Collins Street MELBOURNE VIC 3000,AFT House,Entertainment/Recreation - Indoor,1984
+819023,-37.816345,144.966631,1974,15,52.0,2,inside,1,45-63 Swanston Street MELBOURNE VIC 3000,55 Swanston Street,Educational/Research,2004
+819024,-37.815847,144.964243,1920,3,15.0,4,inside,1,88 Elizabeth Street MELBOURNE VIC 3000,Alexanders,Retail - Shop,
+819044,-37.81683,144.955574,1990,20,84.0,3,inside,1,607-619 Bourke Street MELBOURNE VIC 3000,Moore Stephens House,Office,2000
+819064,-37.815124,144.969821,1986,29,101.5,6,inside,2,Grand Hyatt Hotel Gnd to Level 29 121-131 Collins Street MELBOURNE VIC 3000,Grand Hyatt Melbourne,Commercial Accommodation,2008
+819082,-37.810709,144.958075,2004,23,96.1,7,inside,1,378-392 La Trobe Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+819088,-37.815436,144.965657,1991,10,51.5,5,inside,1,234-250 Collins Street MELBOURNE VIC 3000,Collins Two3Four,Educational/Research,
+819112,-37.810364,144.956139,1974,12,48.0,3,inside,1,Radisson on Flagstaff Gardens 370-384 William Street MELBOURNE VIC 3000,Radisson on Flagstaff Gardens Hotel,Commercial Accommodation,1997
+819120,-37.814809,144.971479,1967,8,32.0,2,inside,1,49-51 Exhibition Street MELBOURNE VIC 3000,,Office,1996
+819127,-37.809796,144.961408,1883,2,10.5,1,inside,1,382-384 Elizabeth Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+819137,-37.807593,144.967958,1890,2,6.5,1,inside,1,13A Victoria Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,
+819141,-37.815273,144.958384,1862,5,17.0,1,inside,1,516-526 Bourke Street MELBOURNE VIC 3000,Goldbrough Mort Building,Unoccupied - Unused,2008
+819147,-37.818502,144.954983,,,19.3,3,none,0,,,,
+819185,-37.807289,144.962101,2007,41,156.7,9,inside,2,Verve501 Apartments 483 Swanston Street MELBOURNE VIC 3000,Verve 501,Residential Apartment,
+819186,-37.814664,144.959679,1959,9,36.0,8,inside,1,468-470 Bourke Street MELBOURNE VIC 3000,Law Institute of Victoria,Educational/Research,2004
+819195,-37.807672,144.967397,,39,119.1,10,inside,1,9-23 MacKenzie Street MELBOURNE VIC 3000,Conservatory,Residential Apartment,
+819220,-37.808702,144.971337,2019,18,70.3,4,inside,1,261-271 Spring Street MELBOURNE VIC 3000,,Office,
+819274,-37.809662,144.96226,2016,86,270.2,4,inside,1,224-252 La Trobe Street MELBOURNE VIC 3000,,Residential Apartment,
+819275,-37.809847,144.968414,,,156.5,7,none,0,,,,
+819276,-37.810041,144.968126,2019,37,45.0,2,inside,6,Wesley Place 130 Lonsdale Street MELBOURNE VIC 3000,Charter  Hall,Office,
+819277,-37.809493,144.968608,2019,22,67.6,7,inside,1,109-115 Little Lonsdale Street MELBOURNE VIC 3000,,Commercial Accommodation,
+819279,-37.813882,144.970899,,,189.1,5,none,0,,,,
+819281,-37.817443,144.958609,2019,60,183.6,3,inside,1,464-466 Collins Street MELBOURNE VIC 3000,Arise Collins House,Residential Apartment,
+819342,-37.811851,144.956927,,,4.3,1,none,0,,,,
+819344,-37.81186,144.956733,,,8.7,2,none,0,,,,
+819346,-37.818786,144.962023,,,77.5,4,none,0,,,,
+819362,-37.816855,144.967634,1891,4,93.2,5,inside,2,The Chapter House and Diocesan Offices 197-209 Flinders Lane MELBOURNE VIC 3000,The Chapter House,Office,1996
+900117,-37.817394,144.953755,2021,79,246.2,3,inside,1,134-160 Spencer Street MELBOURNE VIC 3000,,Residential Apartment,
+900125,-37.811054,144.972108,1916,3,46.1,4,inside,1,20-30 Bourke Street MELBOURNE VIC 3000,Palace Theatre,Commercial Accommodation,2009
+900132,-37.817928,144.955226,2021,34,116.1,6,inside,1,589-599 Little Collins Street MELBOURNE VIC 3000,,Commercial Accommodation,
+900142,-37.818802,144.956345,2023,38,144.8,6,inside,1,539-557 Collins Street MELBOURNE VIC 3000,Enterprise House - 555 Collins Street,Office,
+900171,-37.809976,144.959123,2021,81,244.4,8,inside,1,143-171 A'Beckett Street MELBOURNE VIC 3000,Queen's Place,Residential Apartment,
+900175,-37.80905,144.960243,,,3.6,1,none,0,,,,
+900368,-37.814266,144.953327,,,237.5,8,none,0,,,,
+900391,-37.808706,144.962477,,,9.0,1,none,0,,,,
+900393,-37.808887,144.961989,,,6.9,1,none,0,,,,
+900396,-37.8112,144.959287,2022,50,165.8,10,inside,1,Paragon Apartments 318 Queen Street MELBOURNE VIC 3000,Paragon,Residential Apartment,
+900400,-37.811948,144.957316,,,2.8,1,none,0,,,,
+900402,-37.812354,144.956922,,,2.2,1,none,0,,,,
+900414,-37.808657,144.965454,,,19.4,4,none,0,,,,
+900434,-37.817011,144.9671,,,13.6,1,none,0,,,,
+900438,-37.814524,144.952627,2021,82,266.6,17,near,4,244-262 Spencer Street MELBOURNE VIC 3000,Tower 1 (West),Residential Apartment,
+900617,-37.817981,144.959889,2020,30,148.3,39,inside,4,441-447 Collins Street MELBOURNE VIC 3000,,Office,
+900668,-37.813375,144.95395,2024,66,213.7,6,inside,1,295-309 King Street MELBOURNE VIC 3000,,Residential Apartment,
+900669,-37.813728,144.955585,,59,196.3,5,inside,2,560-566 Lonsdale Street MELBOURNE VIC 3000,,Residential Apartment,
+900671,-37.808804,144.967491,2020,45,139.5,7,inside,2,141-149 La Trobe Street MELBOURNE VIC 3000,,Residential Apartment,
+900672,-37.808284,144.96956,,64,226.3,9,inside,2,318 Exhibition Street MELBOURNE VIC 3000,,Unoccupied - Unused,
+900673,-37.812056,144.961147,2021,69,220.0,11,inside,2,367-375 Little Lonsdale Street MELBOURNE VIC 3000,,Residential Apartment,
+900674,-37.812111,144.957289,1872,3,4.0,1,inside,4,Former Royal Mint Building 280 William Street MELBOURNE VIC 3000,Royal Mint,Public Display Area,2001
+900676,-37.811991,144.958412,2022,29,129.4,6,inside,1,364-378 Little Lonsdale Street MELBOURNE VIC 3000,Victorian University City Tower,Educational/Research,
+900677,-37.810373,144.958044,2022,48,150.5,6,inside,1,183-189 A'Beckett Street MELBOURNE VIC 3000,,Student Accommodation,
+900678,-37.807832,144.958435,2022,10,42.5,11,inside,1,131-151 Therry Street MELBOURNE VIC 3000,,Parking - Commercial Covered,
+900679,-37.807728,144.95911,,41,133.4,3,inside,1,93-129 Therry Street MELBOURNE VIC 3000,,Residential Apartment,
+900680,-37.808261,144.961347,2021,55,175.2,4,inside,1,97-111 Franklin Street MELBOURNE VIC 3000,,Student Accommodation,
+900681,-37.8088,144.961912,,,7.1,1,none,0,,,,
+900682,-37.808743,144.962229,,,13.1,2,none,0,,,,
+900684,-37.80712,144.964159,,,13.6,2,none,0,,,,
+901132,-37.810837,144.960468,,48,145.8,4,inside,1,293-303 La Trobe Street MELBOURNE VIC 3000,The Duke of Kent Hotel,Student Accommodation,
+901135,-37.817207,144.967052,,,11.8,3,none,0,,,,
+901218,-37.813909,144.971156,1867,3,14.5,1,inside,1,68-72 Collins Street MELBOURNE VIC 3000,,Retail - Shop,1995
+901273,-37.807408,144.958437,,,3.9,1,none,0,,,,
+901274,-37.807307,144.958808,,,4.8,1,none,0,,,,
+901895,-37.817246,144.954712,,,3.1,1,none,0,,,,
+901896,-37.818924,144.962978,,,3.6,1,none,0,,,,
+901953,-37.809726,144.955862,,,11.5,1,none,0,,,,
+902021,-37.819048,144.962841,,,3.9,2,none,0,,,,
+902043,-37.814784,144.97422,2024,34,125.5,5,inside,1,13-23 Spring Street MELBOURNE VIC 3000,Mercure Melbourne Treasury Gardens,Residential Apartment,
+902050,-37.81349,144.970306,,,99.7,3,none,0,,,,
+902059,-37.810057,144.97071,1850,2,10.0,2,inside,1,53-57 Lonsdale Street MELBOURNE VIC 3000,,Entertainment/Recreation - Indoor,2004
+902079,-37.807678,144.962305,,,19.8,5,none,0,,,,
+903016,-37.816716,144.956269,2024,59,188.3,3,inside,1,140-146 King Street MELBOURNE VIC 3000,Meriton,Commercial Accommodation,
+903017,-37.812929,144.956584,1856,21,79.3,2,inside,1,Metropolitan Hotel 263-267 William Street MELBOURNE VIC 3000,Metropolitan On William Hotel,Unoccupied - Unused,2023
+903020,-37.809943,144.967079,1967,28,82.7,2,inside,1,274-284 Russell Street MELBOURNE VIC 3000,Rido House,Student Accommodation,1989
+903343,-37.812946,144.952868,,,4.8,1,none,0,,,,
+903345,-37.811712,144.957487,,,4.1,1,none,0,,,,
+903353,-37.808468,144.971118,,,6.3,1,none,0,,,,
+903354,-37.808512,144.971061,,,6.4,1,none,0,,,,

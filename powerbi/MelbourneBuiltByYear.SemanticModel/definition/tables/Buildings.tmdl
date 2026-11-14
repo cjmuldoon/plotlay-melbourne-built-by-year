@@ -1,0 +1,128 @@
+table Buildings
+	lineageTag: 9fdd5aad-7ea5-28df-6738-692b788cee0a
+
+	/// Structures in the CBD in the 2023 footprints
+	measure 'Buildings standing' = COUNTROWS ( Buildings )
+		formatString: #,0
+		lineageTag: 1bd6beab-c54c-e458-b9f5-aed9230b280b
+
+	/// With a construction year from the CLUE record in them
+	measure 'Dated buildings' = CALCULATE ( COUNTROWS ( Buildings ), NOT ISBLANK ( Buildings[year] ) )
+		formatString: #,0
+		lineageTag: 63c27a76-54eb-bce9-062a-2cd2538b9e1f
+
+	/// No CLUE record in them, or one with a blank year
+	measure 'No year share' = DIVIDE ( [Buildings standing] - [Dated buildings], [Buildings standing] )
+		formatString: 0.0%
+		lineageTag: 475171d4-8ce7-c04a-066e-b64e3c7ba9f3
+
+	measure 'Median height m' = MEDIAN ( Buildings[height_m] )
+		formatString: 0.0
+		lineageTag: 9d391ce1-bb19-5edc-b7c2-0d0761125a76
+
+	column structure_id
+		dataType: string
+		lineageTag: 2f3246a7-858b-fe9e-9922-2a3d3cd425c9
+		summarizeBy: none
+		sourceColumn: structure_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column lat
+		dataType: double
+		lineageTag: 410fc23d-b638-1a49-072d-93323ddd1c28
+		summarizeBy: none
+		sourceColumn: lat
+		dataCategory: Latitude
+
+		annotation SummarizationSetBy = Automatic
+
+	column lng
+		dataType: double
+		lineageTag: f41c4bf4-7717-26fd-4ca4-07f039d002c9
+		summarizeBy: none
+		sourceColumn: lng
+		dataCategory: Longitude
+
+		annotation SummarizationSetBy = Automatic
+
+	column year
+		dataType: int64
+		formatString: 0
+		lineageTag: 3b517264-6583-8e70-544c-284bdea79075
+		summarizeBy: none
+		sourceColumn: year
+
+		annotation SummarizationSetBy = Automatic
+
+	column floors
+		dataType: int64
+		formatString: 0
+		lineageTag: 6a2a8e09-255c-0003-ee8a-4daa692af3a2
+		summarizeBy: none
+		sourceColumn: floors
+
+		annotation SummarizationSetBy = Automatic
+
+	column height_m
+		dataType: double
+		formatString: 0.0
+		lineageTag: 14a99c02-f680-4860-9d59-11906b4c8c62
+		summarizeBy: none
+		sourceColumn: height_m
+
+		annotation SummarizationSetBy = Automatic
+
+	column parts
+		dataType: int64
+		formatString: 0
+		lineageTag: 7e1f0b30-207f-3ef6-46cb-86d8918adaff
+		summarizeBy: none
+		sourceColumn: parts
+
+		annotation SummarizationSetBy = Automatic
+
+	column match
+		dataType: string
+		lineageTag: 2c948703-37ea-30e1-8de8-eb1141a79b60
+		summarizeBy: none
+		sourceColumn: match
+
+		annotation SummarizationSetBy = Automatic
+
+	column address
+		dataType: string
+		lineageTag: 65451e2b-706c-8097-cc25-5abd05a62e33
+		summarizeBy: none
+		sourceColumn: address
+
+		annotation SummarizationSetBy = Automatic
+
+	column name
+		dataType: string
+		lineageTag: 022577b3-8499-dd7d-c43b-c2705208c514
+		summarizeBy: none
+		sourceColumn: name
+
+		annotation SummarizationSetBy = Automatic
+
+	column use
+		dataType: string
+		lineageTag: c58cd2e0-16f1-570f-2d9d-0bc5df94e8fc
+		summarizeBy: none
+		sourceColumn: use
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Buildings = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(GetFile("tables/buildings.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Kept = Table.SelectColumns(Promoted, {"structure_id", "lat", "lng", "year", "floors", "height_m", "parts", "match", "address", "name", "use"}),
+				    Typed = Table.TransformColumnTypes(Kept, {{"structure_id", type text}, {"lat", type number}, {"lng", type number}, {"year", Int64.Type}, {"floors", Int64.Type}, {"height_m", type number}, {"parts", Int64.Type}, {"match", type text}, {"address", type text}, {"name", type text}, {"use", type text}}, "en-AU")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

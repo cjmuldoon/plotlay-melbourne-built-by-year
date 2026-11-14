@@ -1,0 +1,69 @@
+table Decades
+	lineageTag: ec3d246e-363d-1bc4-ab5e-16e5c123737f
+
+	/// Buildings standing today, by the decade they were built
+	measure 'Buildings built' = SUM ( Decades[buildings] )
+		formatString: #,0
+		lineageTag: 8ef30e4b-8cb4-f0a8-6028-803e02cf3a95
+
+	/// Each part’s area times its height over 3.5 m a floor: to compare decades only
+	measure 'Floor space estimate m2' = SUM ( Decades[floor_m2_est] )
+		formatString: #,0
+		lineageTag: 8836d984-7d9d-8652-d1c9-ab805fb1cc10
+
+	column decade
+		dataType: string
+		lineageTag: b1439dda-4ab0-a761-814f-deb99619cf17
+		summarizeBy: none
+		sourceColumn: decade
+
+		annotation SummarizationSetBy = Automatic
+
+	column start
+		dataType: int64
+		formatString: 0
+		lineageTag: 65c37b28-43ca-ed0a-2910-d1a8b0f04c22
+		summarizeBy: none
+		sourceColumn: start
+
+		annotation SummarizationSetBy = Automatic
+
+	column buildings
+		dataType: int64
+		formatString: #,0
+		lineageTag: 6eaa4636-746e-be57-1c27-19c777dd3a70
+		summarizeBy: none
+		sourceColumn: buildings
+
+		annotation SummarizationSetBy = Automatic
+
+	column floor_m2_est
+		dataType: double
+		formatString: #,0
+		lineageTag: 04edd951-7eb3-e1e7-4cdb-24d43671e76e
+		summarizeBy: none
+		sourceColumn: floor_m2_est
+
+		annotation SummarizationSetBy = Automatic
+
+	column tallest_m
+		dataType: double
+		formatString: 0.0
+		lineageTag: 3eed0d7d-c0e5-1927-c582-45c6504389c5
+		summarizeBy: none
+		sourceColumn: tallest_m
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Decades = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(GetFile("tables/decades.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Kept = Table.SelectColumns(Promoted, {"decade", "start", "buildings", "floor_m2_est", "tallest_m"}),
+				    Typed = Table.TransformColumnTypes(Kept, {{"decade", type text}, {"start", Int64.Type}, {"buildings", Int64.Type}, {"floor_m2_est", type number}, {"tallest_m", type number}}, "en-AU")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

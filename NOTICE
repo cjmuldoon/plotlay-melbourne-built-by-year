@@ -1,0 +1,32 @@
+How Melbourne's city centre was built, year by year: the buildings standing in the City of Melbourne's CBD today, by
+the year they were built.
+Copyright 2026 Craig Muldoon. Made with Plotlay (https://www.getplotlay.com).
+
+This repository contains code, data we made, and data from the sources below.
+
+CODE
+  The notebook and the Power BI project (its Power Query, DAX and report files) are licensed under the MIT licence
+  (LICENSE).
+
+DATA WE MADE
+  The year joined to each footprint part in data/geometry/parts.geojson, the tables in data/tables/ and the pictures in
+  visuals/ are licensed under Creative Commons Attribution 4.0 International (LICENSE-DATA). Please credit: "Plotlay
+  (getplotlay.com), from City of Melbourne open data". They are made from the sources below, whose credits also apply.
+
+UPSTREAM SOURCES
+
+  City of Melbourne Open Data, data.melbourne.vic.gov.au. Licensed under Creative Commons Attribution 4.0
+  International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
+    - Building information (Census of Land Use and Employment, CLUE), census year 2024
+      https://data.melbourne.vic.gov.au/explore/dataset/buildings-with-name-age-size-accessibility-and-bicycle-facilities/
+    - 2023 Building Footprints
+      https://data.melbourne.vic.gov.au/explore/dataset/2023-building-footprints/
+    - Small Areas for Census of Land Use and Employment (CLUE) (the Melbourne (CBD) outline)
+      https://data.melbourne.vic.gov.au/explore/dataset/small-areas-for-census-of-land-use-and-employment-clue/
+    Changes: the CLUE rows for the Melbourne (CBD) small area, twelve of their columns kept; the footprint parts of
+    structures in the CBD kept, each part's height and base worked out from its elevations over its structure's base,
+    outlines simplified to about 15 cm; each structure given the construction year of the CLUE record inside it.
+
+  Base map in the Plotlay project: Commonwealth of Australia (Geoscience Australia), CC BY 4.0.
+
+This is independent work using open data, not endorsed by the City of Melbourne.

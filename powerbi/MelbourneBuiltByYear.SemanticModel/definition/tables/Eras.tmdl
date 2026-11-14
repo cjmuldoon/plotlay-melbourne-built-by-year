@@ -1,0 +1,98 @@
+table Eras
+	lineageTag: dc1fcb4a-84b0-b953-d488-f402c1991310
+
+	measure 'Era buildings' = SUM ( Eras[buildings] )
+		formatString: #,0
+		lineageTag: 0ec625e8-4de8-24ee-010c-118dcaca4b94
+
+	/// Estimate, to compare eras only
+	measure 'Era floor space m2' = SUM ( Eras[floor_m2_est] )
+		formatString: #,0
+		lineageTag: b402d0e4-6356-056c-05e1-4a274d3f17aa
+
+	measure 'Era floor share' = DIVIDE ( [Era floor space m2], CALCULATE ( [Era floor space m2], ALL ( Eras ) ) )
+		formatString: 0.0%
+		lineageTag: e75520ab-e5f1-7cbd-eda7-1f7e78272a31
+
+	column era
+		dataType: string
+		lineageTag: 958be0b4-67ea-90e7-2b54-10cd40164bde
+		summarizeBy: none
+		sourceColumn: era
+
+		annotation SummarizationSetBy = Automatic
+
+	column label
+		dataType: string
+		lineageTag: d7574453-690f-d9d3-55ad-a9e9de240046
+		summarizeBy: none
+		sourceColumn: label
+
+		annotation SummarizationSetBy = Automatic
+
+	column from
+		dataType: int64
+		formatString: 0
+		lineageTag: 9f67a5b6-8dc7-a8bb-485f-54665f0b389a
+		summarizeBy: none
+		sourceColumn: from
+
+		annotation SummarizationSetBy = Automatic
+
+	column to
+		dataType: int64
+		formatString: 0
+		lineageTag: 2e78cc3e-56b6-65d0-d783-05abf0cf4fb1
+		summarizeBy: none
+		sourceColumn: to
+
+		annotation SummarizationSetBy = Automatic
+
+	column buildings
+		dataType: int64
+		formatString: #,0
+		lineageTag: c062f22b-003e-4c29-3dad-316fc47d2d32
+		summarizeBy: none
+		sourceColumn: buildings
+
+		annotation SummarizationSetBy = Automatic
+
+	column share_of_dated
+		dataType: double
+		formatString: 0.0%
+		lineageTag: 03efffcb-4951-5a99-e33b-e1f4ba41e5ee
+		summarizeBy: none
+		sourceColumn: share_of_dated
+
+		annotation SummarizationSetBy = Automatic
+
+	column floor_m2_est
+		dataType: double
+		formatString: #,0
+		lineageTag: 75254de0-6f04-ff04-a4b9-c585941b464b
+		summarizeBy: none
+		sourceColumn: floor_m2_est
+
+		annotation SummarizationSetBy = Automatic
+
+	column median_height_m
+		dataType: double
+		formatString: 0.0
+		lineageTag: c906790e-e260-410c-33e4-1029185d3570
+		summarizeBy: none
+		sourceColumn: median_height_m
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Eras = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(GetFile("tables/eras.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Kept = Table.SelectColumns(Promoted, {"era", "label", "from", "to", "buildings", "share_of_dated", "floor_m2_est", "median_height_m"}),
+				    Typed = Table.TransformColumnTypes(Kept, {{"era", type text}, {"label", type text}, {"from", Int64.Type}, {"to", Int64.Type}, {"buildings", Int64.Type}, {"share_of_dated", type number}, {"floor_m2_est", type number}, {"median_height_m", type number}}, "en-AU")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

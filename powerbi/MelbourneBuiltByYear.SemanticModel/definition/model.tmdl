@@ -1,0 +1,16 @@
+model Model
+	culture: en-AU
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-AU
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation PBI_QueryOrder = ["DataFolder","GetFile","Buildings","Decades","Eras"]
+annotation __PBI_TimeIntelligenceEnabled = 0
+
+ref table Buildings
+ref table Decades
+ref table Eras
+
+ref cultureInfo en-AU
